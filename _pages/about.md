@@ -16,12 +16,12 @@ I continue to do a lot of research and writing because of my particular ministry
 
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
-    <img src="/nomod/images/bigbend1.jpg" loading="lazy">
-    <img src="/nomod/images/kayak1.jpg" loading="lazy">
-    <img src="/nomod/images/houston1.jpg" loading="lazy">
-    <img src="/nomod/images/bigbend3.jpg" loading="lazy">
-    <img src="/nomod/images/kayak4.jpg" loading="lazy">
-    <img src="/nomod/images/sandiego1.jpg" loading="lazy">
+    <img src="/images/photos/bigbend1.jpg" loading="lazy">
+    <img src="/images/photos/kayak1.jpg" loading="lazy">
+    <img src="/images/photos/houston1.jpg" loading="lazy">
+    <img src="/images/photos/bigbend3.jpg" loading="lazy">
+    <img src="/images/photos/kayak4.jpg" loading="lazy">
+    <img src="/images/photos/sandiego1.jpg" loading="lazy">
   </div>
   <em>Some photos from my travel.</em>
 </div>
