@@ -68,15 +68,18 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: Hello, I’m Giana
-  about_subtitle: I’m a thinker and storyteller with a passion for exploring the intersection of creativity and technology
+  about_title: Hello, I’m Keelan.
+  about_subtitle: I serve as the George Liele Director of the Center for Great Commission Studies at Southeastern Baptist Theological Seminary
   about_description: |
-    Giana Franci’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
+    I also serve as instructor of missiology at the seminary. Previously, I served as the Associate Director for the Union Baptist Association in Houston, TX. 
 
-    It’s a journey through the thoughts and experiences that shape her world. Giana’s work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. She sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
-  about_image: "/images/01.jpg"
-  about_image_alt: Daryl Mercer
-  about_button_text: Meet our team
+    My areas of focus cover both North American and International missions. I teach and write on church renewal and replanting as well as developing healthy sending culture in churches. I have a passion for mobilizing the church to the nations, and a love for missions history. 
+
+    I lead the Peoples Next Door project, which is an initiative to equip local churches in North America to engage in cross-cultural missions among the least-reached peoples that now live in our communities. I've been a church planter in West Africa with the IMB and facilitated ethnographic research in Washington, DC with NAMB.
+
+  about_image: "/images/keelan-headshot.jpeg"
+  about_image_alt: Keelan Cook
+  about_button_text: More about me
   about_button_link: "/about/"
 
 
@@ -105,12 +108,10 @@ footer_description: Join us on a journey where every post brings a fresh perspec
 
 # Social Links
 social:
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com/keelancook"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/keelancook"}
+- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/keelancook.com"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://www.dribbble.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -119,7 +120,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: your@email.com # Add your form_id
+  form_id: kcook@sebts.edu # Add your form_id
   title: Contact Us
   description: Nomod comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
   button_text: Send now
