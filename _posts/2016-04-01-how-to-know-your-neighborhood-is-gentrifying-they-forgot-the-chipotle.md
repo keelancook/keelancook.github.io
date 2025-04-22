@@ -2,7 +2,7 @@
 layout: post
 title: "How to know your neighborhood is gentrifying. (They forgot the Chipotle.)"
 date: "2016-04-01"
-categories: 
+tags: 
   - "church planting"
   - "demographics"
   - "missions"

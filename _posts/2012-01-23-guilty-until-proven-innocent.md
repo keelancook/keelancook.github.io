@@ -2,7 +2,7 @@
 layout: post
 title: "Guilty until Proven Innocent, but That is Not a Bad Thing"
 date: "2012-01-23"
-categories: 
+tags: 
   - "bible study"
   - "culture"
   - "discipleship"

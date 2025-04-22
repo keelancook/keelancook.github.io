@@ -2,7 +2,7 @@
 layout: post
 title: "Down the rabbit hole"
 date: "2011-01-17"
-categories: 
+tags: 
   - "aha moments"
   - "bible study"
   - "discipleship"

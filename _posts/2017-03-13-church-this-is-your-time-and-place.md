@@ -2,7 +2,7 @@
 layout: post
 title: "Church, This is Your Time... and Place"
 date: "2017-03-13"
-categories: 
+tags: 
   - "church"
   - "contextualization"
   - "missions"

@@ -2,7 +2,7 @@
 layout: post
 title: "An Orderly Account"
 date: "2011-10-03"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
   - "church"

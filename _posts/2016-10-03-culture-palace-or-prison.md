@@ -2,7 +2,7 @@
 layout: post
 title: "Culture: Palace or Prison?"
 date: "2016-10-03"
-categories: 
+tags: 
   - "contextualization"
   - "culture"
   - "missions"

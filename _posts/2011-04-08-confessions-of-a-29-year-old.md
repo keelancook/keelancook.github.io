@@ -2,7 +2,7 @@
 layout: post
 title: "Confessions of a 29-year-old"
 date: "2011-04-08"
-categories: 
+tags: 
   - "discipleship"
 author: keelan
 featured: false

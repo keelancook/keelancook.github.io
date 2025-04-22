@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming in: \"The Unreached at Home\""
 date: "2015-09-16"
-categories: 
+tags: 
   - "church planting"
   - "gospel"
   - "missions"

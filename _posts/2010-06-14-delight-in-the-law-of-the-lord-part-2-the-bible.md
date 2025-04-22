@@ -2,7 +2,7 @@
 layout: post
 title: "Delight in the Law of the Lord: Part 2 – The Bible"
 date: "2010-06-14"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

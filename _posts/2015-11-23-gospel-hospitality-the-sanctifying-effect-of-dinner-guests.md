@@ -2,7 +2,7 @@
 layout: post
 title: "Gospel Hospitality: The Sanctifying Effect of Dinner Guests"
 date: "2015-11-23"
-categories: 
+tags: 
   - "evangelism"
   - "gospel"
   - "hospitality"

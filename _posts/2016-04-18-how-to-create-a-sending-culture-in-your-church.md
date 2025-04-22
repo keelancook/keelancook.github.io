@@ -2,7 +2,7 @@
 layout: post
 title: "How to Create a Sending Culture in Your Church."
 date: "2016-04-18"
-categories: 
+tags: 
   - "church planting"
   - "church"
   - "missions"

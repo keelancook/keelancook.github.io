@@ -2,7 +2,7 @@
 layout: post
 title: "Dwelling on the things that are not"
 date: "2010-11-26"
-categories: 
+tags: 
   - "aha moments"
 author: keelan
 featured: false

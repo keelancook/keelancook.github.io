@@ -2,7 +2,7 @@
 layout: post
 title: "From the archives: A Right to Secrecy"
 date: "2015-10-28"
-categories: 
+tags: 
   - "church"
   - "church planting"
   - "missions"

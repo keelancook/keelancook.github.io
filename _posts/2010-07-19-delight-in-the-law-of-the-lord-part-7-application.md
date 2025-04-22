@@ -2,7 +2,7 @@
 layout: post
 title: "Delight in the Law of the Lord: Part 7 – Application"
 date: "2010-07-19"
-categories: 
+tags: 
   - "bible study"
   - "culture"
   - "discipleship"

@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming in: \"A church is not a random sampling of the place it is in\""
 date: "2015-09-30"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "pastoral ministry"

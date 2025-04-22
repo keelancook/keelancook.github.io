@@ -2,7 +2,7 @@
 layout: post
 title: "Are We Really Loving Our Neighbors as We Should?"
 date: "2016-06-27"
-categories: 
+tags: 
   - "great commission"
   - "missions"
 author: keelan

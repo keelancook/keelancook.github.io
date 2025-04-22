@@ -2,7 +2,7 @@
 layout: post
 title: "Do You Read the Bible With Unbelievers?"
 date: "2016-10-07"
-categories: 
+tags: 
   - "bible study"
   - "evangelism"
   - "missions"

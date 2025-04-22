@@ -2,7 +2,7 @@
 layout: post
 title: "Biblically Faithful or Culturally Relevant: Why not both?"
 date: "2016-09-28"
-categories: 
+tags: 
   - "church"
   - "contextualization"
   - "missions"

@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming in: \"How our housing choices make adult friendships more difficult\""
 date: "2015-11-11"
-categories:
+tags:
   - "demographics"
 author: keelan
 featured: false

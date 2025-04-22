@@ -2,7 +2,7 @@
 layout: post
 title: "Evangelize out of Joy, not Guilt"
 date: "2016-12-16"
-categories: 
+tags: 
   - "church"
   - "evangelism"
   - "gospel"

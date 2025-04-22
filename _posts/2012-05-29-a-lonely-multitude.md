@@ -2,7 +2,7 @@
 layout: post
 title: "A lonely multitude: Loneliness is not a location issue, it is a heart issue"
 date: "2012-05-29"
-categories: 
+tags: 
   - "church planting"
   - "culture"
   - "discipleship"

@@ -2,7 +2,7 @@
 layout: post
 title: "Falling into the Gambler's Fallacy in Church Ministry"
 date: "2017-10-12"
-categories: 
+tags: 
   - "missions"
   - "missions strategy"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "Eric Mason Delivers an Excellent Word on Diversity"
 date: "2016-03-04"
-categories: 
+tags: 
   - "church planting"
   - "peoples next door"
 author: keelan

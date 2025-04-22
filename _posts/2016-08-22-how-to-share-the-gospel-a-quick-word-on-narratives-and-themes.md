@@ -2,7 +2,7 @@
 layout: post
 title: "How to Share the Gospel: A Quick Word on Narratives and Themes"
 date: "2016-08-22"
-categories: 
+tags: 
   - "evangelism"
   - "missions"
 author: keelan

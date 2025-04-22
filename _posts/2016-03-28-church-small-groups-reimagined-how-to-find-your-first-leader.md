@@ -2,7 +2,7 @@
 layout: post
 title: "Church Small Groups Reimagined: How to Find Your First Leaders"
 date: "2016-03-28"
-categories: 
+tags: 
   - "church planting"
   - "evangelism"
   - "missions"

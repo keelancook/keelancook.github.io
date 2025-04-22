@@ -2,7 +2,7 @@
 layout: post
 title: "A Japanese Perspective on American Christianity from 1926"
 date: "2017-04-24"
-categories: 
+tags: 
   - "gospel"
   - "missions"
   - "history"

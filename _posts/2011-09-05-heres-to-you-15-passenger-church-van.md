@@ -2,7 +2,7 @@
 layout: post
 title: "Here's to you: 15-passenger church van"
 date: "2011-09-05"
-categories: 
+tags: 
   - "church"
   - "funny"
   - "heres to you"

@@ -2,7 +2,7 @@
 layout: post
 title: "Anyone Can Learn These Three Phrases in Another Language"
 date: "2016-01-22"
-categories: 
+tags: 
   - "church"
   - "church planting"
   - "great commission"

@@ -2,7 +2,7 @@
 layout: post
 title: "Immigration may beat a century-old record"
 date: "2017-05-08"
-categories: 
+tags: 
   - "diaspora"
   - "church"
   - "history"

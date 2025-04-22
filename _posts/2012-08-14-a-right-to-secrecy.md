@@ -2,7 +2,7 @@
 layout: post
 title: "A Right to Secrecy"
 date: "2012-08-14"
-categories: 
+tags: 
   - "discipleship"
   - "church"
 author: keelan

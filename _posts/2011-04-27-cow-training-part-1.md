@@ -2,7 +2,7 @@
 layout: post
 title: "Cow training - Part 1"
 date: "2011-04-27"
-categories: 
+tags: 
   - "aha moments"
   - "bible study"
   - "culture"

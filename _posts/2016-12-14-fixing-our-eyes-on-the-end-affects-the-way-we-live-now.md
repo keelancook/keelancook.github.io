@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing Our Eyes on the End Affects the Way We Live Now"
 date: "2016-12-14"
-categories: 
+tags: 
   - "christ"
   - "eschatology"
   - "evangelism"

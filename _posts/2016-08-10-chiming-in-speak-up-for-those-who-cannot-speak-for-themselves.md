@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming In: \"Speak up for those who cannot speak for themselves.\""
 date: "2016-08-10"
-categories: 
+tags: 
   - "missions"
   - "resources"
 author: keelan

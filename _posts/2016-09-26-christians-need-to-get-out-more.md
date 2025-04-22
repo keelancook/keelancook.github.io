@@ -2,7 +2,7 @@
 layout: post
 title: "Christians Need To Get Out More"
 date: "2016-09-26"
-categories: 
+tags: 
   - "evangelism"
   - "gospel"
   - "missions"

@@ -2,7 +2,7 @@
 layout: post
 title: "Bourdain Tastes the Nations... in Houston (VIDEO)"
 date: "2016-11-02"
-categories: 
+tags: 
   - "church planting"
   - "culture"
   - "diaspora"

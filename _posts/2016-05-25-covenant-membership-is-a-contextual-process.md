@@ -2,7 +2,7 @@
 layout: post
 title: "Covenant Membership is a Contextual Process"
 date: "2016-05-25"
-categories:
+tags:
   - "church membership"
   - "contextualization"
   - "church"

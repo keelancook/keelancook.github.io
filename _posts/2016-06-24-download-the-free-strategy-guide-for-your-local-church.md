@@ -2,7 +2,7 @@
 layout: post
 title: "Download the Free Strategy Guide for Your Local Church"
 date: "2016-06-24"
-categories:
+tags:
   - "peoples next door"
   - "diaspora"
   - "missions"

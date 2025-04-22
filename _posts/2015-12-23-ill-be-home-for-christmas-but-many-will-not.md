@@ -2,7 +2,7 @@
 layout: post
 title: "I'll Be Home for Christmas, But Many Will Not"
 date: "2015-12-23"
-categories: 
+tags: 
   - "immigration"
   - "missions"
   - "peoples next door"

@@ -2,7 +2,7 @@
 layout: post
 title: "At the Master's Knees"
 date: "2012-04-30"
-categories: 
+tags: 
   - "bible-study"
   - "discipleship"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "From the Archive: A lonely multitude"
 date: "2015-11-18"
-categories: 
+tags: 
   - "church planting"
   - "gospel"
   - "peoples next door"

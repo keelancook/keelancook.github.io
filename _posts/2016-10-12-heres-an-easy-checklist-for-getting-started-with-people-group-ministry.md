@@ -2,7 +2,7 @@
 layout: post
 title: "Here's an Easy Checklist for Getting Started with People Group Ministry"
 date: "2016-10-12"
-categories:
+tags:
   - "diaspora"
   - "peoples next door"
   - "immigration"

@@ -2,7 +2,7 @@
 layout: post
 title: "Church Planting: Focus on the Forest Instead of the Trees"
 date: "2016-04-11"
-categories: 
+tags: 
   - "church planting"
   - "gospel"
   - "revitalization"

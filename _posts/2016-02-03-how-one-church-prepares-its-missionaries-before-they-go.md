@@ -2,7 +2,7 @@
 layout: post
 title: "How One Church Prepares Its Missionaries Before They Go"
 date: "2016-02-03"
-categories: 
+tags: 
   - "church"
   - "discipleship"
   - "great commission"

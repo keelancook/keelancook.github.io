@@ -2,7 +2,7 @@
 layout: post
 title: "Free Resource: Assess Your Church from Multiple Perspectives"
 date: "2018-03-05"
-categories: 
+tags: 
   - "church"
   - "revitalization"
   - "missions"

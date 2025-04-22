@@ -2,7 +2,7 @@
 layout: post
 title: "Hospitality is Hard, But You Should Do it Anyway"
 date: "2016-03-09"
-categories: 
+tags: 
   - "church"
   - "evangelism"
   - "hospitality"

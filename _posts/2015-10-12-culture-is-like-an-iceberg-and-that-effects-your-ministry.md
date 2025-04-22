@@ -2,7 +2,7 @@
 layout: post
 title: "Culture is like an iceberg, and that affects your ministry"
 date: "2015-10-12"
-categories: 
+tags: 
   - "church planting"
   - "culture"
   - "missions"

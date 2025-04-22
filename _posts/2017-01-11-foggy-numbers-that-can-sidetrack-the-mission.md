@@ -2,7 +2,7 @@
 layout: post
 title: "Foggy Numbers that can Sidetrack the Mission"
 date: "2017-01-11"
-categories: 
+tags: 
   - "church"
   - "church membership"
   - "missions"

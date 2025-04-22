@@ -2,7 +2,7 @@
 layout: post
 title: "An ellipsis in life"
 date: "2011-10-10"
-categories: 
+tags: 
   - "discipleship"
 author: keelan
 featured: false

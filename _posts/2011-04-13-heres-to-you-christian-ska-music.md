@@ -2,7 +2,7 @@
 layout: post
 title: "Here's to you: Christian ska music"
 date: "2011-04-13"
-categories: 
+tags: 
   - "culture"
   - "funny"
   - "heres to you"

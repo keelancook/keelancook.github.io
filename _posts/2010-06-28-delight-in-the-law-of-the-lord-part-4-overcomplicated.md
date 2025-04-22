@@ -2,7 +2,7 @@
 layout: post
 title: "Delight in the Law of the Lord: Part 4 - Overcomplicated?"
 date: "2010-06-28"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

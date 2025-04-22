@@ -2,7 +2,7 @@
 layout: post
 title: "How to Survive the Church as an Introvert"
 date: "2016-01-04"
-categories: 
+tags: 
   - "church"
   - "missions"
   - "evangelism"

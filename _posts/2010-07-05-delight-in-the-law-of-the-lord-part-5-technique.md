@@ -2,7 +2,7 @@
 layout: post
 title: "Delight in the Law of the Lord: Part 5 - Technique"
 date: "2010-07-05"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

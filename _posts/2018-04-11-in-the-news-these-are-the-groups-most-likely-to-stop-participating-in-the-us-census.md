@@ -2,7 +2,7 @@
 layout: post
 title: "In the News: These are the groups most likely to stop participating in the US census"
 date: "2018-04-11"
-categories: 
+tags: 
   - "immigration"
   - "missions"
   - "diaspora"

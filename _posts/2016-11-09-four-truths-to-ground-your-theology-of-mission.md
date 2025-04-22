@@ -2,7 +2,7 @@
 layout: post
 title: "Four Truths to Ground Your Theology of Mission"
 date: "2016-11-09"
-categories: 
+tags: 
   - "christ"
   - "church"
   - "eschatology"

@@ -2,7 +2,7 @@
 layout: post
 title: "A Warning Concerning Religious Categories"
 date: "2016-12-05"
-categories: 
+tags: 
   - "culture"
   - "gospel"
   - "Islam"

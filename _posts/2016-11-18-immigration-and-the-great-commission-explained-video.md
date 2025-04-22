@@ -2,7 +2,7 @@
 layout: post
 title: "Immigration and the Great Commission Explained (VIDEO)"
 date: "2016-11-18"
-categories: 
+tags: 
   - "missions"
   - "diaspora"
   - "great commission"

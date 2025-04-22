@@ -2,7 +2,7 @@
 layout: post
 title: "Addressing the State of Our Union"
 date: "2011-01-28"
-categories: 
+tags: 
   - "culture"
 author: keelan
 featured: false

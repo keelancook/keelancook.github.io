@@ -2,7 +2,7 @@
 layout: post
 title: "Common Questions about ESL and Church Planting"
 date: "2018-05-10"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "immigration"

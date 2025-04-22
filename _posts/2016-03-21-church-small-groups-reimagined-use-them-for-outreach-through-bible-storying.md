@@ -2,7 +2,7 @@
 layout: post
 title: "Church Small Groups Reimagined: Use Them for Outreach Through Bible Storying"
 date: "2016-03-21"
-categories: 
+tags: 
   - "church"
   - "evangelism"
   - "gospel"

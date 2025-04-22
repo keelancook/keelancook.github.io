@@ -2,7 +2,7 @@
 layout: post
 title: "A word of caution concerning \"Relationship Evangelism\""
 date: "2015-09-18"
-categories: 
+tags: 
   - "evangelism"
   - "great commission"
   - "missions"

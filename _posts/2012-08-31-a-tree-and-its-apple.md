@@ -2,7 +2,7 @@
 layout: post
 title: "A tree and its apple"
 date: "2012-08-31"
-categories: 
+tags: 
   - "discipleship"
 author: keelan
 featured: false

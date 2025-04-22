@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming In: The Story of One Texas Church's Road to Evangelism"
 date: "2017-10-16"
-categories: 
+tags: 
   - "evangelism"
   - "gospel"
   - "discipleship"

@@ -2,7 +2,7 @@
 layout: post
 title: "A Word of Advice from the Father of Missions"
 date: "2016-02-29"
-categories: 
+tags: 
   - "great commission"
   - "missions"
 author: keelan

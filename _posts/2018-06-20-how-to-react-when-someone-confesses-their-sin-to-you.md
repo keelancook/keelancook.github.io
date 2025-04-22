@@ -2,7 +2,7 @@
 layout: post
 title: "How to React When Someone Confesses Their Sin to You"
 date: "2018-06-20"
-categories: 
+tags: 
   - "church"
   - "pastoral ministry"
 author: meredith

@@ -2,7 +2,7 @@
 layout: post
 title: "Counting the Cost"
 date: "2010-02-06"
-categories:
+tags:
   - "bible study"
   - "discipleship"
 author: keelan

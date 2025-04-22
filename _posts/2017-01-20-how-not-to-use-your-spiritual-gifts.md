@@ -2,7 +2,7 @@
 layout: post
 title: "How Not to Use Your Spiritual Gifts"
 date: "2017-01-20"
-categories: 
+tags: 
   - "church"
   - "discipleship"
   - "evangelism"

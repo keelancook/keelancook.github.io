@@ -2,7 +2,7 @@
 layout: post
 title: "Christian, Get Out of the Bubble"
 date: "2016-10-31"
-categories: 
+tags: 
   - "church"
   - "church planting"
   - "evangelism"

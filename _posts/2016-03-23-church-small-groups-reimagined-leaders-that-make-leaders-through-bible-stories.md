@@ -2,7 +2,7 @@
 layout: post
 title: "Church Small Groups Reimagined: Leaders That Make Leaders Through Bible Stories"
 date: "2016-03-23"
-categories: 
+tags: 
   - "church"
   - "discipleship"
   - "evangelism"

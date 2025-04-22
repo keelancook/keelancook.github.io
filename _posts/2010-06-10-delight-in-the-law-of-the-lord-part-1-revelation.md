@@ -2,7 +2,7 @@
 layout: post
 title: "Delight in the Law of the Lord: Part 1 - Revelation"
 date: "2010-06-10"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

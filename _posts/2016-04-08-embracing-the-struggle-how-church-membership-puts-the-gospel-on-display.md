@@ -2,7 +2,7 @@
 layout: post
 title: "Embracing the Struggle: How Church Membership Puts the Gospel on Display"
 date: "2016-04-08"
-categories: 
+tags: 
   - "church"
   - "church membership"
   - "gospel"

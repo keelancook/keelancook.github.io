@@ -2,7 +2,7 @@
 layout: post
 title: "In the News: \"Somali Refugee Makes History In U.S. Election\""
 date: "2016-11-14"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "demographics"

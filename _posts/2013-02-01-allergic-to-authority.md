@@ -2,7 +2,7 @@
 layout: post
 title: "Allergic to Authority"
 date: "2013-02-01"
-categories: 
+tags: 
   - "bible study"
   - "christ"
   - "discipleship"

@@ -2,7 +2,7 @@
 author: keelan
 title: "The Good News of Community: Why do we dislike the church?"
 date: "2012-11-28"
-categories: 
+tags: 
   - "church"
   - "discipleship"
 author: keelan

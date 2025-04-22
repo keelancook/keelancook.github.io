@@ -2,7 +2,7 @@
 layout: post
 title: "Global Cities: The Roman Roads of the 21st Century"
 date: "2017-03-20"
-categories: 
+tags: 
   - "church planting"
   - "diaspora"
   - "missions"

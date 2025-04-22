@@ -2,7 +2,7 @@
 layout: post
 title: "Did Paul Want to be a Missionary?"
 date: "2012-03-19"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
   - "missions"

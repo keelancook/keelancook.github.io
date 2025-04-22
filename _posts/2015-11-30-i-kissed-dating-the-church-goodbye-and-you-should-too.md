@@ -2,7 +2,7 @@
 layout: post
 title: "I Kissed \"Dating the Church\" Goodbye, and You Should Too"
 date: "2015-11-30"
-categories: 
+tags: 
   - "church"
   - "missions"
 author: keelan

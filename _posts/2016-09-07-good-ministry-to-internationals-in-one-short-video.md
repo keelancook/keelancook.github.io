@@ -2,7 +2,7 @@
 layout: post
 title: "Good Ministry to Internationals in One, Short Video"
 date: "2016-09-07"
-categories: 
+tags: 
   - "bible study"
   - "diaspora"
   - "evangelism"

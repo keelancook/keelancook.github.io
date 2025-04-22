@@ -2,7 +2,7 @@
 layout: post
 title: "In the News: \"St. Louis Shows Biggest Gain in Foreign-Born Population of 20 Largest Metros\""
 date: "2016-10-10"
-categories: 
+tags: 
   - "immigration"
   - "missions"
   - "diaspora"

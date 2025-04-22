@@ -2,7 +2,7 @@
 layout: post
 title: "Four Online Resources for Demographics on Your Community"
 date: "2018-02-15"
-categories: 
+tags: 
   - "missions"
   - "demographics"
   - "resources"

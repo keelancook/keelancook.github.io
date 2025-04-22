@@ -2,7 +2,7 @@
 layout: post
 title: "Culture in 5 Easy-to-Understand Categories"
 date: "2015-10-23"
-categories: 
+tags: 
   - "church planting"
   - "culture"
   - "missions"

@@ -2,7 +2,7 @@
 layout: post
 title: "How far is too far?"
 date: "2012-12-31"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

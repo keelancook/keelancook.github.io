@@ -2,7 +2,7 @@
 layout: post
 title: "A Thank You to Pastors (And an Encouragement to Their Members)"
 date: "2018-01-16"
-categories: 
+tags: 
   - "church"
   - "pastoral ministry"
 author: meredith

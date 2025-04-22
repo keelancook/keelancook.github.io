@@ -2,7 +2,7 @@
 layout: post
 title: "An Appeal to Young Southern Baptists"
 date: "2016-06-17"
-categories: 
+tags: 
   - "cooperation"
   - "missions"
 author: keelan

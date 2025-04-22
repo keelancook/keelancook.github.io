@@ -2,7 +2,7 @@
 layout: post
 title: "Discipleship is Being on Mission and Taking Others With You"
 date: "2016-08-15"
-categories: 
+tags: 
   - "discipleship"
   - "missions"
 author: keelan

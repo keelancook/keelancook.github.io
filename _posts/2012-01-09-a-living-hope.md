@@ -2,7 +2,7 @@
 layout: post
 title: "A living Hope"
 date: "2012-01-09"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

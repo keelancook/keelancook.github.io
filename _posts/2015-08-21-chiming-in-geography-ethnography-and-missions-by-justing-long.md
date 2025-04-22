@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming in: \"Geography, Ethnography and Missions\" by Justin Long"
 date: "2015-08-21"
-categories: 
+tags: 
   - "church planting"
   - "contextualization"
   - "missions"

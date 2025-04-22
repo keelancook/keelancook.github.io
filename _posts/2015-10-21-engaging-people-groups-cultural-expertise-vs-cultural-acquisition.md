@@ -2,7 +2,7 @@
 layout: post
 title: "Engaging People Groups: Cultural Expertise vs. Cultural Acquisition"
 date: "2015-10-21"
-categories: 
+tags: 
   - "church"
   - "church planting"
   - "culture"

@@ -2,7 +2,7 @@
 layout: post
 title: "Building Scarecrows"
 date: "2011-11-29"
-categories: 
+tags: 
   - "christ"
   - "discipleship"
 author: keelan

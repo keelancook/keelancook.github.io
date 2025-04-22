@@ -1,7 +1,7 @@
 ---
 title: "Condescension Poisons the Mission"
 date: "2017-08-17"
-categories: 
+tags: 
   - "missions"
 author: keelan
 featured: false

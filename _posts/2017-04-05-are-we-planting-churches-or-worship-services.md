@@ -2,7 +2,7 @@
 layout: post
 title: "Are we Planting Churches or Worship Services?"
 date: "2017-04-05"
-categories: 
+tags: 
   - "church planting"
   - "missions"
 author: keelan

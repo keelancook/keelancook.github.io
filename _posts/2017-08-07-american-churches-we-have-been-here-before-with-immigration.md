@@ -2,7 +2,7 @@
 layout: post
 title: "American churches, we have been here before with immigration."
 date: "2017-08-07"
-categories: 
+tags: 
   - "missions"
   - "immigration"
   - "diaspora"

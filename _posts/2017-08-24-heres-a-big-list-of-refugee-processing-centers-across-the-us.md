@@ -2,7 +2,7 @@
 layout: post
 title: "Here's a Big List of Refugee Processing Centers Across the US"
 date: "2017-08-24"
-categories: 
+tags: 
   - "immigration"
   - "diaspora"
   - "peoples next door"

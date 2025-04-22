@@ -2,7 +2,7 @@
 layout: post
 title: "Church Planter, Don't Lose Your Integrity in Fundraising"
 date: "2017-04-12"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "pastoral ministry"

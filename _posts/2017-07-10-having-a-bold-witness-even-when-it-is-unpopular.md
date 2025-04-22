@@ -2,7 +2,7 @@
 layout: post
 title: "Having a Bold Witness, Even When It Is Unpopular"
 date: "2017-07-10"
-categories: 
+tags: 
   - "evangelism"
   - "missions"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "Concerned about refugees? The GC2 Summit may be for you."
 date: "2015-12-16"
-categories: 
+tags: 
   - "church planting"
   - "immigration"
   - "missions"

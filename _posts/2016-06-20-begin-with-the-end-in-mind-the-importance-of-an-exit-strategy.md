@@ -2,7 +2,7 @@
 layout: post
 title: "Begin with the End in Mind: The Importance of an Exit Strategy"
 date: "2016-06-20"
-categories: 
+tags: 
   - "church"
   - "missions"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "Already, but not yet - Part 1"
 date: "2013-05-14"
-categories: 
+tags: 
   - "christ"
   - "kingdom"
   - "church"

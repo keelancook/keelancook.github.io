@@ -2,7 +2,7 @@
 layout: post
 title: "Already, but not yet - Part 3"
 date: "2013-06-09"
-categories: 
+tags: 
   - "christ"
   - "kingdom"
   - "mission of god"

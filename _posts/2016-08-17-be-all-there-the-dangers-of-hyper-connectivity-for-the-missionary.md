@@ -2,7 +2,7 @@
 layout: post
 title: "Be All There: The Dangers of Hyper-connectivity for the Missionary"
 date: "2016-08-17"
-categories: 
+tags: 
   - "missions"
   - "social media"
 author: keelan

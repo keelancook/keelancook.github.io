@@ -2,7 +2,7 @@
 layout: post
 title: "Baptist Witchcraft"
 date: "2011-10-24"
-categories: 
+tags: 
   - "christ"
   - "church"
   - "pastoral ministry"

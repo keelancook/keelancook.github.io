@@ -2,7 +2,7 @@
 layout: post
 title: "Here's a fun way to understand people group communities"
 date: "2015-09-21"
-categories: 
+tags: 
   - "church planting"
   - "diaspora"
   - "missions"

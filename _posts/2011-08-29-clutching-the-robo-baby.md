@@ -2,7 +2,7 @@
 layout: post
 title: "Clutching the robo-baby"
 date: "2011-08-29"
-categories: 
+tags: 
   - "aha moments"
   - "discipleship"
   - "church"

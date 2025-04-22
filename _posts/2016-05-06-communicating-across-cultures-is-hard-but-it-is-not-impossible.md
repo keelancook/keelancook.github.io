@@ -2,7 +2,7 @@
 layout: post
 title: "Communicating across cultures is hard, but it is not impossible."
 date: "2016-05-06"
-categories: 
+tags: 
   - "bible study"
   - "contextualization"
   - "gospel"

@@ -2,7 +2,7 @@
 layout: post
 title: "Foggy Words that can Sidetrack the Mission"
 date: "2017-01-04"
-categories: 
+tags: 
   - "missions strategy"
   - "discipleship"
   - "missions"

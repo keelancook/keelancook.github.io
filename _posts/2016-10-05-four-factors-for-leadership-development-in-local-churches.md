@@ -2,7 +2,7 @@
 layout: post
 title: "Four Factors for Leadership Development in Local Churches"
 date: "2016-10-05"
-categories: 
+tags: 
   - "church"
   - "leadership"
   - "missions"

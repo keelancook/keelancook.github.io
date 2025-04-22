@@ -2,7 +2,7 @@
 layout: post
 title: "Gifts that differ: What will you be today?"
 date: "2010-10-30"
-categories: 
+tags: 
   - "aha moments"
   - "bible study"
   - "culture"

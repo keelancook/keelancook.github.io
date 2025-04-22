@@ -2,7 +2,7 @@
 layout: post
 title: "Does your church have a family tree?"
 date: "2016-10-26"
-categories: 
+tags: 
   - "church planting"
   - "missions"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "In the News: \"Demographic Destiny: 2050\""
 date: "2015-12-14"
-categories: 
+tags: 
   - "church planting"
   - "demographics"
   - "missions"

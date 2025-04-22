@@ -2,7 +2,7 @@
 layout: post
 title: "Here's to you!"
 date: "2011-03-26"
-categories: 
+tags: 
   - "culture"
   - "funny"
   - "heres to you"

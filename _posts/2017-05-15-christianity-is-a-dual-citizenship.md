@@ -2,7 +2,7 @@
 layout: post
 title: "Christianity is a Dual Citizenship"
 date: "2017-05-15"
-categories:
+tags:
   - "missions"
   - "contextualization"
 author: keelan

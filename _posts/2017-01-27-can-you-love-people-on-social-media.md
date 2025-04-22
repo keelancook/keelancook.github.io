@@ -2,7 +2,7 @@
 layout: post
 title: "Can You Love People on Social Media?"
 date: "2017-01-27"
-categories: 
+tags: 
   - "discipleship"
   - "social media"
 author: keelan

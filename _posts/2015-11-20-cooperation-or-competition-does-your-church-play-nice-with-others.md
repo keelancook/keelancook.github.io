@@ -2,7 +2,7 @@
 layout: post
 title: "Cooperation or Competition? Does Your Church Play Nice with Others?"
 date: "2015-11-20"
-categories: 
+tags: 
   - "church"
   - "church planting"
   - "peoples next door"

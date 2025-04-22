@@ -2,7 +2,7 @@
 layout: post
 title: "In the News: \"The end of suburban white flight\""
 date: "2015-08-26"
-categories: 
+tags: 
   - "demographics"
   - "missions"
   - "peoples next door"

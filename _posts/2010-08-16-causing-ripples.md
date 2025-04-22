@@ -2,7 +2,7 @@
 layout: post
 title: "Ephesus: Causing ripples"
 date: "2010-08-16"
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "Church is Not a Spectator Sport"
 date: "2016-09-02"
-categories: 
+tags: 
   - "church"
   - "discipleship"
   - "missions"

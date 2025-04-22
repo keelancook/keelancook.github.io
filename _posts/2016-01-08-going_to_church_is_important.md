@@ -2,7 +2,7 @@
 layout: post
 title: "Christian: Going to Church is Important, Your Understanding of the Bible Depends on It"
 date: "2016-01-08"
-categories: 
+tags: 
   - "bible study"
   - "church"
 author: keelan

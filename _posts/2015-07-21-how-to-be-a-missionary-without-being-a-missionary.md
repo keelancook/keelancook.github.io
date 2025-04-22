@@ -2,7 +2,7 @@
 layout: post
 title: "How to be a Missionary Without Being a \"Missionary\""
 date: "2015-07-21"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "peoples next door"

@@ -2,7 +2,7 @@
 layout: post
 title: "\"Gospel-centered\" Must Mean More Than the Preaching"
 date: "2017-11-14"
-categories: 
+tags: 
   - "evangelism"
   - "gospel"
   - "pastoral ministry"

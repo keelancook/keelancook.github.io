@@ -2,7 +2,7 @@
 layout: post
 title: "Chiming in: \"Learning to Love Foreigners Well\""
 date: "2015-12-07"
-categories: 
+tags: 
   - "church planting"
   - "contextualization"
   - "hospitality"

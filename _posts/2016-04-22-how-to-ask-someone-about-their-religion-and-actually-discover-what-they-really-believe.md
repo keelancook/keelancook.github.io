@@ -2,7 +2,7 @@
 layout: post
 title: "How to Ask Someone About Their Religion (And Actually Discover What They Really Believe)"
 date: "2016-04-22"
-categories: 
+tags: 
   - "evangelism"
   - "worldview"
 author: keelan

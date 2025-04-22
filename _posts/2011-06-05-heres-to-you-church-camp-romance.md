@@ -2,7 +2,7 @@
 layout: post
 title: "Here's to you: Church camp romance"
 date: "2011-06-05"
-categories: 
+tags: 
   - "funny"
   - "heres to you"
 author: keelan

@@ -2,7 +2,7 @@
 layout: post
 title: "Creatures of Habit"
 date: "2012-02-20"
-categories: 
+tags: 
   - "aha moments"
   - "bible study"
   - "discipleship"

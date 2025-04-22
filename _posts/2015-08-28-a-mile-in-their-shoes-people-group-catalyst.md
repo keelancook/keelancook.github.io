@@ -2,7 +2,7 @@
 layout: post
 title: "A Mile in Their Shoes: People Group Catalyst"
 date: "2015-08-28"
-categories: 
+tags: 
   - "church planting"
   - "culture"
   - "missions"

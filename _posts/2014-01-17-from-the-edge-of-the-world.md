@@ -2,7 +2,7 @@
 layout: post
 title: "From the edge of the world"
 date: "2014-01-17"
-categories:
+tags:
   - "aha moments"
 author: keelan
 featured: false
