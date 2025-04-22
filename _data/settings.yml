@@ -41,11 +41,11 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Stories, Journeys, and Ideas for the Creatively Curious
-  hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+  hero_title: Him We Proclaim
+  hero_description: A website for those who love the church and its mission. This blog is collection of articles that serve as helps for the church in accomplishing the Great Commission.
 
 hero_authors:
-  enable: true
+  enable: false
   hero_authors_description: Meet our talented team
 
 
