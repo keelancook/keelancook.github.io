@@ -103,14 +103,14 @@ mailchimp:
 
 #-------------------------------
 # Footer Settings
-footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+footer_description: The online home for the writings of Keelan Cook. A website for those who love the church and its mission. This site may earn from qualifying purchases as an Amazon Associate.
 
 
 # Social Links
 social:
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com/keelancook"}
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/keelancook"}
-- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/keelancook.com"}
+- {icon: "fas fa-pen-square", name: "Bluesky", link: "https://bsky.app/profile/keelancook.com"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}

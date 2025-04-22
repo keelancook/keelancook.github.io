@@ -4,7 +4,7 @@ title: Embracing a More Mindful Lifestyle
 description: Whether it’s spending time with loved ones, pursuing a passion, or simply enjoying a quiet moment, slow living encourages you to make space for what enriches your life.
 date: 2024-08-14 18:05:55 +0300
 author: daniel
-image: '/images/05.jpg'
+image: "https://images.unsplash.com/photo-1532968682779-218bea4f06c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags: [Lifestyle]
 featured: true
 toc: true
