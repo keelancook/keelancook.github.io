@@ -1,15 +1,15 @@
 ---
 username: admin
-name: Giana Franci
-image: '/images/100.jpg'
-location: London
-website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+name: Keelan Cook
+image: '/images/keelan-headshot.jpg'
+location: Wake Forest
+website: https://keelancook.com
+facebook: https://www.facebook.com/keelancook
+twitter: https://twitter.com/keelancook
+instagram: 
 pinterest:
 mastodon:
 youtube:
 tiktok:
 ---
-We live our lives through stories. I enjoy listening to a good story, and I take pride in crafting someone else’s.
+George Liele Director of the Center for Great Commission Studies and an instructor of missiology at Southeastern Baptist Theological Seminary

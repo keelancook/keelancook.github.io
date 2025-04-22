@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
+title: Projects
+permalink: /projects/
 image: '/images/18.jpg'
 image_caption: The future of virtual reality
 ---

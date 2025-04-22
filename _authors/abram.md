@@ -1,15 +1,15 @@
 ---
-username: abram
-name: Abram Lubin
-image: '/images/102.jpg'
-location: Austin
-website:
-facebook:
+username: keelan
+name: Keelan Cook
+image: '/images/keelan-headshot.jpeg'
+location: Wake Forest
+website: https://keelancook.com
+facebook: https://facebook.com/keelancook
 twitter:
-instagram: https://www.instagram.com
+instagram: 
 pinterest:
-mastodon: https://mastodon.social
+mastodon: https://mastodon.social/@keelan
 youtube:
 tiktok:
 ---
-I’m an accomplished photographer whose work has been featured in prestigious galleries and magazines.
+George Liele Director of the Center for Great Commission Studies and an instructor of missiology at Southeastern Baptist Theological Seminary

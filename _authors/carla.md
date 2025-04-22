@@ -1,12 +1,12 @@
 ---
-username: carla
-name: Carla Dokidis
+username: meredith
+name: Meredith Cook
 image: '/images/103.jpg'
-location: Sydney
-website:
-facebook: https://facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+location: Wake Forest
+website: https://meredithcook.net
+facebook: 
+twitter: 
+instagram: 
 pinterest:
 mastodon:
 youtube:
