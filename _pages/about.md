@@ -3,15 +3,12 @@ layout: page
 title: About
 description: This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church.
 permalink: /about/
-image: '/images/17.jpg'
-image_caption: Where is this image?
+image: 'https://i.imgur.com/ZIp78o3.jpg'
+image_caption: The family on top of Mount Mitchell
 ---
 
 
 My name is Keelan Cook. I'm married to Meredith and we have two little kids, Nora and Ezra. I recently took the role of George Liele Director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) where I also serve on faculty teaching Christian missions.
-
-![River](https://i.imgur.com/ZIp78o3.jpg#wide)
-*The family at the top of Mount Mitchell.*
 
 Before we moved back to Wake Forest, we lived in Houston, TX where I served with the [Union Baptist Association](https://ubahouston.org) as an associate director. I've worked overseas as a missionary in a Muslim region of West Africa, and I've done a good bit of research on diaspora and urban missions.
 
