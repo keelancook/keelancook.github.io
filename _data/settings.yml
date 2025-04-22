@@ -13,10 +13,10 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
+    - title: "About"
+      url: "/about/"
     - title: "Notes"
       url: "https://notes.keelancook.com"
-    - title: "Authors"
-      url: "/authors/"
     - title: "Resources"
       submenu:
       - url: "/Projects/"
@@ -27,8 +27,8 @@ menu_settings:
         title: "Featured"
       - url: "/tags/"
         title: "Topics"
-    - title: "About"
-      url: "/about/"
+      - title: "Authors"
+        url: "/authors/"
 
 # Call to action button
 cta_button:
