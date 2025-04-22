@@ -1,7 +1,7 @@
 ---
 title: "The Great Commission Post-Retirement"
 date: "2024-12-02"
-categories:
+tags:
   - "demographics"
   - "culture"
   - "missions"

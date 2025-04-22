@@ -2,7 +2,7 @@
 layout: post
 title: "Christian, Bear the Family Resemblance"
 date: "2019-01-07"
-categories:
+tags:
   - "bible study"
   - "discipleship"
 author: keelan

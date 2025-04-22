@@ -3,7 +3,7 @@ layout: post
 title: "Handle with Care: Christian Conflict on Social Media"
 date: "2021-03-05"
 author: keelan
-categories: 
+tags: 
   - "social media"
   - "bible study"
   - "discipleship"

@@ -2,7 +2,7 @@
 layout: post
 title: "But I tell you, love your enemies..."
 date: "2018-08-15"
-categories: 
+tags: 
   - "culture"
   - "gospel"
   - "bible study"

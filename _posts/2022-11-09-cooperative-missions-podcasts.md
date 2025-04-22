@@ -3,7 +3,7 @@ layout: post
 title: "Together We Go: All about Cooperative Missions"
 date: "2022-11-02"
 author: keelan
-categories: 
+tags: 
   - "missions"
 featured: false
 hidden: false

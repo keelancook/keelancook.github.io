@@ -3,7 +3,7 @@ layout: post
 title: "On Splinters, Beams, and Correcting Others"
 date: "2021-03-03"
 author: keelan
-categories: 
+tags: 
   - "bible study"
   - "discipleship"
   - "social media"

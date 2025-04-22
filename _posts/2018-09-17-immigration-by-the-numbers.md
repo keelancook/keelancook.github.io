@@ -1,7 +1,7 @@
 ---
 title: "Immigration by the Numbers"
 date: "2018-09-17"
-categories: 
+tags: 
   - "immigration"
   - "diaspora"
   - "peoples next door"

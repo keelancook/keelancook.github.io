@@ -2,7 +2,7 @@
 layout: post
 title: "Identifying to Send: Examine These Three Areas of a Person’s Life"
 date: "2020-03-23"
-categories: 
+tags: 
   - "great commission"
   - "missions"
   - "sending church"

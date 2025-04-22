@@ -3,7 +3,7 @@ layout: post
 title: "Five Local Church Benefits from Creating a Global Missions Partnership"
 date: "2020-09-22"
 author: keelan
-categories: 
+tags: 
   - "missions"
   - "pastoral ministry"
 featured: true

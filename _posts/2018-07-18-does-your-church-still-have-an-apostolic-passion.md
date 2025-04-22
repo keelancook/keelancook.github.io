@@ -2,7 +2,7 @@
 layout: post
 title: "Does your church still have an apostolic passion?"
 date: "2018-07-18"
-categories: 
+tags: 
   - "church planting"
   - "missions"
   - "pastoral ministry"

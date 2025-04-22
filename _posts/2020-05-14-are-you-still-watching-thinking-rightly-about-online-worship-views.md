@@ -3,7 +3,7 @@ layout: post
 title: "\"Are You Still Watching?\" Thinking Rightly About Online Worship Views"
 date: "2020-05-14"
 author: keelan
-categories: 
+tags: 
   - "church"
   - "church membership"
   - "pastoral ministry"

@@ -2,7 +2,7 @@
 layout: post
 title: "Bust the Peer Bubble in Your Church"
 date: "2019-03-25"
-categories: 
+tags: 
   - "pastoral ministry"
   - "discipleship"
 author: meredith

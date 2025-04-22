@@ -3,7 +3,7 @@ layout: post
 title: "Seven Missionary Biographies and Why You Should Read One Now"
 date: "2020-03-28"
 author: keelan
-categories: 
+tags: 
   - "missions"
   - "history"
 featured: true

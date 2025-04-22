@@ -95,7 +95,7 @@ authors:
 mailchimp:
   enable: true
   mailchimp_title: Don't miss the next article!
-  mailchimp_description: Get notified every time I post a new article, right to your email inbox. Just add your email address to the list below.
+  mailchimp_description: Get notified every time I post a new article, right in your email inbox. Just add your email address to the list below.
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
