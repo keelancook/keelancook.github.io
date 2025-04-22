@@ -16,9 +16,12 @@ I continue to do a lot of research and writing because of my particular ministry
 
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
-    <img src="/images/17-2.jpg" loading="lazy">
-    <img src="/images/17-4.jpg" loading="lazy">
-    <img src="/images/17-3.jpg" loading="lazy">
+    <img src="/images/bigbend1.jpg" loading="lazy">
+    <img src="/images/kayak1.jpg" loading="lazy">
+    <img src="/images/houston1.jpg" loading="lazy">
+    <img src="/images/bigbend3.jpg" loading="lazy">
+    <img src="/images/kayak4.jpg" loading="lazy">
+    <img src="/images/sandiego1.jpg" loading="lazy">
   </div>
   <em>Collaborative work session</em>
 </div>
