@@ -28,7 +28,7 @@ This website serves as a tool for pastors, ministers, students, and laypeople al
 
 You'll notice a reference to Colossians 1:28 in the title for this website.
 
-> We proclaim him, warning and teaching everyone with all wisdom, so that we may present everyone mature in Christ. I labor for this, striving with his strength that works powerfully in me. ~ Colossians 1:28-29
+> We proclaim him, warning and teaching everyone with all wisdom, so that we may present everyone mature in Christ. I labor for this, striving with his strength that works powerfully in me.  ~ Colossians 1:28-29
 
 I pray that's the purpose of this website, to warn and teach, to be one more tool in order to present others mature in Christ. 
 
