@@ -59,7 +59,7 @@ blog:
 #-------------------------------
 # Recommended Section Settings
 recommended:
-  enable: true
+  enable: false
   recommended_title: Recommended
   recommended_tag: "Lifestyle"
 
@@ -86,7 +86,7 @@ about:
 #-------------------------------
 # Authors Section Settings
 authors:
-  enable: true
+  enable: false
   authors_title: Top authors
 
 
@@ -103,7 +103,7 @@ mailchimp:
 
 #-------------------------------
 # Footer Settings
-footer_description: The online home for the writings of Keelan Cook. A website for those who love the church and its mission. This site may earn from qualifying purchases as an Amazon Associate.
+footer_description: The online home for the writings of Keelan Cook. This site may earn from qualifying purchases as an Amazon Associate.
 
 
 # Social Links
