@@ -42,7 +42,7 @@ cta_button:
 hero:
   enable: true
   hero_title: Him We Proclaim
-  hero_description: A website for those who love the church and its mission. This blog is collection of articles that serve as helps for the church in accomplishing the Great Commission.
+  hero_description: The online home for the writings of Keelan Cook. A website for those who love the church and its mission.
 
 hero_authors:
   enable: false
@@ -77,7 +77,7 @@ about:
 
     I lead the Peoples Next Door project, which is an initiative to equip local churches in North America to engage in cross-cultural missions among the least-reached peoples that now live in our communities. I've been a church planter in West Africa with the IMB and facilitated ethnographic research in Washington, DC with NAMB.
 
-  about_image: "/images/keelan-headshot.jpeg"
+  about_image: "/nomod/images/keelan-headshot.jpeg"
   about_image_alt: Keelan Cook
   about_button_text: More about me
   about_button_link: "/about/"
