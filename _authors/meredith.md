@@ -1,7 +1,7 @@
 ---
 username: meredith
 name: Meredith Cook
-image: '/images/103.jpg'
+image: '/images/headshots/meredith-headshot.png'
 location: Wake Forest, NC
 website: https://meredithcook.net
 facebook: 

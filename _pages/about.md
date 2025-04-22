@@ -16,14 +16,14 @@ I continue to do a lot of research and writing because of my particular ministry
 
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
-    <img src="/images/bigbend1.jpg" loading="lazy">
-    <img src="/images/kayak1.jpg" loading="lazy">
-    <img src="/images/houston1.jpg" loading="lazy">
-    <img src="/images/bigbend3.jpg" loading="lazy">
-    <img src="/images/kayak4.jpg" loading="lazy">
-    <img src="/images/sandiego1.jpg" loading="lazy">
+    <img src="/nomod/images/bigbend1.jpg" loading="lazy">
+    <img src="/nomod/images/kayak1.jpg" loading="lazy">
+    <img src="/nomod/images/houston1.jpg" loading="lazy">
+    <img src="/nomod/images/bigbend3.jpg" loading="lazy">
+    <img src="/nomod/images/kayak4.jpg" loading="lazy">
+    <img src="/nomod/images/sandiego1.jpg" loading="lazy">
   </div>
-  <em>Collaborative work session</em>
+  <em>Some photos from my travel.</em>
 </div>
 
 ## About the Website
@@ -47,7 +47,7 @@ You can also search based on categories at the bottom of the page. The list of a
 ### The Commonplace Book
 In addition to complete articles, I am trying something new on this site by including a live look at many of my research notes with an online commonplace book. On this portion of the site, you can scroll through linked notes of research and smaller, often incomplete notes concerning church and mission. I am hopeful that this experiment serves as another resource in addition to helping me "think in public" along with the input of others.
 
-You can find my commonplace book here: [Public Notes](https://notes.keelancook.com). And to read more about what this is, check out the [About Page](https://notes.keelancook.com/about).
+You can find my commonplace book here: [Public Notes](https://notes.keelancook.com). And to read more about what this is, check out the [About Page](https://notes.keelancook.com/about/).
 
 Thanks for reading!
 

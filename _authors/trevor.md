@@ -1,7 +1,7 @@
 ---
 username: trevor
 name: Trevor King
-image: '/images/101.jpg'
+image: '/images/headshots/trevor-headshot.jpg'
 location: Rock Hill, SC
 website: https://trevorking.substack.com/
 facebook: https://www.facebook.com

@@ -1,7 +1,7 @@
 ---
 username: keelan
 name: Keelan Cook
-image: '/images/keelan-headshot.jpeg'
+image: '/images/headshots/keelan-headshot.jpeg'
 location: Wake Forest, NC
 website: https://keelancook.com
 facebook: https://facebook.com/keelancook
