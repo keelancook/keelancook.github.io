@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Nomod
-description: Nomod is a multipurpose Jekyll blog theme
-logo: # You can add own logo. For example "/images/logo.png".
+title: Keelan Cook
+description: The online home for the writings of Keelan Cook.
+logo: "/images/logo.png"
 logo_dark:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
