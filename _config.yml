@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "/nomod" # the subpath of your site, e.g. /blog
-url: "https://keelancook.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://keelancook.com/nomod/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------

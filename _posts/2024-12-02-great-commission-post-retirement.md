@@ -7,7 +7,7 @@ categories:
   - "missions"
   - "church planting"
 author: keelan
-featured: false
+featured: true
 hidden: false
 image: "https://images.unsplash.com/photo-1473679408190-0693dd22fe6a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 rating: 
@@ -26,7 +26,7 @@ North Carolina is a rapidly growing state. If you're local to the state, that's 
 
 Estimates from [Carolina Demography](https://carolinademography.cpc.unc.edu/) project a population over 12 million by 2035. That's a far cry from where the state was a couple of decades ago.
 
-![Retirement Graph 1]({{ site.baseurl }}/assets/images/post-images/retirement-graph-1.png)
+![Retirement Graph 1]({{ site.baseurl }}/images/post-images/retirement-graph-1.png)
 
 Of course, North Carolina is home to several trendy areas for young professionals. Charlotte and Raleigh are both epicenters for job creation right now. So, it's a common assumption by many that our growth is fueled by college-age or young professionals streaming into the area hoping for their big break. 
 
@@ -36,19 +36,19 @@ So, what is our biggest demographic of incoming residents? Retirement age adults
 
 Yep, you read that right. Look at some graphs with me.
 
-![Retirement Graph 2]({{ site.baseurl }}/assets/images/post-images/retirement-graph-2.png)
+![Retirement Graph 2]({{ site.baseurl }}/images/post-images/retirement-graph-2.png)
 
 The light blue bars are the percentage population in NC in 2011 by age group. The dark blue bars are 2021. Notice that all categories are going down, except the last two. The percentage of the population that is over 65 has increased, while all other categories have declined in overall share.
 
 The next graph makes the point even more explicit.
 
-![Retirement Graph 3]({{ site.baseurl }}/assets/images/post-images/retirement-graph-3.png)
+![Retirement Graph 3]({{ site.baseurl }}/images/post-images/retirement-graph-3.png)
 
 The above graph demonstrates which age groups have grown in North Carolina over the past decade. See those last two age groups. That is massive increase.
 
 In fact, this last graph shows us the reality of the situation.
 
-![Retirement Graph 4]({{ site.baseurl }}/assets/images/post-images/retirement-graph-4.png)
+![Retirement Graph 4]({{ site.baseurl }}/images/post-images/retirement-graph-4.png)
 
 Take a look at the map above. You'd be tempted to misread this data by assuming the dark blue counties are the ones seeing growth in the post-retirement age group. However, any county shaded blue experienced a growth of at least five percent in that age range. 
 
@@ -72,7 +72,7 @@ Raleigh proves the case. In July of this year, Axios reported that [the Triangle
 
 Below is a graph from that Axios article about retirement-age inmigration to Raleigh.
 
-![Retirement Graph 5]({{ site.baseurl }}/assets/images/post-images/retirement-graph-5.png)
+![Retirement Graph 5]({{ site.baseurl }}/images/post-images/retirement-graph-5.png)
 
 That is explosive growth in the 65+ population. And you can see it, too. Right next to my neighborhood is a new subdivision with at least 250 homes. Ironically enough, it is an age-gated community. You cannot move into the neighborhood unless you are over 55. 
 
