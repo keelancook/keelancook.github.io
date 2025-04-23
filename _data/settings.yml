@@ -96,7 +96,7 @@ mailchimp:
   enable: true
   mailchimp_title: Don't miss the next article!
   mailchimp_description: Get notified every time I post a new article, right in your email inbox. Just add your email address to the list below.
-  mailchimp_identifier: https://keelancook.us18.list-manage.com/subscribe/post?u=c5bc34a16760b316bee44bff4&amp;id=dfa9780140&amp;f_id=00a98ae6f0 # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_identifier: keelancook.us18.list-manage.com/subscribe/post?u=c5bc34a16760b316bee44bff4&amp;id=dfa9780140&amp;f_id=00a98ae6f0 # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
 
