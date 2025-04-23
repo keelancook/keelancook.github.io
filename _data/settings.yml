@@ -120,7 +120,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: https://formspree.io/f/xyyadopz # Add your form_id
+  form_id: xyyadopz # Add your form_id
   title: Contact Me
   description: You can always reach out to me by email for inquiries about content on this website, requests for speaking, or other matters related to my work.
   button_text: Send now
