@@ -77,7 +77,7 @@ about:
 
     I lead the Peoples Next Door project, which is an initiative to equip local churches in North America to engage in cross-cultural missions among the least-reached peoples that now live in our communities. I've been a church planter in West Africa with the IMB and facilitated ethnographic research in Washington, DC with NAMB.
 
-  about_image: "/nomod/images/keelan-headshot.jpeg"
+  about_image: "/images/keelan-bio.jpeg"
   about_image_alt: Keelan Cook
   about_button_text: More about me
   about_button_link: "/about/"
@@ -121,8 +121,8 @@ social:
 # Contact Settings
 contact:
   form_id: kcook@sebts.edu # Add your form_id
-  title: Contact Us
-  description: Nomod comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free.
+  title: Contact Me
+  description: You can always reach out to me by email.
   button_text: Send now
 
 # NOTE
@@ -131,9 +131,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
 # Google Analytics
-google_analytics: # Add your GA Tracking Id
+google_analytics: G-71XX5NEM31 # Add your GA Tracking Id
