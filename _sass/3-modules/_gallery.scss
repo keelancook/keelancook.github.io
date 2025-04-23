@@ -35,13 +35,16 @@
 
   .gallery__image {
     background: var(--background-color);  
-    overflow: hidden; /* Ensure any overflow is hidden */
-    position: relative; /* Ensure the image is positioned correctly */
-
+    position: relative;
+    padding-bottom: 66.66%; /* 3:2 aspect ratio (height/width * 100) */
+    overflow: hidden;
+  
     img {
-      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
       width: 100%;
-      height: auto;
+      height: 100%;
       object-fit: cover;
     }
   }
