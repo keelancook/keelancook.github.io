@@ -34,12 +34,14 @@
   }
 
   .gallery__image {
-    background: var(--background-color);
+    background: var(--background-color);  
+    overflow: hidden; /* Ensure any overflow is hidden */
+    position: relative; /* Ensure the image is positioned correctly */
 
     img {
       display: block;
       width: 100%;
-      height: 100%;
+      height: auto;
       object-fit: cover;
     }
   }
