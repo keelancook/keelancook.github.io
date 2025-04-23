@@ -26,32 +26,6 @@ I continue to do a lot of research and writing because of my particular ministry
   <em>Some photos from my travel.</em>
 </div>
 
-<style>
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; /* Adjust this for more spacing */
-  }
-  
-  .gallery img {
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
-  }
-</style>
-
-<div class="gallery-box">
-  <div class="gallery gallery-column-3">
-    <img src="/nomod/images/photos/bigbend1.jpg" loading="lazy">
-    <img src="/nomod/images/photos/kayak1.jpg" loading="lazy">
-    <img src="/nomod/images/photos/houston1.jpg" loading="lazy">
-    <img src="/nomod/images/photos/bigbend3.jpg" loading="lazy">
-    <img src="/nomod/images/photos/kayak4.jpg" loading="lazy">
-    <img src="/nomod/images/photos/sandiego1.jpg" loading="lazy">
-  </div>
-  <em>Some photos from my travel.</em>
-</div>
-
 
 ## About the Website
 This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church. I want all that I do to point to the priority of gospel proclamation among the nations in the mission of the church.
