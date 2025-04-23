@@ -13,31 +13,29 @@
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(2, auto);
+  grid-template-columns: repeat(2, 1fr); /* Changed auto to 1fr for equal widths */
+  gap: 24px; /* Replaces negative margins and individual image margins */
   justify-content: center;
   align-content: center;
-  margin-left: -24px;
-  margin-bottom: -24px;
 
   &-column-3 {
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(3, 1fr); /* Use 1fr for equal width items */
   }
 
   &-column-4 {
-    grid-template-columns: repeat(4, auto);
+    grid-template-columns: repeat(4, 1fr); /* Use 1fr for equal width items */
   }
 
+  /* Remove margin rules from img selector */
   img {
-    margin-left: 24px;
-    margin-bottom: 24px;
-    width: 100%; /* Changed from calc(100% - 24px) for consistency */
+    width: 100%;
   }
 
   .gallery__image {
     background: var(--background-color);
-    aspect-ratio: 1 / 1; /* Enforce a uniform square aspect ratio */
+    aspect-ratio: 1 / 1; /* Ensure a consistent square shape */
     overflow: hidden;
-
+    
     img {
       display: block;
       width: 100%;
@@ -47,13 +45,10 @@
   }
 
   @media (max-width: $desktop) {
-    margin-left: -12px;
-    margin-bottom: -12px;
+    gap: 12px; /* Adjust gap on smaller screens */
 
     img {
-      margin-left: 12px;
-      margin-bottom: 12px;
-      width: 100%; /* Changed for consistency */
+      width: 100%;
     }
   }
 }
