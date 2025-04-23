@@ -27,7 +27,12 @@ I continue to do a lot of research and writing because of my particular ministry
 </div>
 
 <style>
-  /* Ensure all images in .gallery have uniform dimensions */
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust this for more spacing */
+  }
+  
   .gallery img {
     width: 300px;
     height: 200px;
