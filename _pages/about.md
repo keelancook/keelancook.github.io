@@ -3,7 +3,7 @@ layout: page
 title: About
 description: This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church.
 permalink: /about/
-image: 'https://i.imgur.com/ZIp78o3.jpg'
+image: '/images/photos/family-photo-2024.jpg'
 image_caption: The family on top of Mount Mitchell
 ---
 
