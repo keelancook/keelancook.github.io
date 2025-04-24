@@ -19,8 +19,8 @@ menu_settings:
       url: "https://notes.keelancook.com"
     - title: "Resources"
       submenu:
-      - url: "/projects/"
-        title: "Projects"
+      - url: "/cv/"
+        title: "CV"
       - url: "/videos/"
         title: "Videos"
       - url: "/featured/"
