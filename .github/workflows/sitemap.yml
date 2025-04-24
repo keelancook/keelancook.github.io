@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write  # Required for pushing changes
+
 jobs:
   sitemap_job:
     runs-on: ubuntu-latest
