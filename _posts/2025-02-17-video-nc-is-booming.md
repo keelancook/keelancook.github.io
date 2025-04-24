@@ -11,4 +11,4 @@ featured: false
 toc: false
 ---
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1057556728?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="63 PODCAST: Keelan Cook"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+For the original show notes and description go here: [Podcast: NC is booming. How to reach growth with the gospel](https://ncbaptist.org/article/podcast-nc-is-booming-how-to-reach-growth-with-the-gospel/)
