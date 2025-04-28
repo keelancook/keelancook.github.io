@@ -34,7 +34,7 @@ The fervent prayers of his father that the gospel would go to the nations were, 
 
 Reading this as a parent, it struck a new chord in my own heart.
 
-## **Do I want my daughter to go?**
+## Do I want my daughter to go?
 
 My first interaction with a calling to missionary service was my own. I was already an adult and had been serving in collegiate ministry when God, through the work of my local church, called me to an extended season overseas among an unreached group in West Africa. I remember the conversations with my parents, both godly leaders in their own church. They were largely supportive, even proud at times, but I could see the emotional toll it took on them. To sacrifice themselves for the Great Commission was one thing, but to let go of their only child was a different ask.
 
@@ -54,7 +54,7 @@ Is it safe? Of course not, but safety is only an illusion we’ve duped ourselve
 > 
 > Ephesians 3:8-9
 
-## **Modeling a Heart for the Nations**
+## Modeling a Heart for the Nations
 
 By this point, I hope we are in agreement. Our prayer for our daughter is that she would follow Christ wherever he leads and for her to hear the Bible's clarion call to the nations.
 
