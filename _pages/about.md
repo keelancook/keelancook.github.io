@@ -4,7 +4,7 @@ title: About
 description: This website serves as a tool for pastors, ministers, students, and laypeople alike to be better equipped for that most important task given by Christ to his church.
 permalink: /about/
 image: '/images/photos/family-photo-2024.jpg'
-image_caption: The family on a hiking advanture with waterfalls
+image_caption: The family on a hiking adventure with waterfalls
 ---
 
 
