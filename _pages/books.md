@@ -8,8 +8,11 @@ image_caption:
 ---
 
 
-This page is presently under construction. Come back later to find some book recommendations!
+This page is presently under construction. Come back later to find some book recommendations! The following categories are books I frequently recommend on various subjects.
 
+
+# Missions
+This is, of course, my most requested category.
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
     <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
