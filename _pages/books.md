@@ -12,12 +12,12 @@ This page is presently under construction. Come back later to find some book rec
 
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
-    <img src="/images/photos/clingman.jpg" loading="lazy">
-    <img src="/images/photos/kayak1.jpg" loading="lazy">
-    <img src="/images/photos/houston1.jpg" loading="lazy">
-    <img src="/images/photos/bigbend3.jpg" loading="lazy">
-    <img src="/images/photos/kayak4.jpg" loading="lazy">
-    <img src="/images/photos/tugboat.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
   </div>
   <em>Some photos from my travel.</em>
 </div>
