@@ -12,12 +12,12 @@ This page is presently under construction. Come back later to find some book rec
 
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
-    <img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy">
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
+    <a href="https://www.example.com" target="_blank" title="Go to Example"><img src="https://f.media-amazon.com/images/I/41yHY+zRK5L._SY445_SX342_.jpg" loading="lazy"></a>
   </div>
   <em>Some photos from my travel.</em>
 </div>
