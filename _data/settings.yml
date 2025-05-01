@@ -23,8 +23,6 @@ menu_settings:
         title: "CV"
       - url: "/videos/"
         title: "Videos"
-      - url: "/featured/"
-        title: "Featured"
       - url: "/tags/"
         title: "Topics"
       - title: "Authors"
