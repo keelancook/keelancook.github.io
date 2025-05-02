@@ -6,7 +6,8 @@ date: 2020-10-25
 author: keelan
 image: '/images/neartown-logo.png'
 video_embed: https://www.youtube.com/embed/-yHWqJs873g?start=321"
-tags: [Great Commission]
+tags:
+  - "great commission"
 featured: false
 toc: false
 ---

@@ -4,7 +4,7 @@ title: "Allergic to Authority"
 date: "2013-02-01"
 tags: 
   - "bible study"
-  - "christ"
+  - "Christ"
   - "discipleship"
 author: keelan
 featured: false

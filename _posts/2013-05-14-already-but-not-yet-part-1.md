@@ -3,7 +3,7 @@ layout: post
 title: "Already, but not yet - Part 1"
 date: "2013-05-14"
 tags: 
-  - "christ"
+  - "Christ"
   - "kingdom"
   - "church"
 author: keelan

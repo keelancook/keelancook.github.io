@@ -3,7 +3,7 @@ layout: post
 title: "Chasing rainbows"
 date: "2012-07-02"
 tags: 
-  - "christ"
+  - "Christ"
   - "culture"
 author: keelan
 featured: false
