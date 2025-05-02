@@ -2,11 +2,11 @@
 layout: post
 title: "Embracing the Struggle: How Church Membership Puts the Gospel on Display"
 date: "2016-04-08"
+author: trevor
 tags: 
   - "church"
   - "church membership"
   - "gospel"
-author: Trevor King
 featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1685725391924-6883cd7fc147?q=80&w=2017&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -15,7 +15,7 @@ beforetoc:
 toc: false
 ---
 
-_The following is a guest post by Trevor King. Trevor is a good friend and provides leadership over the membership process at our church. I have always appreciated the way he articulates the importance of church membership, so I wanted him to share it with you all. This is a good read, and may even be convicting for you. Enjoy the post!_
+_The following is a guest post by Trevor King. Trevor is a good friend, and I have always appreciated the way he articulates the importance of church membership, so I wanted him to share it with you all. This is a good read, and may even be convicting for you. Enjoy the post!_
 
  
 
@@ -56,7 +56,3 @@ When we have an “ours” perspective, we display a common love. We reveal that
 Christian, when you enter into the struggles, when you make whatever issues that concern you “ours” instead of “theirs,” you display genuine faith, hope, and love with fellow brothers and sisters in the gospel. And when this happens, when you give up all pretense for the good of your brothers and sisters, you do something extraordinary. You preach the gospel to the world.
 
 You hold up, as an embassy of the Kingdom of God, the ethics, culture, and values of the Kingdom and the King, Himself. When the childcare may seem to lack what you want for your kids, when the sound guy can’t seem to turn it up enough, when small groups aren’t as missional or discipleship-focused or fellowship-loving as you think they should be, you step in. You humbly enter into the family to love them as Christ does, with all the warts, and all the flaws. And you recognize the evidences of grace that God uses you, with all your warts and flaws, and places you into a community that He created and ordained to take the message about the Savior to the ends of the earth.
-
- 
-
- _Photo By [Randy Heinitz](http://www.flickr.com/photos/36509286@N03/12215449286/)_
