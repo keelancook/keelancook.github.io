@@ -55,4 +55,4 @@ It's common nowadays to hear people parrot that misattributed quote, "Preach the
 
 Knowing how to speak to others about the power of the gospel in your own life, your personal testimony, is an important tool for the disciple as they obey the Great Commission. When we properly place our testimony into our work as ambassadors, it creates a clear and powerful way to demonstrate the validity of our claims about the gospel. The gospel is the very center of evangelism, but our testimonies play a crucial supporting role as we testify to the good news of Jesus with those who have not heard or accepted.
 
-[^1]: This quote is often attributed to Francis of Assissi, though he did not say it and very likely disagreed with the idea based on his actual writings and own life.
+[^1]: This quote is often attributed to Francis of Assisi, though he did not say it and very likely disagreed with the idea based on his actual writings and own life.

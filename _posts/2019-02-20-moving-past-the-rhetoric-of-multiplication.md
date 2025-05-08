@@ -47,7 +47,7 @@ In order to truly be a sending church, a congregation must: identify, equip, sen
 
 ![Keelan- Sending Church Defined.png](https://images.squarespace-cdn.com/content/v1/66352540d1b7192f4528c5a2/1714759046825-W48T5XGLW0S8LKCK8DV8/Keelan-+Sending+Church+Defined.png)
 
-Ironically, we have talked about leadership development in the local church for a long time now. It usually goes hand-in-hand with the discipleship conversation. Unfortunately, the assumption is often that these developed leaders are being developed to scale up the ministry of the local congregation. Leaders to lead small groups and potentially serve in ministry roles in a congregation are important; but we must also consider how we are identifying and developing those leaders that a church will send out from the congregation for the work of the ministry. This goal is the true heart of a sending church. As J.D. Greear so eloquently puts it, it is [gaining by losing](https://smile.amazon.com/Gaining-Losing-Future-Belongs-Churches/dp/0310515246/ref=sr_1_1?crid=3K5JG7FAEHE73&keywords=gaining+by+losing&qid=1550692389&s=gateway&sprefix=gaining+by+lo%2Caps%2C172&sr=8-1).
+Ironically, we have talked about leadership development in the local church for a long time now. It usually goes hand-in-hand with the discipleship conversation. Unfortunately, the assumption is often that these developed leaders are being developed to scale up the ministry of the local congregation. Leaders to lead small groups and potentially serve in ministry roles in a congregation are important; but we must also consider how we are identifying and developing those leaders that a church will send out from the congregation for the work of the ministry. This goal is the true heart of a sending church. As J.D. Greear so eloquently puts it, it is [gaining by losing](https://amzn.to/4kvbacX).
 
 ## Recruitment vs. Development
 
@@ -69,5 +69,5 @@ Do our sermons make this kind of sending a practical application point? Do we ch
 
 That kind of culture leads to multiplicative sending, because it constantly calls members from within the body to consider being equipped as sent out ones.
 
->[!note] Note:
->This article originally appeared on the [Union Baptist Association](https:https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication-kpz24) website, where I served as an Associate Director before returning to Southeastern.
+{: .note } 
+This article originally appeared on the [Union Baptist Association](https:https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication-kpz24) website, where I served as an Associate Director before returning to Southeastern.
