@@ -7,7 +7,7 @@ categories:
   - missions
   - discipleship
 author: keelan
-featured: false
+featured: true
 hidden: false
 image: https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 rating: 
@@ -44,7 +44,7 @@ This is one reason our testimony is so important as we engage in gospel ministry
 ## Your testimony is one story of the gospel applied. 
 Your testimony demonstrates the gospel's power because it is one example of the gospel applied. Paul introduces the epistle to the Romans with these words: "For I am not ashamed of the gospel, because it is the power of God for salvation﻿ to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith" (Romans 1:16-17). That truth has everything to do with your testimony. As a Christian, one brought from death to life, your story reveals the righteousness of God. 
 
-Why? Because the righteous live by faith. If you are authentically walking in the power of the Holy Spirit and abiding in Christ, then your testimony reveals one instance of the gospel transforming a soul through its power. It's not the gospel message, but it is one example of the gospel at work. That is powerful. That is God's design: to make His disciples into living examples of His power.
+Why? Because the righteous live by faith. If you are authentically walking in the power of the Holy Spirit and abiding in Christ, then your testimony reveals one instance of the gospel transforming a soul through its power. It's not the gospel message, but it is one example of the gospel at work. That is powerful. That is God's design: to make His disciples into living examples of His power to save.
 
 Luke makes this clear in his account of the earliest days of the church. He writes, "But you will receive power when the Holy Spirit has come on you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth" (Acts 1:8). That word witness, and the word testimony, they're related to one another. Witnesses provide a testimony. 
 
@@ -55,4 +55,4 @@ It's common nowadays to hear people parrot that misattributed quote, "Preach the
 
 Knowing how to speak to others about the power of the gospel in your own life, your personal testimony, is an important tool for the disciple as they obey the Great Commission. When we properly place our testimony into our work as ambassadors, it creates a clear and powerful way to demonstrate the validity of our claims about the gospel. The gospel is the very center of evangelism, but our testimonies play a crucial supporting role as we testify to the good news of Jesus with those who have not heard or accepted.
 
-[1] This quote is often attributed to Francis of Assissi, though he did not say it and very likely disagreed with the idea based on his actual writings and own life.
+[1]: This quote is often attributed to Francis of Assissi, though he did not say it and very likely disagreed with the idea based on his actual writings and own life.
