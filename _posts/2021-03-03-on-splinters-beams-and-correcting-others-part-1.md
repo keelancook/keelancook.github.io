@@ -28,7 +28,7 @@ I am dating myself here. I was in high school, we were on a field trip, and a bu
   
 We all do that, don't we? Hear something real popular, hear it over and over in fact, and think we know what it means. Only to find out later that we had it wrong the whole time.
 
-![Princess Bride Meme](images/giphy.gif)
+![Princess Bride Meme](images/post-images/princess-bride.gif)
 
 It happens with Scripture as well. Some of the most often quoted verses are, ironically, done so in a way that is in actual opposition to their intended meaning. It's a human tendency to round off those edges of Scripture that challenge us to live in a manner distinct from the world. The biblical worldview regularly confronts the worldviews of society at large, and when that battle takes place in our own heart, one authority has to win. Often, a subtle thing occurs where we want to force competing claims to agree.
 
