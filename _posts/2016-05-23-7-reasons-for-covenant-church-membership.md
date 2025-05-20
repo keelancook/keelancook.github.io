@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "7 Reasons for Covenant Church Membership"
 date: "2016-05-23"
 author: trevor
