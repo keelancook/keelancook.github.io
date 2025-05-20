@@ -16,17 +16,17 @@ beforetoc:
 toc: false
 ---
 
-Last week, I shared [a simple method for using Google's free services for neighborhood discovery](http://blog.keelancook.com/2016/09/how-to-use-google-forms-sheets-maps-to-survey-your-community-for-free.html). Today, I want to extend that idea to the next level. Many churches never consider mapping out their own membership, but they should.
+Last week, I shared [a simple method for using Google's free services for neighborhood discovery](https://keelancook.com/how-to-use-google-forms-sheets-maps-to-survey-your-community-for-free). Today, I want to extend that idea to the next level. Many churches never consider mapping out their own membership, but they should.
 
 ### **Our homes are staging grounds for the Great Commission.**
 
 We talk a lot about hospitality today. There is no end lately to the blog posts and articles circulating the internet concerning the importance of hospitality in outreach and missions. I have several on this site.
 
-Hospitality is an important aspect of ministry that Western Christians often struggle to incorporate into their lives. Compared to other areas of the world, we love our privacy, and  our [home easily becomes our fortress of solitude](http://blog.keelancook.com/2015/11/gospel-hospitality-the-sanctifying-effect-of-dinner-guests.html). While homes should be a place for rest, the Bible challenges us to view them as tools for ministry. Can we honestly say we are stewarding God's gifts well when our single, biggest purchase is never used for outreach?
+Hospitality is an important aspect of ministry that Western Christians often struggle to incorporate into their lives. Compared to other areas of the world, we love our privacy, and  our [home easily becomes our fortress of solitude](https://keelancook.com/gospel-hospitality-the-sanctifying-effect-of-dinner-guests). While homes should be a place for rest, the Bible challenges us to view them as tools for ministry. Can we honestly say we are stewarding God's gifts well when our single, biggest purchase is never used for outreach?
 
 We should change this paradigm in our churches. Homes are not caves. They are not fortresses to protect us from the hectic world outside. They are gracious gifts from our Heavenly Father to be used, in turn, for his glory. This means opening your home up to others. Yes, it means having others from your church over, but it means even more than that. Use it as a staging ground for the Great Commission.
 
-When was the last time you [invited unbelieving neighbors into your home](http://blog.keelancook.com/2015/11/when-was-the-last-time-you-ate-with-an-unbeliever.html)?
+When was the last time you [invited unbelieving neighbors into your home](https://keelancook.com/when-was-the-last-time-you-ate-with-an-unbelieve)?
 
 ### **Seeing your church's geographic footprint.**
 
@@ -38,7 +38,7 @@ Often, churches have no idea where their membership lives. Sure, the information
 
 ### **Step-by-step instructions for mapping membership in Google:**
 
-You may want to refer to [last week's post](http://blog.keelancook.com/2016/09/how-to-use-google-forms-sheets-maps-to-survey-your-community-for-free.html) about mapping your community in Google, as I am basing this short guide on that post.
+You may want to refer to [last week's post](https://keelancook.com/how-to-use-google-forms-sheets-maps-to-survey-your-community-for-free) about mapping your community in Google, as I am basing this short guide on that post.
 
 **Import spreadsheet to Google.**
 
