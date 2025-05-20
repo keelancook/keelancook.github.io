@@ -16,7 +16,8 @@ beforetoc:
 toc: false
 ---
 
-_Today I'm posting another one from the archives. I wrote this one back in 2012. I find it ironically fitting, considering the current state of the presidential race and a lot of the rhetoric floating around in the political arena right now. I hope it makes you think._
+{: .note }
+Today I'm posting another one from the archives. I wrote this one back in 2012. I find it ironically fitting, considering the current state of the presidential race and a lot of the rhetoric floating around in the political arena right now. I hope it makes you think.
 
 Americans like their rights. As far as we know, they are unalienable, granted us by the fact that we are human. In our worldview, we deserve them.
 
