@@ -14,7 +14,9 @@ beforetoc: "I compiled this article to provide a handy list for people wanting t
 toc: true
 ---
 
-Over the last two weeks, I've seen all kinds of posts recommending book lists for people to consider during our global shut-in. I even wrote one last week suggesting you use this time [to sharpen your Bible study skills](https://blog.keelancook.com/2020/03/now-is-the-time-to-do-that-bible-study-free-resources.html). But the one thing I've not seen recommended yet are missionary biographies. I'm honestly surprised by this omission.
+I initially pulled this book list together during the pandemic a few years ago. Back then, all kinds of posts were appearing that recommended book lists for people to consider during our global shut-in. I even wrote one suggesting you use this time [to sharpen your Bible study skills](https://blog.keelancook.com/2020/03/now-is-the-time-to-do-that-bible-study-free-resources.html). But the one thing I did not see recommended were missionary biographies. I was honestly surprised by this omission. So, I created this list.
+
+Since then, I've continued having people thank me for the list and recommend it to others.
 
 ## Why read missionary biographies?
 
@@ -32,16 +34,12 @@ I pray that you will be comforted and challenged by their witness.
 
 This first set is a short collection of missionary biographies that are book-length treatments of one missionary. Of course, these are more in-depth reads and give you the chance to zoom in on one missionary and their story. Some are classics, and others are more recent contributions.
 
-[![Missionary to the New Hebrides](images/post-images/bio-missionary-to-new-hebrides.png)](https://amzn.to/2XfMvRV){:target="_blank"}
 
-
-### [The Life and Diary of David Brainerd](https://amzn.to/3dxfF4S)
+[![David Brainerd](images/post-images/bio-david-brainerd.png)](https://amzn.to/4k8VbRY){:target="_blank"}
 
 This first book is perhaps the quintessentially classic missionary biography. It is primarily autobiographical, with notes from Jonathan Edwards. Brainerd was a missionary to the Native Americans during the 1700s.
 
 * * *
-
-### [Faithful Witness: The Life & Mission of William Carey](https://amzn.to/2QPYxxm)
 
 [![Faithful Witness](images/post-images/bio-faithful-witness-carey.png)](https://amzn.to/43jeiCZ){:target="_blank"}
 
@@ -49,14 +47,13 @@ Written by Timothy George, this biography details the life of the "Father of Mod
 
 * * *
 
-### [Through Gates of Splendor](https://amzn.to/2y7xxD5)
+[![Through Gates of Splendor](images/post-images/bio-gates-of-splendor-elliot.png)](https://amzn.to/3H7Kpg7){:target="_blank"}
 
 Jim Elliot's story is not that far removed from the present. In the middle of the last century, the Elliot family was part of a missionary team to the jungles of Ecuador. Written by his wife, Elisabeth Elliot, this biography recounts the story of sacrifice and grace that they found in their obedience to the Great Commission. It is well worth the read.
 
 * * *
 
-
-### [To the Golden Shore: The Life of Adoniram Judson](https://amzn.to/3auM760)
+[![To the Golden Shore](images/post-images/bio-golden-shore-judson.png)](https://amzn.to/43wK5iz){:target="_blank"}
 
 Adoniram Judson's life is a monumental testimony to the grace of God even in the midst of sacrifice. Courtney Alexander first published this work in 1956, but it remains a classic missionary biography.
 
@@ -65,14 +62,13 @@ Adoniram Judson's life is a monumental testimony to the grace of God even in the
 If you prefer reading a compilation, I've included three of those as well. Unlike the above works, these provide chapter-length treatments that highlight a missionary's story but allow you to survey a number of different testimonies. If you're new to missionary biographies, then you may want to start here.
 
 
-### [Ten Who Changed the World](https://amzn.to/39w7a76)
+[![Ten Who Changed the World](images/post-images/bio-ten-who-changed.png)](https://amzn.to/3H7rD8M){:target="_blank"}
 
 This is my go-to compilation for people entering the world of missionary biographies. Dr. Danny Akin is the president of Southeastern Baptist Theological Seminary and has developed a practice over the years of sharing an annual chapel message that details the life of a missionary as an extended illustration for his message. This book is the fruit of that practice, weaving together missionary biographies with devotional material.
 
 * * *
 
-
-### [Filling Up the Afflications of Christ](https://amzn.to/2QMlS3d)
+[![Filling up the Afflications of Christ](images/post-images/bio-filling-up-afflications.png)](https://amzn.to/4k6OPTb){:target="_blank"}
 
 Like Dr. Akin, John Piper has done extensive research and writing on the lives of many missionaries and Christian ministers throughout history. This particular work highlights the lives of William Tyndale, Adoniram Judson, and John Paton. It's an excellent read in Piper's signature style.
 
