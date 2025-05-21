@@ -24,7 +24,7 @@ One quotation in particular stood out. It's a quote from John Paton, a renowned 
 
 > How much my father's prayers at this time impressed me I can never explain, nor could any stranger understand. When, on his knees and all of us kneeling around him in family worship, _he poured out his whole soul with tears for the conversion of the Heathen World_ to the service of Jesus, and for every personal and domestic need, we all felt as if in the presence of the living Saviour, and learned to know and love Him as our Divine Friend. As we rose from our knees, I used to look at the light on my father's face, and wish I were like him in spirit- _hoping that, in answer to his prayers, I might be privileged and prepared to carry the blessed Gospel to some portion of the Heathen World._
 > 
-> [Paton, _Missionary to the New Hebrides_.](https://amzn.to/2XfMvRV)
+> [Paton, _Missionary to the New Hebrides_.](https://amzn.to/2XfMvRV){:target="_blank"}
 
 Raised in Scotland, John Patton was a missionary to the South Pacific islands during the back half of the nineteenth century. Patton and his family spent decades working among a cannibalistic tribe that repeatedly made attempts on his life. He lost his first wife and several children to tropical diseases. And yet, by the end of his tenure, he saw an entire island profess Christ, translated the New Testament into their language, and trained enough missionaries from that island to send out to twenty-five additional islands.
 
@@ -33,6 +33,8 @@ To what did Patton attribute his earliest desires to serve Christ as a missionar
 The fervent prayers of his father that the gospel would go to the nations were, in fact, answered through the obedience of his son. That calling in the son was formed and established by the example of the father.
 
 Reading this as a parent, it struck a new chord in my own heart.
+
+[![Missionary to the New Hebrides](images/promo/missionary-to-new-hebrides.png)](https://amzn.to/2XfMvRV){:target="_blank"}
 
 ## Do I want my daughter to go?
 
@@ -62,7 +64,7 @@ In Paton's writing, he reveals the significance of his parents' example in disco
 
 > As we rose from our knees, I used to look at the light on my father's face, and wish I were like him in spirit- hoping that, in answer to his prayers, I might be privileged and prepared to carry the blessed Gospel to some portion of the Heathen World.
 > 
-> [](https://amzn.to/3dXjXmg)[Paton, _Missionary to the New Hebrides_.](https://amzn.to/2XfMvRV)
+> [](https://amzn.to/2XfMvRV)[Paton, _Missionary to the New Hebrides_](https://amzn.to/2XfMvRV){:target="_blank"}
 
 Parents, do not underestimate how much your concerns influence those of your children. If something weighs heavy on your heart, there is a good chance it will weigh heavy on theirs. And in order to model a heart for the nations, we must have one first. How much do you desire that the gospel go to the nations? Does that desire come to the surface as you parent? When was the last time your children heard you pray, in earnest, for the spread of the gospel to peoples and places far away?
 
@@ -77,11 +79,3 @@ Paton's words weigh heavy on my heart. Paton speaks of the admiration he possess
 My prayer is that our daughter will see that kind of faith in us, that she will see hearts that beat for the spread of the gospel. I pray we celebrate in her most those things which Christ desires, and we would find joy in her obedience to him, even to the ends of the earth.
 
 My hope is that you would pray those same prayers. Parents, let's raise up missionaries.
-
-### Further Reading
-
-* * *
-<p float=left>
-<a href="https://www.amazon.com/Family-Worship-Bible-History-Your/dp/1433567229?crid=CKGDBF58KKBE&dchild=1&keywords=family+worship&qid=1588108349&sprefix=family+worship%2Caps%2C175&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=9e69231fcdc70484495a323149fd8f00&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1433567229&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=1433567229" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<a href="https://www.amazon.com/John-G-Paton-Autobiography-Missionary/dp/1848712766?crid=VZS690CTBY9Y&dchild=1&keywords=john+paton+missionary+to+the+new+hebrides&qid=1588108523&sprefix=missionary+to+the+new+h%2Caps%2C206&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=7aa33177a0ea666aec188c5423db3d32&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1848712766&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=1848712766" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</p>
