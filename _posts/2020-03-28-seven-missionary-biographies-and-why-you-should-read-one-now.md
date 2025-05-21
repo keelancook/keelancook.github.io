@@ -34,6 +34,9 @@ This first set is a short collection of missionary biographies that are book-len
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00D7C4F7C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US)](https://www.amazon.com/Brainerd-Reflections-Jonathan-Edwards-Illustrated-ebook/dp/B00D7C4F7C/ref=as_li_ss_il?dchild=1&keywords=David+Brainerd&qid=1584976652&sr=8-3&swrs=6D8B175BFF5B22EDC49782258DEBB1EC&linkCode=li3&tag=keelancook-20&linkId=984a824c25aeb895b74863563d38243d&language=en_US)![](https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B00D7C4F7C)
 
+[![Missionary to the New Hebrides](images/post-images/bio-missionary-to-new-hebrides.png)](https://amzn.to/2XfMvRV){:target="_blank"}
+
+
 ### [The Life and Diary of David Brainerd](https://amzn.to/3dxfF4S)
 
 This first book is perhaps the quintessentially classic missionary biography. It is primarily autobiographical, with notes from Jonathan Edwards. Brainerd was a missionary to the Native Americans during the 1700s.
