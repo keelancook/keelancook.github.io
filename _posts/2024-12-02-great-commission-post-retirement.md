@@ -107,6 +107,8 @@ In a recent article, John Piper said it this way,
 
 We need to capture this moment in the lives of our more seasoned saints. There are so many opportunities for local missional engagement. Who ever thinks to ask a retiring couple to be a part of that new church plant across town? What if these people became our best tools in church renewal work by being key workers in a replant or revitalization?
 
+[![Don't Waste Your Life](images/promo/dont-waste-your-life.png)](https://amzn.to/4jhiHuT){:target="_blank"}
+
 And I've already mentioned the potential for global sending. Instead of buying that RV and hopping tourist parks along the Eastern seaboard, what if we challenged our retiring families to pack up their bags and head to the nations?
 
 But, mobilizing post-retirement church members is only half of the equation. They also need to be the object of outreach and gospel ministry.

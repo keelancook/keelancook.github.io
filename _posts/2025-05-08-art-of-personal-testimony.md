@@ -41,6 +41,8 @@ Plead does not mean manipulate, of course. Paul is not telling us to trick peopl
 
 This is one reason our testimony is so important as we engage in gospel ministry. Your testimony is not the gospel message, but it is a clear demonstration of the gospel's power.
 
+[![Share Jesus without Freaking Out](images/promo/share-jesus.png)](https://amzn.to/3YTy8lB){:target="_blank"}
+
 ## Your testimony is one story of the gospel applied. 
 Your testimony demonstrates the gospel's power because it is one example of the gospel applied. Paul introduces the epistle to the Romans with these words: "For I am not ashamed of the gospel, because it is the power of God for salvation﻿ to everyone who believes, first to the Jew, and also to the Greek. For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith" (Romans 1:16-17). That truth has everything to do with your testimony. As a Christian, one brought from death to life, your story reveals the righteousness of God. 
 
