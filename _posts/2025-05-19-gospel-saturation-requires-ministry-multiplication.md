@@ -41,6 +41,8 @@ Throughout the books of Acts, Luke pauses periodically in his narrative to provi
 
 If we are concerned about a type of growth, may it be this kind of growth. We need a revival of this language in how we speak of the Christian mission. I appreciate the attempt made by our contemporary use of kingdom rhetoric to shift our focus in mission to a broader horizon than measuring attendance numbers. Yet, I fear at times it also takes our gaze off the priority of the mission itself, the spread of the Word of God through the proclamation of the gospel for the making of new disciples to the ends of the earth. Let's become accustomed again to talking about the growth of the gospel, the spread of the gospel, the increase of the Word of the Lord throughout a region.
 
+[![A Theology of the New Testament](images/promo/ladd-theology-nt.png)](https://amzn.to/3Hif3TT){:target="_blank"}
+
 ## How will they hear? 
 
 In his letter to the Roman church, Paul asks a question that cuts to the very heart of the Christian mission. He writes, "For 'everyone who calls on the name of the Lord will be saved.' How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent" (Rom 10:13–15)?
