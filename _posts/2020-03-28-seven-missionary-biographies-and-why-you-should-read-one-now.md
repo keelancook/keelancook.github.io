@@ -14,6 +14,13 @@ beforetoc: "I compiled this article to provide a handy list for people wanting t
 toc: true
 ---
 
+<!-- An attempt at hiding headings with a style tag -->
+<style>
+.hidden-heading {
+  display: none;
+}
+</style>
+
 I initially pulled this book list together during the pandemic a few years ago. Back then, all kinds of posts were appearing that recommended book lists for people to consider during our global shut-in. I even wrote one suggesting you use this time [to sharpen your Bible study skills](https://blog.keelancook.com/2020/03/now-is-the-time-to-do-that-bible-study-free-resources.html). But the one thing I did not see recommended were missionary biographies. I was honestly surprised by this omission. So, I created this list.
 
 Since then, I've continued having people thank me for the list and recommend it to others.
