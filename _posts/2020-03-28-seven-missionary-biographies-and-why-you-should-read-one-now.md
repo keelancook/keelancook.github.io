@@ -41,27 +41,31 @@ I pray that you will be comforted and challenged by their witness.
 
 This first set is a short collection of missionary biographies that are book-length treatments of one missionary. Of course, these are more in-depth reads and give you the chance to zoom in on one missionary and their story. Some are classics, and others are more recent contributions.
 
-### The Life and Diary of David Brainerd {.hidden-heading}
+### The Life and Diary of David Brainerd 
+{:.hidden-heading}
 [![David Brainerd](images/post-images/bio-david-brainerd.png)](https://amzn.to/4k8VbRY){:target="_blank"}
 
 This first book is perhaps the quintessentially classic missionary biography. It is primarily autobiographical, with notes from Jonathan Edwards. Brainerd was a missionary to the Native Americans during the 1700s.
 
 * * *
 
-### Faithful Witness: The Life of William Carey {.hidden-heading}
+### Faithful Witness: The Life of William Carey 
+{:.hidden-heading}
 [![Faithful Witness](images/post-images/bio-faithful-witness-carey.png)](https://amzn.to/43jeiCZ){:target="_blank"}
 
 Written by Timothy George, this biography details the life of the "Father of Modern Missions." Carey and his accomplishments were instrumental in beginning the modern missions movement. It is in large part to him that we owe our renewed focus on the Great Commission in evangelicalism.
 
 * * *
 
-### Through Gates of Splendor {.hidden-heading}
+### Through Gates of Splendor 
+{:.hidden-heading}
 [![Through Gates of Splendor](images/post-images/bio-gates-of-splendor-elliot.png)](https://amzn.to/3H7Kpg7){:target="_blank"}
 
 Jim Elliot's story is not that far removed from the present. In the middle of the last century, the Elliot family was part of a missionary team to the jungles of Ecuador. Written by his wife, Elisabeth Elliot, this biography recounts the story of sacrifice and grace that they found in their obedience to the Great Commission. It is well worth the read.
 
 * * *
-### To the Golden Shore: The Life of Adoniram Judson {.hidden-heading}
+### To the Golden Shore: The Life of Adoniram Judson 
+{:.hidden-heading}
 [![To the Golden Shore](images/post-images/bio-golden-shore-judson.png)](https://amzn.to/43wK5iz){:target="_blank"}
 
 Adoniram Judson's life is a monumental testimony to the grace of God even in the midst of sacrifice. Courtney Alexander first published this work in 1956, but it remains a classic missionary biography.
@@ -70,14 +74,16 @@ Adoniram Judson's life is a monumental testimony to the grace of God even in the
 
 If you prefer reading a compilation, I've included three of those as well. Unlike the above works, these provide chapter-length treatments that highlight a missionary's story but allow you to survey a number of different testimonies. If you're new to missionary biographies, then you may want to start here.
 
-### Ten Who Changed the World {.hidden-heading}
+### Ten Who Changed the World 
+{:.hidden-heading}
 [![Ten Who Changed the World](images/post-images/bio-ten-who-changed.png)](https://amzn.to/3H7rD8M){:target="_blank"}
 
 This is my go-to compilation for people entering the world of missionary biographies. Dr. Danny Akin is the president of Southeastern Baptist Theological Seminary and has developed a practice over the years of sharing an annual chapel message that details the life of a missionary as an extended illustration for his message. This book is the fruit of that practice, weaving together missionary biographies with devotional material.
 
 * * *
 
-### Filling up the Afflications of Christ {.hidden-heading}
+### Filling up the Afflications of Christ 
+{:.hidden-heading}
 [![Filling up the Afflications of Christ](images/post-images/bio-filling-up-afflications.png)](https://amzn.to/4k6OPTb){:target="_blank"}
 
 Like Dr. Akin, John Piper has done extensive research and writing on the lives of many missionaries and Christian ministers throughout history. This particular work highlights the lives of William Tyndale, Adoniram Judson, and John Paton. It's an excellent read in Piper's signature style.
