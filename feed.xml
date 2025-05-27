@@ -14,7 +14,7 @@ layout: null
         {% for post in site.posts limit:10 %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
-                <description>{{ post.content | xml_escape }}</description>
+                <description>{{ post.excerpt | xml_escape }}</description> /* This was originally post.content instead of post.excerpt */
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ post.url | absolute_url }}</link>
                 <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
