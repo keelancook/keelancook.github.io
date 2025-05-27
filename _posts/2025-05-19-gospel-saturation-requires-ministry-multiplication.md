@@ -13,7 +13,7 @@ rating:
 beforetoc: 
 toc: false
 ---
-## Introduction
+
 Language matters, but language without substance is just rhetoric. 
 
 The last two decades in church ministry have seen an impressive shift in the way we speak about the mission of the church. We've adopted a [language of multiplication](https://keelancook.com/moving-past-the-rhetoric-of-multiplication). And with this new language of multiplication comes a focus past the walls of the individual, local church. Truthfully, many pastors and ministry leaders are realizing that [no single church can reach a city](https://keelancook.com/why-no-single-church-can-reach-a-city). Of course, if the mission is bigger than our local church, then we need language that communicates broader work. 
@@ -23,6 +23,7 @@ The last two decades in church ministry have seen an impressive shift in the way
 Enter the Kingdom of God. The Bible is replete with language about the kingdom. It is the good news of the kingdom that Jesus came to preach (Mark 1:14, 1:38). It is the kingdom that, like a pearl of great price, is worth selling everything we have in order to obtain (Matthew 13). And it is the kingdom of God that will ultimately break into fullness with the return of Christ, destroying death and sin and ushering in a new creation (Revelation 11:15). 
 
 Today, it is common to hear people speaking of kingdom ministry, of advancing the kingdom, growing the kingdom, or building the kingdom. Kingdom language has become shorthand for mission language as it relates to those efforts that advance more than our one, local church. In fact, efforts at congregational growth are even said to be at odds with kingdom ministry when those efforts are more concerned about growing the church congregation than advancing the mission of God's global church. "Are you building your kingdom or God's kingdom?" people may ask.
+
 ## What exactly is a Kingdom perspective?
 
 Having a kingdom perspective usually means being more concerned about God's global mission than the material success (be it in attendance, finances, or buildings) of any one congregation, and that's a good thing. Curiously, however, the Bible rarely uses verbs like spread, advance, extend, or build when it talks about the Kingdom. As Darrell Guder points out in his book, *Missional Church*, "The verbs to build and to extend are not found in the New Testament’s grammar for the reign of God. The announcement of God’s reign nowhere includes an invitation to go out and build it, nor to extend it. These are not New Testament ways of speaking about the reign of God."[^1] Regardless of your thoughts on Guder's overall philosophy of ministry, his note concerning the biblical language used to reference the kingdom is significant. Guder goes on to note that speaking of the mission as kingdom building or kingdom extending often crafts the mission as some social project or sales pitch.[^2] Instead, he notes, the verbs *receive* and *enter* are often attached to the kingdom. The kingdom of God is not a project at the center of the church's mission waiting to be built; it is a gift, given by God that we may receive, enter, and to which we may invite others. 
