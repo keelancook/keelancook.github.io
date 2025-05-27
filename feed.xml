@@ -8,17 +8,17 @@ layout: null
         <description>{{ site.data.settings.description | xml_escape }}</description>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
         <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
-        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         {% for post in site.posts limit:10 %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <description>{{ post.excerpt | xml_escape }}</description> /* This was originally post.content instead of post.excerpt */
-                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate> /* Changed from site.time to post.date to get the front matter date set for each post. */
                 <link>{{ post.url | absolute_url }}</link>
                 <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
-                <author>
+                <author> /* Added this author code block to get the full name of the author in the feed. */
                   <name>
                     {% assign author_obj = site.authors | where: "username", post.author | first %}
                     {{ author_obj.name | xml_escape }}
