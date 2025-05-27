@@ -51,6 +51,8 @@ defaults:
     values:
       layout: "author"
 
+# Feed excerpt settings
+excerpt_separator: "<!--more-->"
 
 sass:
   sass_dir: _sass

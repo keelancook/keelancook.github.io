@@ -18,6 +18,8 @@ Language matters, but language without substance is just rhetoric.
 
 The last two decades in church ministry have seen an impressive shift in the way we speak about the mission of the church. We've adopted a [language of multiplication](https://keelancook.com/moving-past-the-rhetoric-of-multiplication). And with this new language of multiplication comes a focus past the walls of the individual, local church. Truthfully, many pastors and ministry leaders are realizing that [no single church can reach a city](https://keelancook.com/why-no-single-church-can-reach-a-city). Of course, if the mission is bigger than our local church, then we need language that communicates broader work. 
 
+<!--more-->
+
 Enter the Kingdom of God. The Bible is replete with language about the kingdom. It is the good news of the kingdom that Jesus came to preach (Mark 1:14, 1:38). It is the kingdom that, like a pearl of great price, is worth selling everything we have in order to obtain (Matthew 13). And it is the kingdom of God that will ultimately break into fullness with the return of Christ, destroying death and sin and ushering in a new creation (Revelation 11:15). 
 
 Today, it is common to hear people speaking of kingdom ministry, of advancing the kingdom, growing the kingdom, or building the kingdom. Kingdom language has become shorthand for mission language as it relates to those efforts that advance more than our one, local church. In fact, efforts at congregational growth are even said to be at odds with kingdom ministry when those efforts are more concerned about growing the church congregation than advancing the mission of God's global church. "Are you building your kingdom or God's kingdom?" people may ask.
