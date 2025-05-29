@@ -1,5 +1,8 @@
 {% if site.data.settings.newsletter.enable == true %}
-<!-- begin about -->
+<!-- I copied over the section-about.html file to create one for the newsletter with the same style but different content. I added settings in the settings.yml for newsletter that matched the about settings. I've attempted to change pieces of this one to pull in those settings and left pieces I think are related to style directed toward any about section style.-->
+
+
+<!-- begin newsletter about -->
 <section class="section about animate">
   <div class="container">
     <div class="row">
@@ -7,7 +10,7 @@
         <div class="about__inner">
 
           {% if site.data.settings.newsletter.newsletter_image %}
-          <div class="newsletter__image">
+          <div class="about__image">
             <img class="lazy" data-src="{{ site.data.settings.newsletter.newsletter_image }}" alt="{{ site.data.settings.about.author_image_alt }}">
           </div>
           {% endif %}
