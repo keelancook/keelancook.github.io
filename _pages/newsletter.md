@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Updates
+layout: newsletter
+title: 
 description: 
 permalink: /updates/
 image: 
@@ -8,6 +8,5 @@ image_caption:
 ---
 
 
-This page is presently under construction. Come back later to find some book recommendations! The following categories are books I frequently recommend on various subjects.
+This will be the news letter page. I'm trying to figure out where all the text would go doing it this way.
 
-{% include section-about.html %}
