@@ -67,7 +67,7 @@ recommended:
 about:
   enable: true
   about_title: Hello, I’m Keelan.
-  about_subtitle: I serve as the George Liele Director of the Center for Great Commission Studies at Southeastern Baptist Theological Seminary
+  about_subtitle: I serve as the George Liele Director of the Center for Great Commission Studies and as a professor of Christian Missions at Southeastern Baptist Theological Seminary.
   about_description: |
     I also serve as instructor of missiology at the seminary. Previously, I served as the Associate Director for the Union Baptist Association in Houston, TX. 
 
@@ -86,13 +86,13 @@ about:
 newsletter:
   enable: true
   newsletter_title: Stay in the know.
-  newsletter_subtitle: My name is Keelan Cook, and I write about the church and its mission. If you love those things, then this may be the website for you.
-  newsletter_description: |
+  newsletter_subtitle: My name is Keelan Cook, and I write about the church and its mission. If you love those things, this may be the website for you.
+  newsletter_description: 
     I serve as the George Liele Director of the Center for Great Commission Studies at Southeastern Baptist Theological Seminary 
 
-    I've been an international missionary, planted churches in North America, and been rather involved in church revitalization and replanting for a number of years.  I teach and write on church renewal and replanting as well as developing healthy sending culture in churches. I have a passion for mobilizing the church to the nations, and a love for missions history. 
+    I've served as an international missionary, planted churches in North America, and active in church revitalization and replanting for a number of years.  I teach and write on church renewal and replanting as well as developing healthy sending culture in churches. I have a passion for mobilizing the church to the nations, and a love for missions history. 
 
-    I plan to post new articles every couple of weeks, and adding your email below will give drop an email in your inbox when I do. Don't worry, you'll only get an email if I post a new article. That's all this gets used for.
+    I plan to post new articles every couple of weeks. Add your email address below to get an email when I do. Don't worry, you'll only get an email if I post a new article. That's all this gets used for.
 
   newsletter_image: "/images/keelan-bio.jpeg"
   newsletter_image_alt: Keelan Cook
@@ -109,7 +109,7 @@ authors:
 mailchimp:
   enable: true
   mailchimp_title: Don't miss the next article!
-  mailchimp_description: Get notified about new articles, right in your email inbox. Receive a an email no more than once a week with any updates. Just add your email address to the list below.
+  mailchimp_description: Get notified about new articles, right in your email inbox. Receive an email no more than once a week with any updates. Just add your email address to the list below.
   mailchimp_identifier: keelancook.us18.list-manage.com/subscribe/post?u=c5bc34a16760b316bee44bff4&amp;id=dfa9780140&amp;f_id=00a98ae6f0 # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe

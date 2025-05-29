@@ -8,5 +8,4 @@ image_caption:
 ---
 
 
-This will be the news letter page. I'm trying to figure out where all the text would go doing it this way.
-
+This will be the newsletter page. 
