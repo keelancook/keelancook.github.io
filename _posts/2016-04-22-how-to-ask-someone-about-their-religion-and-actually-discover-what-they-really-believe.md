@@ -26,6 +26,8 @@ We must dig deeper.
 
 When proclaiming the gospel, we need more than the religious label someone applies to herself. We need to know what they believe.
 
+[![Share Jesus without Freaking Out](images/promo/share-jesus.png)](https://amzn.to/3YTy8lB){:target="_blank"}
+
 ## Questions are powerful.
 
 The gospel is a message to share, but that also means it must be understood. I'm as guilty as the next person. When I want to share some news, I am often more concerned about saying what I want to say than hearing what others have to say. But, if we are to present the message of the gospel with clarity and understanding, then we need to understand the audience. The best way to do so is by asking the right questions.
@@ -61,15 +63,3 @@ The gospel story tells us there is only one thing that can remove the stain of s
 Finally, a full understanding of someone's beliefs is not complete without knowing their understanding of eternity. They may not believe in eternity. They may think life is over when they shut their eyes for the last time, or they may believe in reincarnation. However, everyone has to come to grips with both their individual destiny and the destiny of all of the universe. Those are big questions, and they will usually get someone thinking.
 
 Certainly, the gospel story has much to say concerning the end of all things. While many worldviews have a grim finish line, the Christian story is one that ends in great victory. The ultimate restoration of all things under the total lordship of Christ himself is the glorious promise of the gospel. The Christian has unwavering hope, because we know that the current sin-sickness is not the end of the story. We await a king and a glorious kingdom that will have no end.
-
-### Further Reading
-
-* * *
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0825444284&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/0825444284/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0825444284&linkCode=as2&tag=keelancook-20&linkId=070f09c2cda80884b37b8a3d6993b491)![](//ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&l=am2&o=1&a=0825444284)
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1535968958&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/1535968958/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1535968958&linkCode=as2&tag=keelancook-20&linkId=9ed4092d6d3db9d97f65e39b45c2395b)![](//ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&l=am2&o=1&a=1535968958)
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0801027055&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/0801027055/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0801027055&linkCode=as2&tag=keelancook-20&linkId=c21faacd2eadd17d27f072e64181ebea)![](//ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&l=am2&o=1&a=0801027055)
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008J4CINQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US)](https://www.amazon.com/Evangelism-Sovereignty-God-J-Packer-ebook/dp/B008J4CINQ?crid=63ZR91SGS9O2&dchild=1&keywords=evangelism+and+the+sovereignty+of+god+by+j.i.+packer&qid=1614977237&sprefix=evangelism+and+the+%2Caps%2C208&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=382628bb11364065df4c99f2da861ab0&language=en_US&ref_=as_li_ss_il)![](https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B008J4CINQ)
