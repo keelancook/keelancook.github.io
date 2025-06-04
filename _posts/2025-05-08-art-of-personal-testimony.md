@@ -14,6 +14,7 @@ rating:
 beforetoc: 
 toc: false
 ---
+
 I recently stumbled across an article at The Gospel Coalition that caught my attention. The article, titled "[The Increasing Value of Christian Testimonies](https://au.thegospelcoalition.org/article/the-increasing-value-of-christian-testimonies/)", resonated. In fact, I make similar claims in my Christian missions courses at the seminary where I teach. 
 
 The personal testimony is becoming more important. Perhaps it is fair to say it never stopped being important, but shifts in the majority culture and worldview around most Western Christians reveal its real significance to gospel ministry. 
