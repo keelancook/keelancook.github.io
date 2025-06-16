@@ -7,7 +7,7 @@ tags:
   - "missions"
   - "church planting"
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: "https://images.unsplash.com/photo-1473679408190-0693dd22fe6a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 rating: 
