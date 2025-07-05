@@ -1,6 +1,8 @@
 ---
 title: Live as though You Cannot Die
 date: 2025-07-03
+tags:
+  - discipleship
 categories:
   - missions
   - discipleship
