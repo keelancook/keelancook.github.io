@@ -4,7 +4,7 @@ title: "My First Journal Entry"
 date: "2010-01-25"
 tags:
   - "culture"
-  - "journalentry"
+  - "journal"
 author: keelan
 featured: false
 hidden: false
