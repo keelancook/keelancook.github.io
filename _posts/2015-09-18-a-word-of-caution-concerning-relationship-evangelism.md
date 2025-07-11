@@ -16,6 +16,9 @@ beforetoc:
 toc: false
 ---
 
+{: .note }
+I recently posted a new article that finished this conversation about relationship evangelism. In this article, I raise some concerns about poorly adopting this practice. In the next article, I lay out what I consider a healtheir philosophy of relationship evangelism. You can find the new article here: [Let's Get Serious about Relationship Evangelism](https://keelancook.com/lets-get-serious-about-relationship-evangelism).
+
 I can remember  Monday night visitation at church. We would all meet up at the church building to pair up and take any visitor cards from the Sunday before and go visit the new families and share the gospel with them. In addition, it was standard procedure to go door-to-door in the neighborhoods around their house and talk to people we had never met and attempt to share the gospel with them. We were given tracts, taught simple presentations, and armed with some questions that should allow us to get into a gospel conversation with a stranger.
 
 That is not cool anymore.
