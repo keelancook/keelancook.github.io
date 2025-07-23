@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On letting go"
-date: "2012-01-04"
-categories: 
+title: On Letting Go
+date: 2012-01-04
+tags: 
   - "aha moments"
   - "discipleship"
   - "holidays"
@@ -19,7 +19,7 @@ toc: false
 
 I am a dreamer.
 
-God blessed me with a vivid imagine. As a child, that took the shape of me [dressing up in costumes](http://blog.keelancook.com/2011/12/unsalty-salt.html "Unsalty salt") and running around fighting crime in a world I had created in my mind. As an adult, I find my imagination no less vivid. However, I rarely dress up in costumes nowadays. (Note: I said "rarely.") I do like to dream things up though, and I do it all day long. I am constantly imagining how my future will look, thinking through my next steps in life, pondering what is to come.
+God blessed me with a vivid imagine. As a child, that took the shape of me [dressing up in costumes](https://keelancook.com/unsalty-salt "Unsalty salt") and running around fighting crime in a world I had created in my mind. As an adult, I find my imagination no less vivid. However, I rarely dress up in costumes nowadays. (Note: I said "rarely.") I do like to dream things up though, and I do it all day long. I am constantly imagining how my future will look, thinking through my next steps in life, pondering what is to come.
 
 Now, mix that with my bend toward optimism and it can get a little romanticized. I think of life down the road and imagine all that God will have me do, where he will have me serve, and what joys and relationships life will bring, and I begin to paint a pretty, rosy picture.
 
