@@ -5,7 +5,7 @@ categories:
   - missions
   - cooperation
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: https://images.unsplash.com/photo-1518135714426-c18f5ffb6f4d?q=80&w=1792&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 rating: 
