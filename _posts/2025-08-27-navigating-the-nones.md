@@ -9,7 +9,7 @@ author: keelan
 featured: true
 hidden: false
 image: images/post-images/nones.png
-image_caption: "Photo credit: Unsplash"
+image_caption: "Photo credit: Generated with Gemini"
 rating:
 beforetoc:
 toc: false
