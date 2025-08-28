@@ -3,7 +3,7 @@ type: post
 status: idea
 title: "Curious, Crystals, or Combative: Navigating the Nones"
 date: 2025-08-18
-categories:
+tags:
   - demographics
 author: keelan
 featured: true
