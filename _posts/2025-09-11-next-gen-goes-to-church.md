@@ -17,7 +17,7 @@ toc: false
 
 It's been called a "quiet revival," or the "revival generation."[^1] Perhaps we now have numerical evidence to back up that experience. It appears Next Gen is showing up for church.
 
-More than that, they're now showing up more than their older counterparts. It appears Millennial and Gen Z are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
+More than that, they are now showing up more than their older counterparts. It appears Millennial and Gen Z adults are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
 
 Recent research, [executed by Barna](https://www.barna.com/research/young-adults-lead-resurgence-in-church-attendance/){:target="_blank"}, tracked the frequency of church attendance by generation, and these two Next Gen groups come out on top. 
 
@@ -26,7 +26,7 @@ By using church frequency, Barna measured how often their respondents participat
 
 According to the research, "church going" frequency is presently rising. However, that only tells half the story. To be more precise, frequency is mostly flat or in slight decline among other generational cohorts. But despite plateaued involvement from other groups, the increase among Millennials and Gen Z in church frequency has been so significant over the last five years, that it caused the average for everyone to go up.
 
-## Church Going Average: 1.6 weekends a month.
+## Church Going Average: 1.6 Weekends a Month
 Now, let's be honest, 1.6 weekends a month seems pretty underwhelming as an average for all adults regardless of generation. Of the people that we call "regular church attenders", they come less than 2 times a month.
 
 Though it appears low, remember this is also an average. That means you are lumping in the people who are there every time someone unlocks the church doors with the folk that barely make it every six months. According to Barna's data, they poled all adults in their database who attended church in the last 6 months. This metric created their respondent pool. That is a low barrier of entry, but with good reason. They goal was to catch people who self-identified as regular church attenders and see what that actually means to them. This produced a respondent pool of thousands, so it is plenty for a decent survey.
