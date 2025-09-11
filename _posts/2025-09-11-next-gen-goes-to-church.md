@@ -2,7 +2,7 @@
 type: post
 status: idea
 title: Next Gen Goes to Church
-date:
+date: 2025-09-11
 tags:
   - demographics
 author: keelan

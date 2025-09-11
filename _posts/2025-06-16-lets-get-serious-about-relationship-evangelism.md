@@ -12,7 +12,7 @@ categories:
   - evangelism
   - missions
   - discipleship
-featured: true
+featured: false
 hidden: false
 toc: false
 ---
