@@ -17,7 +17,7 @@ toc: false
 
 It's been called a "quiet revival," or the "revival generation."[^1] Perhaps we now have numerical evidence to back up that experience. It appears Next Gen is showing up for church.
 
-More than that, they're now showing up more than their older counterparts. It appears Millennial and Gen Z are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
+More than that, they're now showing up more than their older counterparts. It appears Millennial and Gen Z adults are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
 
 Recent research, [executed by Barna](https://www.barna.com/research/young-adults-lead-resurgence-in-church-attendance/){:target="_blank"}, tracked the frequency of church attendance by generation, and these two Next Gen groups come out on top. 
 
@@ -28,7 +28,7 @@ According to the research, "church going" frequency is presently rising. However
 
 [![Reaching the Next Generation](images/promo/deyoung-next-gen.png)](https://amzn.to/3VaQfRJ){:target="_blank"}
 
-## Church Going Average: 1.6 weekends a month.
+## Church Going Average: 1.6 Weekends a Month
 Now, let's be honest, 1.6 weekends a month seems pretty underwhelming as an average for all adults regardless of generation. Of the people that we call "regular church attenders", they come less than 2 times a month.
 
 Though it appears low, remember this is also an average. That means you are lumping in the people who are there every time someone unlocks the church doors with the folk that barely make it every six months. According to Barna's data, they poled all adults in their database who attended church in the last 6 months. This metric created their respondent pool. That is a low barrier of entry, but with good reason. They goal was to catch people who self-identified as regular church attenders and see what that actually means to them. This produced a respondent pool of thousands, so it is plenty for a decent survey.
@@ -37,10 +37,10 @@ After marking out the respondent pool, they determined their frequency. If you l
 
 I still don't like it, but that's often the state of things. We are fooling ourselves to think otherwise. And, if you are a local church pastor, I believe this likely confirms something you already know. Even those who claim to be regular church attenders have a thinner definition of regular than we'd like.
 
-[![Mobilizing Gen Z](images/promo/mobilizing-gen-z.png)](https://amzn.to/4ny3JDf){:target="_blank"}
-
-## Next Generation Cohorts are Bucking the Trend
+## Next Generation Cohorts Buck the Trend
 While average attendance among church goers is lower than ideal, the upcoming generations are reversing the trend if this survey is to be believed. At least two significant findings in the data bear real-world significance on how we think about local church ministry in the United States.
+
+[![Mobilizing Gen Z](images/promo/mobilizing-gen-z.png)](https://amzn.to/4ny3JDf){:target="_blank"}
 
 First, the research demonstrates what may be explosive growth in church attendance among both Millennials and Gen Z. Those cohorts are significantly higher than the average at 1.8 and 1.9 weekends each month respectively. What is more, their frequency was much lower a few years ago. In 2020, both next generational cohorts sat around one weekend a month. In other words, they have both almost doubled in frequency in the last five years. 
 
@@ -63,7 +63,7 @@ Personally, I'm ambivalent to that initial suggestion. It is certainly true that
 
 Meet them where we can? Sure. But call them to a fuller understanding of loyalty and commitment to the family of God through even more regular participation in the coporate gathering of the saints. I believe so.
 
-If you want to hear more about this, Scott Hildreth and I recently discussed these findings on an episode of *The Sent Life*, our podcast through the Center for Great Commission Studies. Here's the episode: [Why the Next Generation Is Returning to Church])(https://www.thecgcs.org/resources/podcast/why-the-next-generation-is-returning-to-church/).
+If you want to hear more about this, Scott Hildreth and I recently discussed these findings on an episode of *The Sent Life*, our podcast through the Center for Great Commission Studies. Here's the episode: [Why the Next Generation Is Returning to Church](https://www.thecgcs.org/resources/podcast/why-the-next-generation-is-returning-to-church/).
 
 [^1]: To read people writing about the "quiet revival" happening among the next generation in the United Kingdom, go [here](https://colsoncenter.org/breakpoint/the-quiet-revival-of-gen-z), [here](https://relevantmagazine.com/faith/the-quiet-revival-how-gen-z-is-reversing-the-church-decline-in-the-uk/), [here](https://sarahcoppin.substack.com/p/the-gen-z-quiet-revival), or [here](https://www.biblesociety.org.uk/research/quiet-revival?gad_source=1&gad_campaignid=22692344112). Shane Pruitt often refers to the upcoming generation as the "[Revival Generation](https://news.lifeway.com/2024/01/08/pruitts-revival-generation-helps-leaders-walk-students-toward-faith-renewal/)," because he sees what he considers a movement of renewal occurring among young adults in the United States.
 
