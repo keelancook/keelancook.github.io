@@ -17,7 +17,7 @@ toc: false
 
 It's been called a "quiet revival," or the "revival generation."[^1] Perhaps we now have numerical evidence to back up that experience. It appears Next Gen is showing up for church.
 
-More than that, they are now showing up more than their older counterparts. It appears Millennial and Gen Z adults are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
+More than that, they're now showing up more than their older counterparts. It appears Millennial and Gen Z are now the most frequent church attenders, outpacing members of the Elder and Boomer generations. 
 
 Recent research, [executed by Barna](https://www.barna.com/research/young-adults-lead-resurgence-in-church-attendance/){:target="_blank"}, tracked the frequency of church attendance by generation, and these two Next Gen groups come out on top. 
 
@@ -26,7 +26,9 @@ By using church frequency, Barna measured how often their respondents participat
 
 According to the research, "church going" frequency is presently rising. However, that only tells half the story. To be more precise, frequency is mostly flat or in slight decline among other generational cohorts. But despite plateaued involvement from other groups, the increase among Millennials and Gen Z in church frequency has been so significant over the last five years, that it caused the average for everyone to go up.
 
-## Church Going Average: 1.6 Weekends a Month
+[![Reaching the Next Generation](images/promo/deyoung-next-gen.png)](https://amzn.to/3VaQfRJ){:target="_blank"}
+
+## Church Going Average: 1.6 weekends a month.
 Now, let's be honest, 1.6 weekends a month seems pretty underwhelming as an average for all adults regardless of generation. Of the people that we call "regular church attenders", they come less than 2 times a month.
 
 Though it appears low, remember this is also an average. That means you are lumping in the people who are there every time someone unlocks the church doors with the folk that barely make it every six months. According to Barna's data, they poled all adults in their database who attended church in the last 6 months. This metric created their respondent pool. That is a low barrier of entry, but with good reason. They goal was to catch people who self-identified as regular church attenders and see what that actually means to them. This produced a respondent pool of thousands, so it is plenty for a decent survey.
@@ -34,6 +36,8 @@ Though it appears low, remember this is also an average. That means you are lump
 After marking out the respondent pool, they determined their frequency. If you lump all those people who only came once in six months together with the Sunday School teachers there every Sunday, you get 1.6 a month. 
 
 I still don't like it, but that's often the state of things. We are fooling ourselves to think otherwise. And, if you are a local church pastor, I believe this likely confirms something you already know. Even those who claim to be regular church attenders have a thinner definition of regular than we'd like.
+
+[![Mobilizing Gen Z](images/promo/mobilizing-gen-z.png)](https://amzn.to/4ny3JDf){:target="_blank"}
 
 ## Next Generation Cohorts are Bucking the Trend
 While average attendance among church goers is lower than ideal, the upcoming generations are reversing the trend if this survey is to be believed. At least two significant findings in the data bear real-world significance on how we think about local church ministry in the United States.
@@ -54,6 +58,8 @@ So, what do we make of this? In their report, Barna is rather optimistic about t
 Furthermore, they claim capitalizing on this next generation interest and participation means embracing a lot of their preferences to do so. Barna suggests we acqueisce, at some level, to the present rate of attendance and claims church leaders need to assume "regular attendars" who are not all that regular and adjust to meet them in digital spaces. They suggest employing church apps, chat opportunities, and likely livestream services to accommodate this and stay connected when they are away from the corporate gathering.
 
 Personally, I'm ambivalent to that initial suggestion. It is certainly true that we lead the church that *is* not the one that *ought to be*. If we are going to engage these new attenders, it will requires us to initially meet them where they are in some sense. However, I am committed to the idea that we must call them to more if the Scriptures do so. I'm not so quick to overlook the command of Scripture that we do not foresake the gathering for the assembly. 
+
+[![Evangelism in a Skeptical World](images/promo/chan-skeptical.png)](https://amzn.to/4fXzP8A){:target="_blank"}
 
 Meet them where we can? Sure. But call them to a fuller understanding of loyalty and commitment to the family of God through even more regular participation in the coporate gathering of the saints. I believe so.
 
