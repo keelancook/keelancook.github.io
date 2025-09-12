@@ -29,9 +29,9 @@ According to the research, "church going" frequency is presently rising. However
 [![Reaching the Next Generation](images/promo/deyoung-next-gen.png)](https://amzn.to/3VaQfRJ){:target="_blank"}
 
 ## Church Going Average: 1.6 Weekends a Month
-Now, let's be honest, 1.6 weekends a month seems pretty underwhelming as an average for all adults regardless of generation. Of the people that we call "regular church attenders", they come less than 2 times a month.
+Now, let's be honest, 1.6 weekends a month seems pretty underwhelming as an average for all adults regardless of generation. Of the people that we call "regular church attenders," they come less than 2 times a month.
 
-Though it appears low, remember this is also an average. That means you are lumping in the people who are there every time someone unlocks the church doors with the folk that barely make it every six months. According to Barna's data, they poled all adults in their database who attended church in the last 6 months. This metric created their respondent pool. That is a low barrier of entry, but with good reason. They goal was to catch people who self-identified as regular church attenders and see what that actually means to them. This produced a respondent pool of thousands, so it is plenty for a decent survey.
+Though it appears low, remember this is also an average. That means you are lumping in the people who are there every time someone unlocks the church doors with the folk that barely make it every six months. According to Barna's data, they polled all adults in their database who attended church in the last 6 months. This metric created their respondent pool. That is a low barrier of entry, but with good reason. The goal was to catch people who self-identified as regular church attenders and see what that actually means to them. This produced a respondent pool of thousands, so it is plenty for a decent survey.
 
 After marking out the respondent pool, they determined their frequency. If you lump all those people who only came once in six months together with the Sunday School teachers there every Sunday, you get 1.6 a month. 
 
@@ -42,7 +42,7 @@ While average attendance among church goers is lower than ideal, the upcoming ge
 
 [![Mobilizing Gen Z](images/promo/mobilizing-gen-z.png)](https://amzn.to/4ny3JDf){:target="_blank"}
 
-First, the research demonstrates what may be explosive growth in church attendance among both Millennials and Gen Z. Those cohorts are significantly higher than the average at 1.8 and 1.9 weekends each month respectively. What is more, their frequency was much lower a few years ago. In 2020, both next generational cohorts sat around one weekend a month. In other words, they have both almost doubled in frequency in the last five years. 
+First, the research demonstrates what may be explosive growth in church attendance among both Millennials and Gen Z. Those cohorts are significantly higher than the average at 1.8 and 1.9 weekends each month respectively. What is more, their frequency was much lower a few years ago. In 2020, both next generational cohorts attended approximately one weekend a month. In other words, they have both almost doubled in frequency in the last five years. 
 
 Both Millennials and Gen Z adults currently have the highest rates of attendance ever recorded for their cohorts, if I'm reading the report correctly. That is a marked gain and something worth noting.
 
@@ -55,13 +55,13 @@ If nothing else, this bucks the stereotype that younger generations are simply d
 ## Is this an opportunity for ministry?
 So, what do we make of this? In their report, Barna is rather optimistic about the ministry potential presented by this trend. Of course, Barna published the data. David Kinnaman, Barna's CEO claimed, “The significant drop-off among older generations shows that the fabric of congregational life is changing. It’s more frayed and less gray than it was a decade ago. The influx of new generations represents a massive opportunity for congregational leaders, but this renewed interest must be stewarded well.”[^2]
 
-Furthermore, they claim capitalizing on this next generation interest and participation means embracing a lot of their preferences to do so. Barna suggests we acqueisce, at some level, to the present rate of attendance and claims church leaders need to assume "regular attendars" who are not all that regular and adjust to meet them in digital spaces. They suggest employing church apps, chat opportunities, and likely livestream services to accommodate this and stay connected when they are away from the corporate gathering.
+Furthermore, they claim capitalizing on this next generation interest and participation means embracing a lot of their preferences to do so. Barna suggests we acqueisce, at some level, to the present rate of attendance and claims church leaders need to assume "regular attenders" who are not all that regular and adjust to meet them in digital spaces. They suggest employing church apps, chat opportunities, and likely livestream services to accommodate this and stay connected when they are away from the corporate gathering.
 
-Personally, I'm ambivalent to that initial suggestion. It is certainly true that we lead the church that *is* not the one that *ought to be*. If we are going to engage these new attenders, it will requires us to initially meet them where they are in some sense. However, I am committed to the idea that we must call them to more if the Scriptures do so. I'm not so quick to overlook the command of Scripture that we do not foresake the gathering for the assembly. 
+Personally, I'm ambivalent to that initial suggestion. It is certainly true that we lead the church that *is*, not the one that *ought to be*. If we are going to engage these new attenders, it will require us to initially meet them where they are in some sense. However, I am committed to the idea that we must call them to more if the Scriptures do so. I'm not so quick to overlook the command of Scripture that we do not foresake the gathering for the assembly. 
 
 [![Evangelism in a Skeptical World](images/promo/chan-skeptical.png)](https://amzn.to/4fXzP8A){:target="_blank"}
 
-Meet them where we can? Sure. But call them to a fuller understanding of loyalty and commitment to the family of God through even more regular participation in the coporate gathering of the saints. I believe so.
+Meet them where we can? Sure. But call them to a fuller understanding of loyalty and commitment to the family of God through even more regular participation in the corporate gathering of the saints? I believe so.
 
 If you want to hear more about this, Scott Hildreth and I recently discussed these findings on an episode of *The Sent Life*, our podcast through the Center for Great Commission Studies. Here's the episode: [Why the Next Generation Is Returning to Church](https://www.thecgcs.org/resources/podcast/why-the-next-generation-is-returning-to-church/).
 
