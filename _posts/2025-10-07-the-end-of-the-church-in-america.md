@@ -17,7 +17,7 @@ toc: false
 
 "Is this the end of the church in America?"
 
-You've heard the question. Perhaps you have wondered yourself. I'm sure you've read the articles like I have. It seems every few months something in the news cycle (or on the news cycle's demented cousin, the X/Twitter feed) sparks a fresh batch of hand wringing concerning the inevitable demise of the church in America.
+You have heard the question. Perhaps you have wondered yourself. I am sure you have read the articles like I have. It seems every few months something in the news cycle (or on the news cycle's demented cousin, the Twitter feed) sparks a fresh batch of hand wringing concerning the inevitable demise of the church in America.
 
 What follows is a sensible plea to sensible people: let's instead take a posture of both confidence and humility when we consider the future of the church in America (or anywhere else for that matter.) If my tone comes across as sharp, it is not my intention. At the same time, I find it increasingly important to speak against some of the excess in online speech about the church nowadays. 
 
@@ -30,6 +30,8 @@ Making broad universal predictions about the plight of the American church is ab
 ## The gates of hell *might* not prevail?
 
 Social media is fertile soil for sensationalism. In fact, sensationalism and outrage appear to be the fuel that drives the engine of the social web. Not only that, but sensationalism also makes a good platform for budding ministry pundits, many of whom seem to spin The Next Big Thing™ as the end of the church in America.
+
+[![You Will Be My Witnesses](images/promo/my-witnesses.png)](https://amzn.to/48kkjC7){:target="_blank"}
 
 Of course, we should always expect predictions of the church's total failure from those outside of the church who are already antagonistic toward its purpose. Make no mistake, there are many rooting for the church to fail. However, my concern here are those inside the church who pedal in such pessimism. For some, perhaps it is the inability to see God at work in the slow. For others, perhaps it is an axe they wish to grind against the established church. As noted above, I believe for too many it's a chance to gain notoriety or influence.
 
@@ -45,11 +47,15 @@ We can be confident in the promise that Christ will have a witness, but let us a
 
 Dismissing today's hardships in hopes of returning to some golden era of the church, free of difficulty, is the worst kind of fiction. First, there is no going back. Second, it is a form of amnesia that claims the church of yesteryear was free of its own difficulties. Recall the Israelites grumbling in the wilderness begging to return to Egypt, where they were slaves.
 
+[![Flickering Lamps](images/promo/flickering-lamps.png)](https://amzn.to/3KBOI58){:target="_blank"}
+
 ## Confidence and Humility
 
 So, what is the right posture in this or any moment? Let the Scriptures guide you to a posture of confidence and humility. Be confident that the gates of hell will not ultimately prevail against Christ's church. Be confident the church is God's plan for making disciples of all nations. Be confident that the church is indeed the pillar and buttress of the truth. But hold that confidence with great humility, recognizing that any one of our local congregations is not promised or entitled to success. Heed the warnings given by Christ to His churches in Revelation. 
 
-John writes of his vision of Christ, walking among the lampstands, his churches. To the church at Ephesus, the One who holds the seven stars in His hand, he warns, "But I have this against you: You have abandoned the love you had at first. Remember then how far you have fallen; repent, and do the works you did at first. Otherwise, *I will come to you and remove your lampstand from its place, unless you repent*." (Revelation 2:4-5) The warning to this congregation in Ephesus so long ago could very well be true of any local congregation today.
+John writes of his vision of Christ, walking among the lampstands, *His* churches. To the church at Ephesus, the One who holds the seven stars in His hand, he warns, 
+>But I have this against you: You have abandoned the love you had at first. Remember then how far you have fallen; repent, and do the works you did at first. Otherwise, *I will come to you and remove your lampstand from its place, unless you repent*" (Revelation 2:4-5)
+The warning to this congregation in Ephesus so long ago could very well be true of any local congregation today.
 
 Confidence causes us to avoid the defeatism and sensationalism making grandiose claims about the state of the church in America. Humility forces us to face the reality that our own congregation can, in fact, lose its first love and be in need of desperate repentance. 
 
