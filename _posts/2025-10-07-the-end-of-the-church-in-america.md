@@ -55,6 +55,7 @@ So, what is the right posture in this or any moment? Let the Scriptures guide yo
 
 John writes of his vision of Christ, walking among the lampstands, *His* churches. To the church at Ephesus, the One who holds the seven stars in His hand, he warns, 
 >But I have this against you: You have abandoned the love you had at first. Remember then how far you have fallen; repent, and do the works you did at first. Otherwise, *I will come to you and remove your lampstand from its place, unless you repent*" (Revelation 2:4-5)
+
 The warning to this congregation in Ephesus so long ago could very well be true of any local congregation today.
 
 Confidence causes us to avoid the defeatism and sensationalism making grandiose claims about the state of the church in America. Humility forces us to face the reality that our own congregation can, in fact, lose its first love and be in need of desperate repentance. 
