@@ -16,6 +16,7 @@ beforetoc:
 toc: false
 ---
 
+
 Our world is not as it seems. We go through our days, worrying about the present circumstances, one eye on our social feed and the day's news cycle. Inevitably, there is another political controversy. Someone of notoriety that you've vaguely heard of before is now in the middle of scandal, self-inflicted or otherwise. The economy is worse, or better, it's hard to tell depending on who is speaking. And in the middle of it all, your real concern is figuring out how to get all of your emails answered, the kids off to school or practice, the leaves raked, and that rotten spot on your deck railing fixed. Our thoughts of this world consume our days.
 
 In the middle of this mundane madness, Paul's words interrupt our train of thought. This world is not as it seems.
