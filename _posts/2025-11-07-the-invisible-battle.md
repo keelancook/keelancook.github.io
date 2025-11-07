@@ -2,7 +2,7 @@
 type: post
 status: idea
 title: "The Invisible Battle: Living as Citizens in a Kingdom at War"
-date:
+date: 2025-11-07
 categories:
   - discipleship
   - spiritual warfare
