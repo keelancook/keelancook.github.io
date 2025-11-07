@@ -4,7 +4,7 @@ date: 2025-07-18
 categories:
   - spiritual formation
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: https://www.imb.org/photos/wp-content/uploads/sites/5/2021/01/MG_8120-2048x1365.jpg
 image_caption: "Photo credit: IMB"

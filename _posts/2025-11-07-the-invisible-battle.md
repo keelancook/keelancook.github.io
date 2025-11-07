@@ -52,7 +52,7 @@ Paul's warning matters as much today as it did for those first Christians who re
 Our enemy schemes. Peter agrees with Paul's sentiment in one of his letters in the New Testament. He writes, "Be sober-minded, be alert. Your adversary the devil is prowling around like a roaring lion, looking for anyone he can devour" (1 Peter 5:8). The image given by both biblical writers is a personal, active enemy who looks for opportunity. He schemes. The devil plans and strategizes. He looks for people, personally, to devour. As Stott noted above, he preys on the weak.
 
 Schemes disguise intent, and that is how the devil works. Klyne Snodgrass spoke of it this way, 
->Evil rarely looks evil until it accomplishes its goal; it gains entrance by appearing attractive, desirable, and perfectly legitimate. It is a baited and camouflaged trap. (Klyne Snodgrass's *Ephesians, The NIV Application Commentary*, published in 1996, page ??)
+>Evil rarely looks evil until it accomplishes its goal; it gains entrance by appearing attractive, desirable, and perfectly legitimate. It is a baited and camouflaged trap.[^1]
 
 How true this is of temptation. Sin is indeed a baited and camouflaged trap. By these schemes, the devil destroys his prey. He brings down the Christian. 
 
@@ -68,13 +68,19 @@ Evil rarely looks evil until it accomplishes its goal. The devil schemes, and th
 Of course, the alternative to standing is falling. Paul does not provide a third option in this passage. We stand or we fall. There is no middle ground where we somehow opt out of the attacks of the enemy. We cannot choose the sidelines, watching others navigate the war. The war is fought in our heart, and the moment one thinks they can merely avoid it, they have likely already fallen.
 
 John Stott, said it this way,
->Wobbly Christians who have no firm foothold in Christ are an easy prey for the devil. And Christians who shake like reeds and rushes cannot resist the wind when the principalities and powers begin to blow. (Stott, Message of Ephesians)
+>Wobbly Christians who have no firm foothold in Christ are an easy prey for the devil. And Christians who shake like reeds and rushes cannot resist the wind when the principalities and powers begin to blow.[^2] 
 
 And the winds do blow. Wobbly Christians cannot stand and those who cannot stand get eaten. 
 
 This sounds like drastic language. You may be tempted to see Paul's words and classify this as an overstatement, to assume the use of hyperbole to motivate his audience. Paul may be using figurative language when he describes this war, but there is no hyperbole in his words. The Christian faces an enemy more sinister than he can comprehend, and more deadly than he can fathom.
 
 There is only one way we stand against the schemes of the devil. There is only one way we hold up against the winds and powers of the enemy. It's by acknowledging our weakness and standing firm in God's power. Kent Hughes says it this way, 
->"We must imitate Gideon’s going from 32,000 warriors to 10,000 to 300 armed only with trumpets and lanterns (Judges 7). This divestment of natural strength enabled the putting on of God’s power—and a mighty victory!" (Hughes, Ephesians Commentary)
+>"We must imitate Gideon’s going from 32,000 warriors to 10,000 to 300 armed only with trumpets and lanterns (Judges 7). This divestment of natural strength enabled the putting on of God’s power—and a mighty victory!"[^3]
 
 God's power comes when we lay down our own arms and put on His. The victory belongs to the Lord.
+
+[^1]: Klyne Snodgrass, [Ephesians](https://amzn.to/4nCveeh), NIV Application Commentary (Grand Rapids, Mich: Zondervan, 1996).
+
+[^2]: John Stott, [The Message of Ephesians](https://amzn.to/3LMPxIG) (Downers Grove, IL, London: IVP Academic, 2020).
+
+[^3]: R. Kent Hughes, [Ephesians: The Mystery of the Body of Christ](https://amzn.to/49EvbLE), Preaching the Word (Wheaton: Crossway, 2013).
