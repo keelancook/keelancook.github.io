@@ -1,6 +1,6 @@
 ---
 type: post
-status: published
+status: idea
 title: "The Invisible Battle: Living as Citizens in a Kingdom at War"
 date:
 categories:
