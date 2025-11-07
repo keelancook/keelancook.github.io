@@ -1,10 +1,11 @@
 ---
 type: post
-status: idea
+status: published
 title: "The Invisible Battle: Living as Citizens in a Kingdom at War"
 date:
 categories:
   - discipleship
+  - spiritual warfare
 author: keelan
 featured: true
 hidden: false
