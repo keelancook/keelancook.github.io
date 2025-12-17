@@ -44,7 +44,3 @@ So this miracle book leaves man at a crossroads.
 We have one of two options, a choice of two roads. Either we embrace this book for all it claims to be, or we toss it aside as a complete lie. For, based on the book's testimony of itself, it cannot stand in the middle. It is all it says it is, or it is absolutely none of it.
 
 However, we must understand that accepting this book for what it is, accepting this story as The Story, requires living as though it is true. Confessing it is true and living as though it is not will simply never do.
-
-So, we must embrace the story of the Bible as the grand, God-given narrative it is. But, what is that narrative? If it really is one big story, then what is that story?
-
-More to come...
