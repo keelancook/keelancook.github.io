@@ -6,7 +6,7 @@ date: 2025-08-18
 tags:
   - demographics
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: images/post-images/nones.png
 image_caption: "Photo credit: Generated with Gemini"
