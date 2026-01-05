@@ -2,7 +2,7 @@
 type: post
 status: published
 title: "Spiritual Readiness in Wartime"
-date: 2026-05-03
+date: 2026-01-03
 categories:
   - spiritual formation
 author: keelan
@@ -26,7 +26,7 @@ First, consider the word *full.*
 
 Roman soldiers fought in close combat, with swords and shields. You never knew where a blade, an arrow, or a spear was coming from. It was grisly, hand-to-hand combat. That's the image Paul has in mind. We are in the middle of the fray.
 
-The Greek words used here, **πλήρης πανοπλία** (_plḗrēs panoplía_), are actually a technical term for a specific kind of Roman armor. The words identify a complete set of armor that covers a person from head to toe.[^3] This armor provides not just some coverage. It provides complete coverage. Paul goes on to detail the various pieces of armor: the belt, the breastplate, the shoes, the helmet and sword. It's defense from every angle. And this full armor is complete when all pieces are together. Put on the *full* armor of God.
+The Greek words used here, *πλήρης πανοπλία* (_plḗrēs panoplía_), are actually a technical term for a specific kind of Roman armor. The words identify a complete set of armor that covers a person from head to toe.[^3] This armor provides not just some coverage. It provides complete coverage. Paul goes on to detail the various pieces of armor: the belt, the breastplate, the shoes, the helmet and sword. It's defense from every angle. And this full armor is complete when all pieces are together. Put on the *full* armor of God.
 
 In the battle against the evil one, when we wear this armor, we can have confidence that we are defended on every side.
 
@@ -64,6 +64,6 @@ The very armor of God, forged by His hand is extended to us. With it, we can sta
 ---
 [^1]: Tony Merida, [*Exalting Jesus in Ephesians*](https://amzn.to/4q5usJ2), Christ-Centered Exposition Commentary (Nashville: B&H, 2014).
 
-[^2]: John R. W. Stott, [God’s New Society: The Message of Ephesians](https://amzn.to/44OuvQU), The Bible Speaks Today (Downers Grove, IL: InterVarsity Press, 1979), 266.
+[^2]: John R. W. Stott, [*God’s New Society: The Message of Ephesians*](https://amzn.to/44OuvQU), The Bible Speaks Today (Downers Grove, IL: InterVarsity Press, 1979), 266.
 
-[^3]: William Arndt et al., in [A Greek-English Lexicon of the New Testament and Other Early Christian Literature](https://ref.ly/res/LLS:46.30.18/2024-08-01T21:04:24Z/5940886?len=59) (Chicago: University of Chicago Press, 2000), 754.
+[^3]: William Arndt et al., in [*A Greek-English Lexicon of the New Testament and Other Early Christian Literature*](https://ref.ly/res/LLS:46.30.18/2024-08-01T21:04:24Z/5940886?len=59) (Chicago: University of Chicago Press, 2000), 754.
