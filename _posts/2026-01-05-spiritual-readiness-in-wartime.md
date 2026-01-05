@@ -33,12 +33,14 @@ In the battle against the evil one, when we wear this armor, we can have confide
 ## The Armor is God's
 More important than the style of armor is the one to whom it belongs. This is no regular armor. This armor is God's armor. I convinced many do not recognize this passage has roots in the Old Testament. In Isaiah chapter 59, the prophet tells about the sinfulness of Israel.
 
-{: .note } Isaiah 59:9-12
-Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we live in the night. **10** We grope along a wall like the blind; we grope like those without eyes. We stumble at noon as though it were twilight; we are like the dead among those who are healthy. **11** We all growl like bears and moan like doves. We hope for justice, but there is none; for salvation, but it is far from us. **12** For our transgressions have multiplied before you, and our sins testify against us. 
+{: .note } 
+Isaiah 59:9-12
+*Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we live in the night. We grope along a wall like the blind; we grope like those without eyes. We stumble at noon as though it were twilight; we are like the dead among those who are healthy. We all growl like bears and moan like doves. We hope for justice, but there is none; for salvation, but it is far from us. For our transgressions have multiplied before you, and our sins testify against us.*
 
 But he doesn't stop there... he goes on a few verses down.
 
->[!note] Isaiah 59:15b-20
+{: .note } 
+Isaiah 59:15b-20
 >The Lord saw that there was no justice, and he was offended. He saw that there was no man—he was amazed that there was no one interceding; so **his own arm** brought salvation, and **his own righteousness** supported him. 
 >
 >He **put on righteousness as body armor, and a helmet of salvation on his head; he put on garments of vengeance for clothing, and he wrapped himself in zeal as in a cloak.** So he will repay according to their deeds: fury to his enemies, retribution to his foes, and he will repay the coasts and islands. They will fear the name of the Lord in the west and his glory in the east; for he will come like a rushing stream driven by the wind of the Lord. 
@@ -58,7 +60,6 @@ Tony Merida, in his commentary on Ephesians gets to the heart of the matter. Ton
 
 The nearer we draw to Jesus, the more we are clothed with the Lord's armor. If we desire to make it to the other side of this conflict without being chewed up by the enemy, we must draw near to the one who clothes us in His virtue. John Stott, commenting on this says, 
 >Some Christians are so self-confident that they think they can manage by themselves without the Lord’s strength and armour. Others are so self-distrustful that they imagine they have nothing to contribute to their victory in spiritual warfare. Both are mistaken.[^2]
-
 The very armor of God, forged by His hand is extended to us. With it, we can stand against the schemes of the devil himself. 
 
 ---
