@@ -33,19 +33,15 @@ In the battle against the evil one, when we wear this armor, we can have confide
 ## The Armor is God's
 More important than the style of armor is the one to whom it belongs. This is no regular armor. This armor is God's armor. I convinced many do not recognize this passage has roots in the Old Testament. In Isaiah chapter 59, the prophet tells about the sinfulness of Israel.
 
-{: .note } 
-Isaiah 59:9-12
-*Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we live in the night. We grope along a wall like the blind; we grope like those without eyes. We stumble at noon as though it were twilight; we are like the dead among those who are healthy. We all growl like bears and moan like doves. We hope for justice, but there is none; for salvation, but it is far from us. For our transgressions have multiplied before you, and our sins testify against us.*
+{: .note }
+*Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we live in the night. We grope along a wall like the blind; we grope like those without eyes. We stumble at noon as though it were twilight; we are like the dead among those who are healthy. We all growl like bears and moan like doves. We hope for justice, but there is none; for salvation, but it is far from us. For our transgressions have multiplied before you, and our sins testify against us* (Isaiah 59:9-12).
 
 But he doesn't stop there... he goes on a few verses down.
 
-{: .note } 
-Isaiah 59:15b-20
->The Lord saw that there was no justice, and he was offended. He saw that there was no man—he was amazed that there was no one interceding; so **his own arm** brought salvation, and **his own righteousness** supported him. 
->
->He **put on righteousness as body armor, and a helmet of salvation on his head; he put on garments of vengeance for clothing, and he wrapped himself in zeal as in a cloak.** So he will repay according to their deeds: fury to his enemies, retribution to his foes, and he will repay the coasts and islands. They will fear the name of the Lord in the west and his glory in the east; for he will come like a rushing stream driven by the wind of the Lord. 
->
->“The Redeemer will come to Zion, and to those in Jacob who turn from transgression.” This is the Lord’s declaration. 
+{: .note }
+*The Lord saw that there was no justice, and he was offended. He saw that there was no man—he was amazed that there was no one interceding; so **his own arm** brought salvation, and **his own righteousness** supported him.*
+*He **put on righteousness as body armor, and a helmet of salvation on his head; he put on garments of vengeance for clothing, and he wrapped himself in zeal as in a cloak.** So he will repay according to their deeds: fury to his enemies, retribution to his foes, and he will repay the coasts and islands. They will fear the name of the Lord in the west and his glory in the east; for he will come like a rushing stream driven by the wind of the Lord.* 
+*“The Redeemer will come to Zion, and to those in Jacob who turn from transgression.” This is the Lord’s declaration* (Isaiah 59:15b-20). 
 
 This is no ordinary armor. It is the very armor of the Lord God Almighty. It is forged and furnished by Him who is mighty to save. In Paul's imagery here, the warrior God of Isaiah takes off his own armor and gives it to us.
 
