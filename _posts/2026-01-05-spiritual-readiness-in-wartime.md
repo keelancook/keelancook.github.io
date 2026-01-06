@@ -30,6 +30,8 @@ The Greek words used here, *πλήρης πανοπλία* (_plḗrēs panoplí
 
 In the battle against the evil one, when we wear this armor, we can have confidence that we are defended on every side.
 
+[![The Battle is Not Mine](images/promo/battle-not-mine.png)](https://amzn.to/4oszZIA){:target="_blank"}
+
 ## The Armor is God's
 More important than the style of armor is the one to whom it belongs. This is no regular armor. This armor is God's armor. I convinced many do not recognize this passage has roots in the Old Testament. In Isaiah chapter 59, the prophet tells about the sinfulness of Israel.
 
@@ -54,8 +56,11 @@ But that raises a question: *How do we put it on?* Paul tells us to put on the a
 
 Tony Merida, in his commentary on Ephesians gets to the heart of the matter. Tony tells us the call to put on the armor, "is... about putting on the characteristics and virtues that are ours through our union with Jesus Christ."[^1] In other words it is an active, conscious, and daily appropriation of spiritual resources and virtues. 
 
+[![The Message of Ephesians](images/promo/message-of-ephesians.png)](https://amzn.to/43jNrGp){:target="_blank"}
+
 The nearer we draw to Jesus, the more we are clothed with the Lord's armor. If we desire to make it to the other side of this conflict without being chewed up by the enemy, we must draw near to the one who clothes us in His virtue. John Stott, commenting on this says, 
 >Some Christians are so self-confident that they think they can manage by themselves without the Lord’s strength and armour. Others are so self-distrustful that they imagine they have nothing to contribute to their victory in spiritual warfare. Both are mistaken.[^2]
+
 The very armor of God, forged by His hand is extended to us. With it, we can stand against the schemes of the devil himself. 
 
 ---
