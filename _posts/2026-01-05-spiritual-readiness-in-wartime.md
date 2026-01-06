@@ -17,9 +17,11 @@ toc: false
 
 Paul was clearly very familiar with armor. Even a quick read of his letters reveals a familiarity with warfare, based on his use of imagery to explain aspects of the Christian life. But his understanding of the military is perhaps most clear in his letter to the Ephesians. In fact, Paul was under arrest as he wrote that letter, likely sitting beside a soldier in his armor. So, he uses a fitting illustration to explain an unbelievable truth. In this day when the battle rages, we actually do have what it takes to stand firm against the enemy.
 
-Paul writes in the same passage about the enemy we face as Christians. It's a sobering reminder of the one who seeks to still, kill, and destroy. He roams about seeking who he may devour. Paul calls us to [know the devil](https://keelancook.com/the-invisible-battle) for who he really is in our invisible battle as citizens of a kingdom at war.
+Paul writes in the same passage about the enemy we face as Christians. It's a sobering reminder of the one who seeks to steal, kill, and destroy. He roams about seeking who he may devour. Paul calls us to [know the devil](https://keelancook.com/the-invisible-battle) for who he really is in our invisible battle as citizens of a kingdom at war.
 
 Twice in this passage Paul urges us to put on the full armor of God. The full armor of God. That one statement is pregnant with so much meaning. Paul goes on to enumerate the various pieces of this armor. I wish I could spend time unpacking each specific piece. There's a sermon waiting behind every one. But to avoid making this a book chapter instead of an article, there are two specific descriptions I want you to catch.
+
+[![The Battle is Not Mine](images/promo/battle-not-mine.png)](https://amzn.to/4oszZIA){:target="_blank"}
 
 ## The Armor is Complete
 First, consider the word *full.*
@@ -29,8 +31,6 @@ Roman soldiers fought in close combat, with swords and shields. You never knew w
 The Greek words used here, *πλήρης πανοπλία* (_plḗrēs panoplía_), are actually a technical term for a specific kind of Roman armor. The words identify a complete set of armor that covers a person from head to toe.[^3] This armor provides not just some coverage. It provides complete coverage. Paul goes on to detail the various pieces of armor: the belt, the breastplate, the shoes, the helmet and sword. It's defense from every angle. And this full armor is complete when all pieces are together. Put on the *full* armor of God.
 
 In the battle against the evil one, when we wear this armor, we can have confidence that we are defended on every side.
-
-[![The Battle is Not Mine](images/promo/battle-not-mine.png)](https://amzn.to/4oszZIA){:target="_blank"}
 
 ## The Armor is God's
 More important than the style of armor is the one to whom it belongs. This is no regular armor. This armor is God's armor. I convinced many do not recognize this passage has roots in the Old Testament. In Isaiah chapter 59, the prophet tells about the sinfulness of Israel.
@@ -47,7 +47,7 @@ But he doesn't stop there... he goes on a few verses down.
 
 This is no ordinary armor. It is the very armor of the Lord God Almighty. It is forged and furnished by Him who is mighty to save. In Paul's imagery here, the warrior God of Isaiah takes off his own armor and gives it to us.
 
-In order to take a stand, we must be clothed in God's truth, God's righteous, God's great gospel of peace. We must stand behind the shield of faith, wear His salvation, and wield His sword, the very Word of God.
+In order to take a stand, we must be clothed in God's truth, God's righteousness, God's great gospel of peace. We must stand behind the shield of faith, wear His salvation, and wield His sword, the very Word of God.
 
 What a gift!
 
