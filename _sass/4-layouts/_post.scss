@@ -359,7 +359,24 @@
     color: var(--heading-font-color);
 
     &::after {
-      content: "💡";
+      content: "✏️";
+      position: absolute;
+      top: 32px;
+      left: 32px;
+      display: block;
+    }
+  }
+
+    .text {
+    position: relative;
+    padding: 32px 32px 32px 64px;
+    font-family: $base-font-family;
+    font-size: 18px;
+    border-radius: 8px;
+    color: var(--heading-font-color);
+
+    &::after {
+      content: "📖";
       position: absolute;
       top: 32px;
       left: 32px;
@@ -385,6 +402,10 @@
 
   .caution {
     background: var(--callout-caution);
+  }
+
+    .text {
+    background: var(--callout-text);
   }
 
   @media (max-width: $desktop) {
