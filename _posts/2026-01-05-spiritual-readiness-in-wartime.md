@@ -17,7 +17,7 @@ toc: false
 
 Paul was clearly very familiar with armor. Even a quick read of his letters reveals a familiarity with warfare, based on his use of imagery to explain aspects of the Christian life. But his understanding of the military is perhaps most clear in his letter to the Ephesians. In fact, Paul was under arrest as he wrote that letter, likely sitting beside a soldier in his armor. So, he uses a fitting illustration to explain an unbelievable truth. In this day when the battle rages, we actually do have what it takes to stand firm against the enemy.
 
-Paul writes in the same passage about the enemy we face as Christians. It's a sobering reminder of the one who seeks to steal, kill, and destroy. He roams about seeking who he may devour. Paul calls us to [know the devil](https://keelancook.com/the-invisible-battle) for who he really is in our invisible battle as citizens of a kingdom at war.
+Paul writes in the same passage about the enemy we face as Christians. It's a sobering reminder of the one who seeks to steal, kill, and destroy. He roams about seeking who he may devour. Paul calls us to know the devil for who he really is in our [invisible battle as citizens of a kingdom at war](https://keelancook.com/the-invisible-battle).
 
 Twice in this passage Paul urges us to put on the full armor of God. The full armor of God. That one statement is pregnant with so much meaning. Paul goes on to enumerate the various pieces of this armor. I wish I could spend time unpacking each specific piece. There's a sermon waiting behind every one. But to avoid making this a book chapter instead of an article, there are two specific descriptions I want you to catch.
 
