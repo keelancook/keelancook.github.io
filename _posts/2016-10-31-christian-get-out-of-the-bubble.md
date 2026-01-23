@@ -11,7 +11,7 @@ tags:
 author: keelan
 featured: false
 hidden: false
-image: "https://images.pexels.com/photos/17652977/pexels-photo-17652977/free-photo-of-church-on-island-on-lake-bled-in-slovenia.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/17652977/pexels-photo-17652977/free-photo-of-church-on-island-on-lake-bled-in-slovenia.png"
 rating:
 beforetoc:
 toc: false
