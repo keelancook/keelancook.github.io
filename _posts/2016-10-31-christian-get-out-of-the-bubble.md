@@ -25,13 +25,17 @@ They are right. They need to get out of the bubble, but there is a good chance y
 
 Several decades ago, a missiologist named Ralph Winter developed a really helpful scale concerning evangelism and how it works. The scale, known as the E-Scale, breaks evangelism down based on the cultural distance of the people you are trying to reach.
 
-Here's is Winter's description of the scale (you can find the [original article here](http://www.ijfm.org/PDFs_IJFM/19_4_PDFs/winter_koch_task.pdf)):
+Here is Winter's description of the scale (you can find the [original article here](http://www.ijfm.org/PDFs_IJFM/19_4_PDFs/winter_koch_task.pdf)):
 
 > "The E-Scale helps compare the cultural distances that Christians need to move in order to communicate the gospel with others. E0 refers to evangelism of church-going Christians. E1 extends to the very same culture through one barrier, that of “church culture.” E2 evangelism presses into a close, but still different, culture. E3 evangelism pushes to very different cultures."
 
 In other words, evangelism works different depending on who you are trying to reach. Think about it, when you are sharing the gospel, you must do so in a way that makes sense to the hearer. In order to do that, it is very important to understand enough about the hearer that you can communicate in a way that is helpful. Furthermore, understanding these differences reveals some eye-opening realities about the current cultural situation for most local churches in North America. After all, the North American context is increasingly diverse. Gone are the days where we can expect our neighbor to have some kind of Christian background. Peoples from all over the world are landing in a cul-de-sac in your neighborhood, and our own Western culture is more secular than ever.
 
-In order to demonstrate this, I created a diagram applying the E-Scale to discovering and engaging people groups in your community.[![e-scale-for-pnd](images/E-Scale-for-PND-1024x768.png)](https://keelancook.files.wordpress.com/2020/08/fe1ad-e-scale-for-pnd-e1477923495974.png)**E0 evangelism** is the one with the smallest amount of cultural difference between the sharer and the receiver. Think of this as sharing with people who have stopped going to church, or your friends and family that grew up in church but buzzed out when they went to college. I am inclined to believe most local church evangelism happens in this circle. These are the people in the bubble.
+In order to demonstrate this, I created a diagram applying the E-Scale to discovering and engaging people groups in your community.
+
+![E-scale for Diaspora](../images/post-images/e-scale-diaspora.png)
+
+**E0 evangelism** is the one with the smallest amount of cultural difference between the sharer and the receiver. Think of this as sharing with people who have stopped going to church, or your friends and family that grew up in church but buzzed out when they went to college. I am inclined to believe most local church evangelism happens in this circle. These are the people in the bubble.
 
 **E1** goes a step further, sharing the gospel with people who are Westerners. I labeled it traditional "American" culture for lack of a better term. Honestly, that is not a fair use of the term American, though. American comes in all different colors and traditions now! Nevertheless, this refers to engaging what we traditionally think of as Western, English-speaking, my-grandparents-were-from-America, culture. The difference, however, is an important one. While these people share the same overall culture with us, they do not share a Christian background. This a real big group, today. Talk of the "nones," or people with no religious preference is on the upswing and so is the group. I fear most church members have few tools to talk to other Westerners with no "Christianese" in their background.
 
