@@ -28,7 +28,11 @@ This is a personal devil. I do not mean personal in the sense of your very own d
 
 He's also not alone. In verse 12 of this chapter, Paul claims we fight "against the rulers, against the authorities, against the cosmic powers of this darkness, against evil, spiritual forces in the heavens." Demonic forces sound old fashioned. It feels a bit superstitious. Yet, we must not allow our modern biases to soften this text. The devil is real, and he commands a host of enemies intent to destroy. 
 
+[![The Message of Ephesians](images/promo/message-of-ephesians.png)](https://amzn.to/43jNrGp){:target="_blank"}
+
 And, Paul does more than out the enemy's identity here in this passage. He provides crucial intel for our battle. We are keyed in to the devil's schemes in order to stand against him and his forces waging war on Christ's church. Paul is clear: our enemy is not flesh and blood, but he is active and powerful, and he is a master of misdirection.
+
+
 ## Your enemy is not flesh and blood
 Your enemy is not flesh and blood. Paul could not be more clear about this in verse 12. So, the Bible tells us we are not fighting against people. 
 
@@ -53,6 +57,8 @@ He's destroying our churches. He's destroying our families. He's destroying our 
 [Our enemy schemes.](https://keelancook.com/the-invisible-battle) This enemy is quite skilled at misdirection. The smoke screen comes in many forms, two of which I'll mention here. First, this enemy is easy to underestimate.
 
 Underestimating your enemy is dangerous. On the sports field, that leads to an upset. Teams get too confident, and they don't prepare. They rest in their own ability, they are unconcerned about learning the other team's plays. On the battlefield, underestimating your enemy is one way to get yourself killed. We are tempted that we do not need [our full compliment of arms](https://keelancook.com/spiritual-readiness-in-wartime). But there are few worse ideas than bringing a knife to a gun fight.
+
+[![The Battle is Not Mine](images/promo/battle-not-mine.png)](https://amzn.to/4oszZIA){:target="_blank"}
 
 In Acts 19 we see one example of some itinerant Jewish exorcists (I didn't know that was a job until I read it in Acts) who make the mistake of battling demons without fully understanding the power needed to do so. They leave that encounter running away, physically beaten up, and not wearing any pants. You can go look it up. It actually happened in Ephesus, the same place Paul is writing this letter to. Perhaps his audience remembered the incident. 
 
