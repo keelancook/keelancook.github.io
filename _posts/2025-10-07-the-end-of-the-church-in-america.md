@@ -6,7 +6,7 @@ date: 2025-10-07
 categories:
   - church renewal
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: https://images.unsplash.com/photo-1600228558635-4dd5b3da0615?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 image_caption: "Photo credit: Unsplash"
