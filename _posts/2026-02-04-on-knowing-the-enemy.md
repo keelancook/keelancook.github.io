@@ -47,7 +47,7 @@ In this passage, Paul calls us to none of those things. He calls us to take up t
 Scott Pace, our provost at Southeastern, asks the question: "Are you more bothered by lost people or burdened for them?" Especially in a world that is antagonistic to the people of God, we can treat lost people as our enemy instead of seeing them as they really are: hostages of the enemy, enslaved and blinded by their sin. When we see them as they truly are, and we realize who the real enemy is, we discover we are on a rescue mission. God wants to set those captives free, just like He's done for you and me. 
 
 ## But, Your Enemy is Active and He is Powerful
-Your enemy is not flesh and blood, but your enemy is active, and he is powerful. We can be so trained in on the wrong enemy today that we stay mired in conflict over all kinds of things. We bury down in the trenches for some kind of culture war. Firing our shots at the wrong targets. All the while, the real enemy has us in his sites off to the side, and he's picking us off. 
+Your enemy is not flesh and blood, but your enemy is active, and he is powerful. We can be so trained in on the wrong enemy today that we stay mired in conflict over all kinds of things. We bury down in the trenches for some kind of culture war. Firing our shots at the wrong targets. All the while, the real enemy has us in his sights off to the side, and he's picking us off. 
 
 Week after week, we sit silent not sharing the gospel message with friends, coworkers, family, neighbors, acquaintances, or the person in the grocery store. The enemy is picking us off. We cannot go a week without reading another article about someone in ministry leadership, or hearing another story of someone in one of our churches who committed moral failure. The enemy is picking us off. 
 
@@ -56,13 +56,13 @@ He's destroying our churches. He's destroying our families. He's destroying our 
 ## And, He is a Master of Misdirection
 [Our enemy schemes.](https://keelancook.com/the-invisible-battle) This enemy is quite skilled at misdirection. The smoke screen comes in many forms, two of which I'll mention here. First, this enemy is easy to underestimate.
 
-Underestimating your enemy is dangerous. On the sports field, that leads to an upset. Teams get too confident, and they don't prepare. They rest in their own ability, they are unconcerned about learning the other team's plays. On the battlefield, underestimating your enemy is one way to get yourself killed. We are tempted that we do not need [our full compliment of arms](https://keelancook.com/spiritual-readiness-in-wartime). But there are few worse ideas than bringing a knife to a gun fight.
+Underestimating your enemy is dangerous. On the sports field, that leads to an upset. Teams get too confident, and they don't prepare. They rest in their own ability, they are unconcerned about learning the other team's plays. On the battlefield, underestimating your enemy is one way to get yourself killed. We are tempted that we do not need [our full complement of arms](https://keelancook.com/spiritual-readiness-in-wartime). But there are few worse ideas than bringing a knife to a gun fight.
 
 [![The Battle is Not Mine](images/promo/battle-not-mine.png)](https://amzn.to/4oszZIA){:target="_blank"}
 
 In Acts 19 we see one example of some itinerant Jewish exorcists (I didn't know that was a job until I read it in Acts) who make the mistake of battling demons without fully understanding the power needed to do so. They leave that encounter running away, physically beaten up, and not wearing any pants. You can go look it up. It actually happened in Ephesus, the same place Paul is writing this letter to. Perhaps his audience remembered the incident. 
 
-If underestimating you enemy is dangerous, misidentifying your enemy is worse. When you misidentify your enemy, you aim at targets that are not your enemy and leave yourself defenseless to your real enemy. It is a very dangerous place to be. This is likely our more common mistake today. 
+If underestimating your enemy is dangerous, misidentifying your enemy is worse. When you misidentify your enemy, you aim at targets that are not your enemy and leave yourself defenseless to your real enemy. It is a very dangerous place to be. This is likely our more common mistake today. 
 
 We must realize demons will use whatever tactics go unnoticed. Causing us to feel as though demonic forces are an outmoded superstition, a relic that no longer applies, is a convenient way to go unnoticed. The issue may not be that they are no longer active, but that we have lost our eyes to see. As Lloyd-Jones notes, a crucial tactic of evil spiritual forces would be to cause us to forget the devil and to think our enemy was other people instead of the demonic forces themselves.
 
