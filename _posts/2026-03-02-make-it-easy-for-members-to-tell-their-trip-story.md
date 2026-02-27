@@ -8,7 +8,7 @@ categories:
 author: keelan
 featured: true
 hidden: false
-image:
+image: /images/trip-stickers-feature.jpg
 image_caption:
 rating:
 beforetoc:
@@ -48,6 +48,14 @@ Countless times throughout the Scriptures the people of God are called to rememb
 While a short term mission trip may not be quite the same as parting the Red Sea, they are often important mile markers in a person's life. In every class I teach, I will ask the room of student how many have been on a short term mission trip. Most students in the room will raise their hands. At a seminary, you can imagine that it would be a majority. I then ask them how many felt that a trip played a really significant role in their present ministry calling. The same set of hands goes up with few exceptions. 
 
 Something as simple as a sticker serves as a reminder to those students. Looking back at God's faithfulness reassures us that he will be faithful now. Looking back on God's empowering of the Great Commission reassures us he will empower our labor for it now. It also provides a tangible reminder of the place and people. This becomes an easy prompt for prayer and hopefully continued connection.
+
+<div class="gallery-box">
+  <div class="gallery gallery-column-2">
+    <img src="/images/japan-sticker.jpg" loading="lazy">
+    <img src="/images/north-africa-sticker.jpg" loading="lazy">
+  </div>
+  <em>A couple of our stickers.</em>
+</div>
 
 ## Start a conversation.
 Stickers are not only visible to the student who went, they are also visible to others. That means other people can ask about them. When students ask another student about the sticker, it creates an opportunity to tell about God's work somewhere in the world. In our school setting, students are becoming familiar with these stickers, and they signal without a conversation that a student went on a particular trip. This is important for several reasons.
