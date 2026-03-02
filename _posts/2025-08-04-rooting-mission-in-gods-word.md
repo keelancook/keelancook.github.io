@@ -13,6 +13,7 @@ rating:
 beforetoc: 
 toc: false
 ---
+
 I wonder if you think like I do. When I read through the gospels, I often wonder what it would have been like to walk alongside Jesus in the flesh. Even more, what would it have been like to walk alongside Jesus in his resurrected body? What was it like to witness, as those first disciples did, the resurrected Christ when he revealed himself to them? How did they feel when he ate that first food and allowed Thomas to touch the scars? I often think it would have been nice to see the empty tomb on that first Easter Sunday.
 
 When the mission is hard, when evangelism seems risky, I am tempted to believe those first disciples came by their boldness because of their unique, once in history, experience of the risen Christ. When boldness in the mission and confidence in the message flags, it is tempting to long for some impossible experience to be our life raft, to dismiss obedience based upon the premise that we, unlike Paul and his Damascus road experience, are at a disadvantage. We have reason to shrink back, right?
