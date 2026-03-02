@@ -4,10 +4,7 @@ title: "Nearsighted churches vs. farsighted churches"
 date: "2017-07-17"
 author: keelan
 tags: 
-  - "church ministry"
-  - "vision"
-  - "international missions"
-  - "local missions"
+  - "ministry"
   - "great commission"
 featured: false
 hidden: false

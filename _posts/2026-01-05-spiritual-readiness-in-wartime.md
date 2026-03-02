@@ -3,8 +3,8 @@ type: post
 status: published
 title: "Spiritual Readiness in Wartime"
 date: 2026-01-03
-categories:
-  - spiritual formation
+tags:
+  - "spiritual formation"
 author: keelan
 featured: false
 hidden: false

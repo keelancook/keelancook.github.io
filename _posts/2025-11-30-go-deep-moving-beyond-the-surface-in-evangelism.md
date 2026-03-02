@@ -3,8 +3,8 @@ type: post
 status: published
 title: "Go Deep: Moving Beyond the Surface in Evangelism"
 date: 2025-11-30
-categories:
-  - evangelism
+tags:
+  - "evangelism"
 author: keelan
 featured: true
 hidden: false

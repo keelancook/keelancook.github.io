@@ -3,8 +3,8 @@ type: post
 status: draft
 title: The End of Church in America?
 date: 2025-10-07
-categories:
-  - church renewal
+tags:
+  - "church renewal"
 author: keelan
 featured: false
 hidden: false

@@ -3,8 +3,8 @@ type: post
 status: published
 title: On Knowing the Enemy
 date: 2026-02-04
-categories:
-  - spiritual formation
+tags:
+  - "spiritual formation"
 author: keelan
 featured: false
 hidden: false

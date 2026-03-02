@@ -6,8 +6,6 @@ tags:
   - "aha moments"
   - "discipleship"
   - "holidays"
-  - "plans"
-  - "purpose"
 author: keelan
 featured: false
 hidden: false

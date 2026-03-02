@@ -3,9 +3,9 @@ type: post
 status: published
 title: "The Invisible Battle: Living as Citizens in a Kingdom at War"
 date: 2025-11-07
-categories:
+tags:
   - discipleship
-  - spiritual warfare
+  - "spiritual warfare"
 author: keelan
 featured: false
 hidden: false

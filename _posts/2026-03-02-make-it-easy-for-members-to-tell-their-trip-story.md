@@ -3,8 +3,9 @@ type: post
 status: published
 title: Make it Easy for Your Members to Tell Their Mission Trip Story
 date: 2026-03-02
-categories:
+tags:
   - mobilization
+  - missions
 author: keelan
 featured: true
 hidden: false
