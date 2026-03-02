@@ -2,9 +2,8 @@
 title: The Art of the Personal Testimony
 date began: 2024-12-09
 date: 2025-05-08
-categories:
+tags:
   - evangelism
-  - missions
   - discipleship
 author: keelan
 featured: true
