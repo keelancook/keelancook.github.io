@@ -7,7 +7,7 @@ tags:
   - mobilization
   - missions
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: /images/trip-stickers-feature.jpg
 image_caption:
