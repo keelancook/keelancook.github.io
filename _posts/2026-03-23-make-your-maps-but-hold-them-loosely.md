@@ -74,4 +74,5 @@ Paul and his team desired to go to Bithnyia, but the Spirit did not allow it. Th
 
 Without being overly prescriptive, Luke and Paul's testimony in the Scripture demonstrate ministry leaders making plans, devising routes, laying out their maps of strategic need and opportunities for engagement. Plans are good. Data is a great help in ministry. Make your map.
 
-But, let's allow the Lord of the Harvest the freedom to change those plans and redraw our boundaries of what is possible. After all, it is the Spirit who can open wide doors of effective ministry (1 Corinthians 16:8–9).
+Let's allow the Lord of the Harvest the freedom to change those plans and redraw our boundaries of what is possible. After all, it is the Spirit who can open wide doors of effective ministry (1 Corinthians 16:8–9).
+
