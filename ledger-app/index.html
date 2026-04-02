@@ -14,13 +14,14 @@ layout: null
             --ink: #1a1a1a;
             --rule: rgba(0,0,0,0.1);
             --priority: #991b1b;
+            --bg-page: #fdfdfb;
         }
         * { box-sizing: border-box; }
-        body { margin: 0; background: #fdfdfb; color: var(--ink); font-family: 'Cormorant Garamond', serif; line-height: 1.6; }
+        body { margin: 0; background: var(--bg-page); color: var(--ink); font-family: 'Cormorant Garamond', serif; line-height: 1.6; }
         .sheet { background: var(--paper); max-width: 1000px; margin: 0 auto; min-height: 100vh; padding: 60px 40px; box-shadow: 0 0 40px rgba(0,0,0,0.03); }
         .container { max-width: 850px; margin: 0 auto; }
         
-        h1 { font-size: clamp(48px, 8vw, 64px); text-align: center; letter-spacing: 4px; margin-bottom: 0; text-transform: uppercase; }
+        h1 { font-size: clamp(40px, 8vw, 64px); text-align: center; letter-spacing: 4px; margin-bottom: 0; text-transform: uppercase; }
         .tagline { text-align: center; font-style: italic; font-size: 20px; color: #666; margin-bottom: 60px; }
         
         .hero { display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center; padding-bottom: 80px; }
@@ -29,6 +30,16 @@ layout: null
         .intro-text p { font-size: 22px; margin-bottom: 25px; }
         .script { font-family: 'Nanum Pen Script', cursive; font-size: 28px; color: #222; }
 
+        /* App Image fix for transparency */
+        .app-img { 
+            width: 100%; 
+            display: block;
+            background: transparent !important;
+            border: none !important;
+            box-shadow: none !important; 
+            filter: drop-shadow(0 10px 20px rgba(0,0,0,0.08));
+        }
+
         /* Feature Section */
         .features { display: grid; grid-template-columns: 1fr; gap: 40px; padding: 60px 0; border-top: 1px solid var(--rule); }
         @media (min-width: 768px) { .features { grid-template-columns: 1fr 1fr; } }
@@ -36,16 +47,18 @@ layout: null
         .f-item h3 { text-transform: uppercase; letter-spacing: 1.5px; border-bottom: 1px solid var(--ink); display: inline-block; margin-bottom: 15px; font-size: 18px; }
         .f-item p { font-size: 18px; color: #444; margin: 0; }
 
-        .app-img { width: 100%; border: 1px solid var(--rule); box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+        /* Heritage Section */
+        .heritage { padding: 80px 0; border-top: 1px solid var(--rule); }
+        .heritage-content { max-width: 700px; margin: 0 auto; text-align: center; }
+        .heritage-content h3 { text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; font-size: 20px; }
+        .heritage-content p { font-size: 19px; color: #555; margin-bottom: 20px; line-height: 1.8; }
+        .heritage-content a { color: var(--ink); font-weight: 600; text-decoration: underline; }
 
         .cta-wrap { text-align: center; padding: 80px 0; border-top: 1px solid var(--rule); }
-        .btn { display: inline-block; background: var(--ink); color: #fff; padding: 18px 40px; text-decoration: none; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; font-size: 14px; }
-    /* This targets the app image specifically and removes any theme-added backgrounds */
-        .app-img {
-            background-color: transparent !important;
-            border: none !important;
-            box-shadow: none !important; /* Remove if you want it completely flat */
-        }
+        .btn { display: inline-block; background: var(--ink); color: #fff; padding: 18px 40px; text-decoration: none; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; font-size: 14px; transition: opacity 0.2s; }
+        .btn:hover { opacity: 0.8; }
+
+        footer { text-align: center; opacity: 0.4; font-size: 14px; padding-top: 40px; }
     </style>
 </head>
 <body>
@@ -56,8 +69,8 @@ layout: null
             
             <div class="hero">
                 <div class="intro-text">
-                    <p>Time is the only asset that cannot be re-earned. Most productivity tools treat tasks as a never-ending stream; <strong>The Ledger</strong> treats them as an account of your responsibilities. It is a minimal, local-first system for those who view daily work as a matter of stewardship rather than just "getting things done."</p>
-                    <p>You are the steward of your hours; this is your balance sheet. By auditing your progress and closing the books each night, you ensure that your life’s work is not a series of losses, but a compounding legacy.</p>
+                    <p>Time is the only asset that cannot be re-earned. Most productivity tools treat tasks as a never-ending stream; <strong>The Ledger</strong> treats them as an account of your responsibilities.</p>
+                    <p>You are the steward of your hours; this is your balance sheet. By auditing your progress and closing the books each night, you ensure that your daily work is an intentional investment.</p>
                     <p class="script">Audit your day, or the world will spend it for you.</p>
                 </div>
                 <img src="app-screen.png" alt="The Ledger Interface" class="app-img">
@@ -66,20 +79,28 @@ layout: null
 
         <section class="container features">
             <div class="f-item">
-                <h3>Track Progress</h3>
-                <p>Not every task is a simple checkbox. For deep work requiring multiple sessions—like grading midterms or recording lectures—The Ledger uses a <strong>stacked tally system</strong>. Track iterative progress visually without cluttering your list.</p>
+                <h3>Incremental Progress</h3>
+                <p>Not every task is a simple checkbox. For deep work requiring multiple sessions, The Ledger uses a <strong>stacked tally system</strong>. Track iterative progress visually without losing the history of the task.</p>
             </div>
             <div class="f-item">
-                <h3>Reconcile Daily</h3>
-                <p>The app enforces a "close the books" workflow. At midnight, your day is committed to the Ledger. Finished tasks are archived; unfinished work is carried forward as a liability. You start every morning with a clean sheet.</p>
+                <h3>Daily Reconciliation</h3>
+                <p>The app enforces a "close the books" workflow. At midnight, your day is committed to the Ledger. Unfinished work is carried forward as a liability, ensuring you start every morning with a clear account.</p>
             </div>
             <div class="f-item">
-                <h3>Prioritize Intuitively</h3>
-                <p>The interface is divided into three functional cards: <strong>Today</strong> for immediate investment, <strong>Next</strong> for active priorities, and <strong>Someday</strong> for future speculation. Move tasks between them with a simple protocol menu.</p>
+                <h3>Protocol-Based Priority</h3>
+                <p>The interface is divided into functional cards: <strong>Today</strong> for immediate investment, <strong>Next</strong> for active priorities, and <strong>Someday</strong> for future speculation. Move tasks between them with a simple protocol menu.</p>
             </div>
             <div class="f-item">
-                <h3>Save Locally</h3>
+                <h3>Absolute Sovereignty</h3>
                 <p>Your records are your own. The Ledger stores all data locally in your browser and provides one-click <strong>Markdown and JSON exports</strong>. No accounts, no tracking, and no proprietary lock-in.</p>
+            </div>
+        </section>
+
+        <section class="container heritage">
+            <div class="heritage-content">
+                <h3>Analog Roots, Digital Presence</h3>
+                <p>The Ledger is a digital homage to the clarity of paper. Its mechanics are inspired by proven index-card systems—most notably the <a href="https://ugmonk.com/pages/analog" target="_blank">Ugmonk Analog</a> method and traditional <strong>Dash-Plus</strong> notation—which prioritize focus through physical constraints.</p>
+                <p>We have intentionally reproduced the productive friction of paper: a single daily sheet and a finite space for investment. It retains the tactile spirit of an index card, but unlike physical systems, it stays in your pocket—accessible wherever you are.</p>
             </div>
         </section>
 
@@ -87,8 +108,8 @@ layout: null
             <a href="https://ledger.keelancook.com" class="btn">Open Your Ledger</a>
         </div>
 
-        <footer style="text-align: center; opacity: 0.4; font-size: 14px; padding-top: 40px;">
-            &copy; 2026 Keelan Cook. 
+        <footer>
+            &copy; 2026 Keelan Cook.
         </footer>
     </div>
 </body>
