@@ -1,0 +1,89 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Ledger | Time Stewardship & Accounting</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --paper: #ffffff;
+            --ink: #1a1a1a;
+            --rule: rgba(0,0,0,0.1);
+            --priority: #991b1b;
+        }
+        * { box-sizing: border-box; }
+        body { margin: 0; background: #fdfdfb; color: var(--ink); font-family: 'Cormorant Garamond', serif; line-height: 1.6; }
+        .sheet { background: var(--paper); max-width: 1000px; margin: 0 auto; min-height: 100vh; padding: 60px 40px; box-shadow: 0 0 40px rgba(0,0,0,0.03); }
+        .container { max-width: 850px; margin: 0 auto; }
+        
+        h1 { font-size: clamp(48px, 8vw, 64px); text-align: center; letter-spacing: 4px; margin-bottom: 0; text-transform: uppercase; }
+        .tagline { text-align: center; font-style: italic; font-size: 20px; color: #666; margin-bottom: 60px; }
+        
+        .hero { display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center; padding-bottom: 80px; }
+        @media (min-width: 768px) { .hero { grid-template-columns: 1.2fr 1fr; } }
+
+        .intro-text p { font-size: 22px; margin-bottom: 25px; }
+        .script { font-family: 'Nanum Pen Script', cursive; font-size: 28px; color: #222; }
+
+        /* Feature Section */
+        .features { display: grid; grid-template-columns: 1fr; gap: 40px; padding: 60px 0; border-top: 1px solid var(--rule); }
+        @media (min-width: 768px) { .features { grid-template-columns: 1fr 1fr; } }
+        
+        .f-item h3 { text-transform: uppercase; letter-spacing: 1.5px; border-bottom: 1px solid var(--ink); display: inline-block; margin-bottom: 15px; font-size: 18px; }
+        .f-item p { font-size: 18px; color: #444; margin: 0; }
+
+        .app-img { width: 100%; border: 1px solid var(--rule); box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+
+        .cta-wrap { text-align: center; padding: 80px 0; border-top: 1px solid var(--rule); }
+        .btn { display: inline-block; background: var(--ink); color: #fff; padding: 18px 40px; text-decoration: none; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; font-size: 14px; }
+    </style>
+</head>
+<body>
+    <div class="sheet">
+        <header class="container">
+            <h1>THE LEDGER</h1>
+            <p class="tagline">Accounting for a Life Well-Spent.</p>
+            
+            <div class="hero">
+                <div class="intro-text">
+                    <p>Time is finite capital. Most productivity tools treat tasks as a never-ending stream; <strong>The Ledger</strong> treats them as a balance sheet.</p>
+                    <p>It is a minimal, local-first system for those who view daily work as a matter of stewardship rather than just "getting things done."</p>
+                    <p class="script">Audit your day, or the world will spend it for you.</p>
+                </div>
+                <img src="app-hero.png" alt="The Ledger Interface" class="app-img">
+            </div>
+        </header>
+
+        <section class="container features">
+            <div class="f-item">
+                <h3>Non-Binary Progress</h3>
+                <p>Not every task is a simple checkbox. For deep work requiring multiple sessions—like grading midterms or recording lectures—The Ledger uses a <strong>stacked tally system</strong>. Track iterative progress visually without cluttering your list.</p>
+            </div>
+            <div class="f-item">
+                <h3>Midnight Reconciliation</h3>
+                <p>The app enforces a "close the books" workflow. At midnight, your day is committed to the Ledger. Finished tasks are archived; unfinished work is carried forward as a liability. You start every morning with a clean sheet.</p>
+            </div>
+            <div class="f-item">
+                <h3>Contextual Prioritization</h3>
+                <p>The interface is divided into three functional cards: <strong>Today</strong> for immediate investment, <strong>Next</strong> for active priorities, and <strong>Someday</strong> for future speculation. Move tasks between them with a simple protocol menu.</p>
+            </div>
+            <div class="f-item">
+                <h3>Data Sovereignty</h3>
+                <p>Your records are your own. The Ledger stores all data locally in your browser and provides one-click <strong>Markdown and JSON exports</strong>. No accounts, no tracking, and no proprietary lock-in.</p>
+            </div>
+        </section>
+
+        <div class="cta-wrap">
+            <a href="https://ledger.keelancook.com" class="btn">Open Your Ledger</a>
+        </div>
+
+        <footer style="text-align: center; opacity: 0.4; font-size: 14px; padding-top: 40px;">
+            &copy; 2026 Modus Operandi. 
+        </footer>
+    </div>
+</body>
+</html>
