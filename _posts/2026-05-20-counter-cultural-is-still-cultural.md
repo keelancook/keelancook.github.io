@@ -14,6 +14,7 @@ rating:
 beforetoc:
 toc: false
 ---
+
 For the last several months, I have watched a new church building being built on the road to my house. Recently, the builders installed the church's new sign, and I was a bit surprised. Perhaps the better word for my reaction was underwhelmed. In an age of screens and flashing lights, this sign included none of those things. Furthermore, it was simply white. The only color on the sign came from a very simple purple cross reminiscent of a Wingdings character. The script is plain and black. It is a boring sign. In fact, it's a purposefully boring sign. It's clear from the aesthetic of the church, its specific denominational background, and the overall "vibe" that this boring sign is actually making a rather loud statement. In all of its drab simplicity, it screams that this church will not appeal to the culture.
 
 Regardless of your particular persuasion concerning the finer points of church sign design (I personally do like a simple design), the posture this church appears to adopt is what captured my attention. Simply put, this church is not alone in taking a public stance as "plain on purpose" and refusing to appeal to the culture. In certain quarters of conservative evangelicalism (where I happily find myself), I sense a growing movement of those who seek an intentionally counter-culture posture. In these churches, there is a growing desire to eschew anything that might be seen as seeker sensitive or like that church is appealing (acquiescing?) to the broader culture in any way.
