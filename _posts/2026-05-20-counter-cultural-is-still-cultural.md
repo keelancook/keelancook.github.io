@@ -2,7 +2,7 @@
 type: post
 status: draft
 title: Counter-Cultural is Still Cultural
-date: 2026-05-11
+date: 2026-05-20
 categories:
   - contextualization
 author: keelan
