@@ -15,7 +15,7 @@ beforetoc:
 toc: false
 ---
 
-_In our current season of ministry, it would be tempting to remove our focus from the core missionary task of sending laborers into the harvest. It should go without saying, during a time of social distancing the means through which we fulfill the Great Commission and the proclamation of the gospel with those yet to accept it must look different. However, we cannot stop the crucial work of examining those within our own congregations to one day be launched out as church planters, replanters, and missionaries._
+_In our current season of ministry, it would be tempting to remove our focus from the [core missionary task](https://notes.keelancook.com/public/Missiology/Core+Missionary+Task) of sending laborers into the harvest. It should go without saying, during a time of social distancing the means through which we fulfill the Great Commission and the proclamation of the gospel with those yet to accept it must look different. However, we cannot stop the crucial work of examining those within our own congregations to one day be launched out as church planters, replanters, and missionaries._
 
 I'm a sucker for alliteration. It's one of the ways you can tell I'm Baptist. There's just something that warms a preacher's heart when he can cram his points into terms that all begin with the same letter without doing too much damage to their meaning.
 
