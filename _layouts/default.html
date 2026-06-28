@@ -20,7 +20,9 @@
     </main>
     <!-- end content -->
 
+    {% unless page.hide_subscribe == true %}
     {% include section-subscribe.html %}
+    {% endunless %}
 
     {% include footer.html %}
   </div>
