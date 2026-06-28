@@ -1,32 +1,11 @@
 {% if site.data.settings.mailchimp.enable == true %}
 <!-- begin subscribe -->
-<!--
-  MODIFIED: Original theme was built for MailChimp's form structure, which used a simple
-  form action URL stored in settings.yml (mailchimp_identifier) and submitted via
-  target="_blank" to open in a new tab. MailChimp's embed also used name="EMAIL" (uppercase)
-  for the email input field.
-
-  SendFox requires a different form structure to work correctly:
-  1. The form action must be the full SendFox form URL (hardcoded here since SendFox's
-     form.js looks for specific data attributes rather than a generic action URL pattern)
-  2. data-async="true" tells SendFox's form.js to handle submission via JavaScript
-     rather than a standard browser form POST, which prevents the page from redirecting
-  3. data-recaptcha="true" enables invisible reCAPTCHA spam protection
-  4. name="email" (lowercase) is required — SendFox's API rejects uppercase "EMAIL"
-  5. The honeypot field (a_password) is a hidden anti-spam field SendFox requires
-  6. target="_blank" and novalidate have been removed — these were MailChimp-specific
-     and interfered with SendFox's async submission handler
-  7. The form.js script is loaded in head.html rather than here to avoid it loading
-     multiple times on pages where this section appears more than once
-
-  The title, description, input placeholder, and button text still pull from settings.yml
-  so those can be updated there without touching this file.
--->
 <section class="section subscribe animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
         <div class="subscribe__inner">
+
           <div class="subscribe__content">
             {% if site.data.settings.mailchimp.mailchimp_title %}
             <h3 class="subscribe__title">{{ site.data.settings.mailchimp.mailchimp_title }}</h3>
@@ -35,13 +14,14 @@
             <p class="subscribe__description">{{ site.data.settings.mailchimp.mailchimp_description }}</p>
             {% endif %}
           </div>
-          <form method="post" action="https://sendfox.com/form/1ye54o/36gg7j" class="sendfox-form" id="36gg7j" data-async="true" data-recaptcha="true">
-            <label class="screen-reader-text" for="sendfox_form_email">Email address</label>
-            <input class="subscribe-email" id="sendfox_form_email" type="email" name="email" placeholder="{% if site.data.settings.mailchimp.mailchimp_input_text %}{{ site.data.settings.mailchimp.mailchimp_input_text }}{% else %}Email address{% endif %}" required />
-            <!-- no botz please -->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
-            <button class="button button--big subscribe-button" type="submit">{{ site.data.settings.mailchimp.mailchimp_button_text }}</button>
+
+          <form class="subscribe-form"
+            action="//sendfox.com/form/1ye54o/36gg7j" method="POST" id="36gg7j" data-async="true" data-recaptcha="true">
+            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="email" placeholder="{% if site.data.settings.mailchimp.mailchimp_input_text %}{{ site.data.settings.mailchimp.mailchimp_input_text }}{% else %}Email address{% endif %}">
+            <button class="button button--big subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp_button_text }}</button>
           </form>
+
         </div>
       </div>
     </div>
