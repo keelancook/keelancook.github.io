@@ -15,8 +15,8 @@
             {% endif %}
           </div>
 
-          <form class="subscribe-form"
-            action="//sendfox.com/form/1ye54o/36gg7j" method="POST" id="36gg7j" data-async="true" data-recaptcha="true">
+          <form class="subscribe-form sendfox-form"
+            action="https://sendfox.com/form/1ye54o/36gg7j" method="POST" id="36gg7j" data-async="true" data-recaptcha="true">
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
             <input class="subscribe-email required email" id="mce-EMAIL" type="email" name="email" placeholder="{% if site.data.settings.mailchimp.mailchimp_input_text %}{{ site.data.settings.mailchimp.mailchimp_input_text }}{% else %}Email address{% endif %}">
             <button class="button button--big subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp_button_text }}</button>
