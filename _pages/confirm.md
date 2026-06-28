@@ -3,6 +3,7 @@ layout: page
 title: Check Your Inbox
 permalink: /confirm/
 description: You're almost subscribed.
+hide_subscribe: true
 ---
 
 Thanks for signing up. One more step — you should have an email in your inbox right now asking you to confirm your subscription. Click the link in that email and you'll be all set to receive new articles from me.
