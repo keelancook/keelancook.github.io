@@ -65,6 +65,16 @@ body  { font-family: var(--sans); background: var(--warmwht); color: var(--dgray
   text-decoration: none;
   letter-spacing: 0.01em;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-logo {
+  height: 36px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
 }
 
 .site-nav {
@@ -722,7 +732,7 @@ a.resource-card:hover .card-arrow {
 
 <!-- ── Header ─────────────────────────────────────────────────── -->
 <header class="site-header" style="position:relative;">
-  <a href="https://keelancook.com" class="site-header-brand">Keelan Cook</a>
+  <a href="https://keelancook.com" class="site-header-brand"><img src="/images/logo.png" alt="Keelan Cook" class="header-logo"> Keelan Cook</a>
   <nav>
     <ul class="site-nav">
       <li><a href="https://keelancook.com">Home</a></li>
