@@ -53,21 +53,26 @@ body {
   min-height: 100vh;
 }
 
-/* ── Header ───────────────────────────────────────────────────── */
+/* ── Header (matches library header exactly) ──────────────────── */
 .site-header {
   background: var(--navy);
-  padding: 18px 32px;
+  padding: 0 40px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .site-header-brand {
   font-family: var(--serif);
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   color: var(--white);
   text-decoration: none;
   letter-spacing: 0.01em;
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -80,6 +85,33 @@ body {
   flex-shrink: 0;
 }
 
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.header-back {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.65);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  transition: color 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.header-back:hover { color: var(--white); }
+
+.header-divider {
+  width: 1px;
+  height: 18px;
+  background: rgba(255,255,255,0.15);
+}
+
 .site-header-sub {
   font-family: var(--sans);
   font-size: 0.68rem;
@@ -87,6 +119,16 @@ body {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.site-header-sub:hover { color: var(--light); }
+
+@media (max-width: 600px) {
+  .site-header { padding: 0 20px; }
+  .header-divider { display: none; }
+  .header-back span { display: none; }
 }
 
 /* ── Layout ───────────────────────────────────────────────────── */
@@ -937,8 +979,20 @@ body {
 <body>
 
 <header class="site-header">
-  <a href="https://keelancook.com" class="site-header-brand"><img src="/images/logo.png" alt="Keelan Cook" class="header-logo"> Keelan Cook</a>
-  <span class="site-header-sub">Peoples Next Door</span>
+  <a href="https://keelancook.com" class="site-header-brand">
+    <img src="/images/logo.png" alt="Keelan Cook" class="header-logo">
+    Keelan Cook
+  </a>
+  <div class="header-nav">
+    <a href="/library/" class="header-back">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+        <path d="M13 8H3M7 12l-4-4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>The Library</span>
+    </a>
+    <div class="header-divider"></div>
+    <a href="https://peoplesnextdoor.com" class="site-header-sub" target="_blank" rel="noopener">Peoples Next Door</a>
+  </div>
 </header>
 
 <div class="page-wrap">
@@ -949,7 +1003,7 @@ body {
   <div id="screen-intro">
 
     <p class="intro-eyebrow">Peoples Next Door · Diaspora Engagement</p>
-    <h1 class="intro-title">Is Your Church Ready for the <em>Nations Next Door?</em></h1>
+    <h1 class="intro-title">Is Your Church Ready for the <em>Peoples Next Door?</em></h1>
     <div class="intro-rule"></div>
 
     <p class="intro-body">The nations are no longer only overseas. Millions of people from the least-reached people groups in the world now live in American cities, many of them within driving distance of evangelical churches that have never once thought about engaging them.</p>
