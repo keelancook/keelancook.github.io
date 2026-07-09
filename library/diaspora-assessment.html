@@ -1,0 +1,1447 @@
+---
+layout: null
+title: Diaspora Engagement Assessment
+canonical: https://keelancook.com/library/diaspora-assessment/
+permalink: /library/diaspora-assessment/
+meta-description: A self-assessment for local churches evaluating their readiness to engage unreached diaspora peoples — from first awareness to genuine partnership.
+meta-og:title: Diaspora Engagement Assessment – Keelan Cook
+meta-og:description: A self-assessment for local churches evaluating their readiness to engage unreached diaspora peoples — from first awareness to genuine partnership.
+meta-twitter:card: summary_large_image
+meta-twitter:title: Diaspora Engagement Assessment – Keelan Cook
+meta-twitter:description: A self-assessment for local churches evaluating their readiness to engage unreached diaspora peoples — from first awareness to genuine partnership.
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diaspora Engagement Assessment | Keelan Cook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ── Reset & base ─────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:   #232B5B;
+  --teal:   #00587E;
+  --accent: #68939E;
+  --light:  #A8C5CE;
+  --offwht: #F6F5F3;
+  --rule:   #E2E0DC;
+  --dgray:  #333333;
+  --mgray:  #666666;
+  --lgray:  #999999;
+  --white:  #ffffff;
+
+  --serif:  'Lora', Georgia, serif;
+  --sans:   'Open Sans', system-ui, sans-serif;
+
+  --page-max: 740px;
+  --radius: 6px;
+}
+
+html { font-size: 16px; scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  background: var(--offwht);
+  color: var(--dgray);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── Header ───────────────────────────────────────────────────── */
+.site-header {
+  background: var(--navy);
+  padding: 18px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-header-brand {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  color: var(--white);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.site-header-sub {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* ── Layout ───────────────────────────────────────────────────── */
+.page-wrap {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+/* ── Intro screen ─────────────────────────────────────────────── */
+#screen-intro {
+  padding-top: 52px;
+}
+
+.intro-eyebrow {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
+.intro-title {
+  font-family: var(--serif);
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.1;
+  margin-bottom: 10px;
+}
+
+.intro-title em {
+  font-style: italic;
+  color: var(--teal);
+}
+
+.intro-rule {
+  width: 48px;
+  height: 3px;
+  background: var(--accent);
+  margin: 20px 0 24px;
+}
+
+.intro-body {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--mgray);
+  line-height: 1.75;
+  margin-bottom: 28px;
+  max-width: 580px;
+}
+
+.intro-how {
+  background: var(--white);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 20px 24px;
+  margin-bottom: 32px;
+}
+
+.intro-how-title {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.intro-how p {
+  font-size: 0.9rem;
+  color: var(--mgray);
+  margin-bottom: 10px;
+}
+
+.intro-how p:last-child { margin-bottom: 0; }
+
+.scale-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.scale-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--offwht);
+  border-radius: 20px;
+  padding: 4px 12px 4px 4px;
+  font-size: 0.78rem;
+}
+
+.scale-chip-num {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--navy);
+  color: var(--white);
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scale-chip-label {
+  color: var(--mgray);
+  font-weight: 600;
+}
+
+/* Tier overview */
+.tier-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 36px;
+}
+
+@media (max-width: 500px) {
+  .tier-grid { grid-template-columns: 1fr; }
+}
+
+.tier-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  border-top: 3px solid;
+  position: relative;
+  overflow: hidden;
+}
+
+.tier-card-1 { border-color: var(--accent); }
+.tier-card-2 { border-color: var(--teal); }
+.tier-card-3 { border-color: #00476a; }
+.tier-card-4 { border-color: var(--navy); }
+
+.tier-card-ghost {
+  position: absolute;
+  right: 10px;
+  bottom: -8px;
+  font-family: var(--serif);
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--navy);
+  opacity: 0.055;
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.tier-card-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.tier-card-name {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 6px;
+}
+
+.tier-card-desc {
+  font-size: 0.8rem;
+  color: var(--mgray);
+  line-height: 1.5;
+}
+
+.btn-start {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--navy);
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 14px 28px;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-start:hover { background: var(--teal); }
+
+.btn-start svg { transition: transform 0.2s; }
+.btn-start:hover svg { transform: translateX(3px); }
+
+/* ── Assessment screen ────────────────────────────────────────── */
+#screen-assessment { display: none; padding-top: 36px; }
+
+/* Progress */
+.progress-wrap {
+  margin-bottom: 32px;
+}
+
+.progress-tiers {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.progress-tier-seg {
+  flex: 1;
+  height: 4px;
+  background: var(--rule);
+  border-radius: 2px;
+  overflow: hidden;
+  transition: background 0.3s;
+}
+
+.progress-tier-seg.complete { background: var(--teal); }
+.progress-tier-seg.active   { background: var(--accent); }
+
+.progress-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.progress-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.progress-count {
+  font-size: 0.72rem;
+  color: var(--lgray);
+}
+
+/* Tier header */
+.tier-header {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 28px 28px 22px;
+  margin-bottom: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.tier-header.teal-bg  { background: var(--teal); }
+.tier-header.mid-bg   { background: #00476a; }
+.tier-header.deep-bg  { background: #1a2249; }
+
+.tier-header-ghost {
+  position: absolute;
+  right: -8px;
+  top: -16px;
+  font-family: var(--serif);
+  font-size: 8rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.06);
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.tier-header-eyebrow {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 6px;
+}
+
+.tier-header-name {
+  font-family: var(--serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 10px;
+  line-height: 1.1;
+}
+
+.tier-header-desc {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.72);
+  line-height: 1.6;
+  max-width: 520px;
+}
+
+/* Questions */
+.question-block {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.question-block.answered { border-left-color: var(--accent); }
+
+.question-num {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.question-text {
+  font-family: var(--serif);
+  font-size: 0.98rem;
+  color: var(--dgray);
+  line-height: 1.65;
+  margin-bottom: 16px;
+}
+
+.scale-row {
+  display: flex;
+  gap: 8px;
+}
+
+@media (max-width: 480px) {
+  .scale-row { gap: 5px; }
+}
+
+.scale-option {
+  flex: 1;
+  position: relative;
+}
+
+.scale-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.scale-option label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  padding: 10px 4px 8px;
+  border-radius: var(--radius);
+  border: 1.5px solid var(--rule);
+  background: var(--offwht);
+  transition: all 0.15s;
+  user-select: none;
+}
+
+.scale-option label:hover {
+  border-color: var(--accent);
+  background: #EDF4F7;
+}
+
+.scale-option input:checked + label {
+  border-color: var(--teal);
+  background: #E0EFF4;
+}
+
+.scale-num {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.scale-option input:checked + label .scale-num {
+  color: var(--teal);
+}
+
+.scale-desc {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--lgray);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.scale-option input:checked + label .scale-desc {
+  color: var(--teal);
+}
+
+/* Tier nav */
+.tier-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--rule);
+}
+
+.btn-back {
+  background: none;
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 11px 20px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--mgray);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-back:hover { border-color: var(--accent); color: var(--navy); }
+
+.btn-next {
+  background: var(--navy);
+  border: none;
+  border-radius: var(--radius);
+  padding: 12px 24px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--white);
+  cursor: pointer;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-next:hover { background: var(--teal); }
+.btn-next:disabled { background: var(--lgray); cursor: not-allowed; }
+
+.tier-score-mini {
+  font-size: 0.75rem;
+  color: var(--lgray);
+  text-align: center;
+}
+
+.tier-score-mini strong {
+  color: var(--navy);
+  font-size: 0.85rem;
+}
+
+/* Validation message */
+.validation-msg {
+  font-size: 0.78rem;
+  color: #b44;
+  display: none;
+  margin-top: 8px;
+  text-align: right;
+}
+
+.validation-msg.show { display: block; }
+
+/* ── Results screen ───────────────────────────────────────────── */
+#screen-results { display: none; padding-top: 36px; }
+
+.results-hero {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 36px 32px;
+  margin-bottom: 28px;
+  position: relative;
+  overflow: hidden;
+}
+
+.results-hero-ghost {
+  position: absolute;
+  right: -20px;
+  bottom: -30px;
+  font-family: var(--serif);
+  font-size: 14rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.04);
+  line-height: 1;
+  user-select: none;
+}
+
+.results-eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.results-title {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 12px;
+  line-height: 1.15;
+}
+
+.results-summary {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.65;
+  max-width: 480px;
+}
+
+.overall-total {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  background: rgba(255,255,255,0.08);
+  border-radius: var(--radius);
+  padding: 10px 18px;
+  margin-top: 18px;
+}
+
+.overall-score-num {
+  font-family: var(--serif);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+.overall-score-denom {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.45);
+  font-weight: 300;
+}
+
+.overall-score-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-left: 8px;
+}
+
+/* Tier result cards */
+.tier-results-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+@media (max-width: 500px) {
+  .tier-results-grid { grid-template-columns: 1fr; }
+}
+
+.tier-result-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 20px 20px 16px;
+  border-top: 3px solid;
+}
+
+.trc-1 { border-color: var(--accent); }
+.trc-2 { border-color: var(--teal); }
+.trc-3 { border-color: #00476a; }
+.trc-4 { border-color: var(--navy); }
+
+.trc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.trc-name {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.trc-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--lgray);
+  margin-bottom: 2px;
+}
+
+.trc-score {
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1;
+}
+
+.trc-denom {
+  font-size: 0.8rem;
+  color: var(--lgray);
+  font-weight: 300;
+}
+
+/* Score bar */
+.trc-bar-wrap {
+  height: 6px;
+  background: var(--rule);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.trc-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--teal);
+  transition: width 0.8s cubic-bezier(.4,0,.2,1);
+}
+
+.trc-bar-fill.low   { background: var(--accent); }
+.trc-bar-fill.mid   { background: var(--teal); }
+.trc-bar-fill.high  { background: var(--navy); }
+
+.trc-status {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.status-beginning { color: var(--accent); }
+.status-developing { color: var(--teal); }
+.status-strong { color: var(--navy); }
+
+/* Interpretation */
+.interpretation-section {
+  margin-bottom: 24px;
+}
+
+.interp-heading {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 6px;
+}
+
+.interp-rule {
+  width: 36px;
+  height: 2px;
+  background: var(--accent);
+  margin-bottom: 18px;
+}
+
+.interp-block {
+  background: var(--white);
+  border-radius: var(--radius);
+  border-left: 4px solid var(--accent);
+  padding: 20px 22px;
+  margin-bottom: 10px;
+}
+
+.interp-block-title {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-bottom: 8px;
+}
+
+.interp-block p {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--mgray);
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+
+.interp-block p:last-child { margin-bottom: 0; }
+
+.next-steps-list {
+  list-style: none;
+  margin-top: 12px;
+}
+
+.next-steps-list li {
+  font-size: 0.88rem;
+  color: var(--dgray);
+  line-height: 1.6;
+  padding: 7px 0 7px 18px;
+  position: relative;
+  border-bottom: 1px solid var(--rule);
+}
+
+.next-steps-list li:last-child { border-bottom: none; }
+
+.next-steps-list li::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--teal);
+  font-weight: 700;
+}
+
+/* Pathway */
+.pathway-strip {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.pathway-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.pathway-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+.pc-1 { background: var(--accent); }
+.pc-2 { background: #4a9ab5; }
+.pc-3 { background: var(--teal); }
+.pc-4 { background: #2A3A6E; border: 1.5px solid rgba(255,255,255,0.25); }
+
+.pathway-step-name {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.6);
+  text-align: center;
+}
+
+.pathway-arrow {
+  color: rgba(255,255,255,0.25);
+  font-size: 1.1rem;
+  margin-bottom: 14px;
+}
+
+/* Print / actions */
+.results-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.btn-print {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  padding: 13px 22px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-print:hover { background: var(--navy); }
+
+.btn-retake {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  color: var(--mgray);
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 12px 22px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-retake:hover { border-color: var(--navy); color: var(--navy); }
+
+/* Footer */
+.results-footer {
+  border-top: 1px solid var(--rule);
+  padding-top: 20px;
+  font-size: 0.75rem;
+  color: var(--lgray);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.results-footer a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* ── Print styles ─────────────────────────────────────────────── */
+@media print {
+  body { background: white; font-size: 11pt; }
+  .site-header, .results-actions, .btn-print, .btn-retake,
+  #screen-intro, #screen-assessment { display: none !important; }
+  #screen-results { display: block !important; }
+  .results-hero { background: #232B5B !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .tier-result-card, .interp-block, .pathway-strip {
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    break-inside: avoid;
+  }
+  .tier-results-grid { grid-template-columns: 1fr 1fr; }
+  .pathway-strip { background: #232B5B !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .results-footer { display: none; }
+}
+
+/* ── Utility ──────────────────────────────────────────────────── */
+.hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="https://keelancook.com" class="site-header-brand"><img src="data:image/png;base64,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" alt="Keelan Cook" class="header-logo"> Keelan Cook</a>
+  <span class="site-header-sub">Peoples Next Door</span>
+</header>
+
+<div class="page-wrap">
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 1 — INTRO
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-intro">
+
+    <p class="intro-eyebrow">Peoples Next Door · Diaspora Engagement</p>
+    <h1 class="intro-title">Is Your Church Ready for the <em>Nations Next Door?</em></h1>
+    <div class="intro-rule"></div>
+
+    <p class="intro-body">The nations are no longer only overseas. Millions of people from the least-reached people groups in the world now live in American cities, many of them within driving distance of evangelical churches that have never once thought about engaging them.</p>
+
+    <div class="intro-how">
+      <div class="intro-how-title">How This Works</div>
+      <p>This assessment has 20 questions across four tiers. Answer each one honestly based on your church's current reality, not your aspirations. There are no right answers to perform.</p>
+      <p>At the end, you'll get a scored breakdown by tier with interpretation and specific next steps for where you are.</p>
+      <div class="scale-chips">
+        <div class="scale-chip"><div class="scale-chip-num">1</div><span class="scale-chip-label">Not at all</span></div>
+        <div class="scale-chip"><div class="scale-chip-num">2</div><span class="scale-chip-label">Rarely</span></div>
+        <div class="scale-chip"><div class="scale-chip-num">3</div><span class="scale-chip-label">Sometimes</span></div>
+        <div class="scale-chip"><div class="scale-chip-num">4</div><span class="scale-chip-label">Consistently</span></div>
+      </div>
+    </div>
+
+    <div class="tier-grid">
+      <div class="tier-card tier-card-1">
+        <div class="tier-card-ghost">01</div>
+        <div class="tier-card-label">Tier 01</div>
+        <div class="tier-card-name">Awareness</div>
+        <p class="tier-card-desc">Your church knows diaspora peoples exist nearby and has begun learning who they are.</p>
+      </div>
+      <div class="tier-card tier-card-2">
+        <div class="tier-card-ghost">02</div>
+        <div class="tier-card-label">Tier 02</div>
+        <div class="tier-card-name">Relationship</div>
+        <p class="tier-card-desc">Church members are forming genuine friendships with people from unreached communities.</p>
+      </div>
+      <div class="tier-card tier-card-3">
+        <div class="tier-card-ghost">03</div>
+        <div class="tier-card-label">Tier 03</div>
+        <div class="tier-card-name">Gospel</div>
+        <p class="tier-card-desc">Your church is intentionally sharing the gospel across cultural lines.</p>
+      </div>
+      <div class="tier-card tier-card-4">
+        <div class="tier-card-ghost">04</div>
+        <div class="tier-card-label">Tier 04</div>
+        <div class="tier-card-name">Partnership</div>
+        <p class="tier-card-desc">Your church is walking alongside new believers toward indigenous, reproducing fellowships.</p>
+      </div>
+    </div>
+
+    <button class="btn-start" onclick="startAssessment()">
+      Begin Assessment
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+
+  </div><!-- /screen-intro -->
+
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 2 — ASSESSMENT
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-assessment">
+
+    <!-- Progress bar -->
+    <div class="progress-wrap">
+      <div class="progress-tiers">
+        <div class="progress-tier-seg" id="seg-0"></div>
+        <div class="progress-tier-seg" id="seg-1"></div>
+        <div class="progress-tier-seg" id="seg-2"></div>
+        <div class="progress-tier-seg" id="seg-3"></div>
+      </div>
+      <div class="progress-meta">
+        <span class="progress-label" id="progress-label">Tier 1 of 4: Awareness</span>
+        <span class="progress-count" id="progress-count">Questions 1–5 of 20</span>
+      </div>
+    </div>
+
+    <!-- Tier header (swapped by JS) -->
+    <div class="tier-header" id="tier-header">
+      <div class="tier-header-ghost" id="tier-ghost">01</div>
+      <div class="tier-header-eyebrow" id="tier-eyebrow">TIER ONE OF FOUR</div>
+      <div class="tier-header-name" id="tier-name">Awareness</div>
+      <p class="tier-header-desc" id="tier-desc">Before a church can engage diaspora peoples, it has to know they exist and specifically who lives nearby. This tier asks whether your church has moved beyond vague awareness into informed attention.</p>
+    </div>
+
+    <!-- Questions container (rendered by JS) -->
+    <div id="questions-container"></div>
+
+    <p class="validation-msg" id="validation-msg">Please answer all 5 questions before continuing.</p>
+
+    <div class="tier-nav">
+      <button class="btn-back" id="btn-back" onclick="prevTier()">← Back</button>
+      <div class="tier-score-mini" id="tier-score-mini"></div>
+      <button class="btn-next" id="btn-next" onclick="nextTier()">
+        Next Tier
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+          <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+
+  </div><!-- /screen-assessment -->
+
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 3 — RESULTS
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-results">
+
+    <div class="results-hero">
+      <div class="results-hero-ghost" id="results-ghost">C</div>
+      <div class="results-eyebrow">Your Assessment Results</div>
+      <h2 class="results-title" id="results-title">Your Score, Your Next Step</h2>
+      <p class="results-summary">Treat this as a map, not a grade. The goal isn't to feel good about what your church is already doing. It's to see clearly where you are so you know where to go next.</p>
+      <div class="overall-total">
+        <span class="overall-score-num" id="overall-score-num">—</span>
+        <span class="overall-score-denom">/ 80</span>
+        <span class="overall-score-label">Overall</span>
+      </div>
+    </div>
+
+    <!-- Tier scorecards -->
+    <div class="tier-results-grid" id="tier-results-grid">
+      <!-- Populated by JS -->
+    </div>
+
+    <!-- Pathway -->
+    <div class="pathway-strip">
+      <div class="pathway-step">
+        <div class="pathway-circle pc-1">01</div>
+        <div class="pathway-step-name">Awareness</div>
+      </div>
+      <div class="pathway-arrow">›</div>
+      <div class="pathway-step">
+        <div class="pathway-circle pc-2">02</div>
+        <div class="pathway-step-name">Relationship</div>
+      </div>
+      <div class="pathway-arrow">›</div>
+      <div class="pathway-step">
+        <div class="pathway-circle pc-3">03</div>
+        <div class="pathway-step-name">Gospel</div>
+      </div>
+      <div class="pathway-arrow">›</div>
+      <div class="pathway-step">
+        <div class="pathway-circle pc-4">04</div>
+        <div class="pathway-step-name">Partnership</div>
+      </div>
+    </div>
+
+    <!-- Per-tier interpretation -->
+    <div class="interpretation-section" id="interpretation-section">
+      <!-- Populated by JS -->
+    </div>
+
+    <!-- Actions -->
+    <div class="results-actions">
+      <button class="btn-print" onclick="window.print()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
+          <path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6v-8z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Save / Print Results
+      </button>
+      <button class="btn-retake" onclick="retake()">
+        ↺ Retake Assessment
+      </button>
+    </div>
+
+    <div class="results-footer">
+      <span>© Keelan Cook · Free to share with attribution</span>
+      <a href="https://keelancook.com">keelancook.com</a>
+    </div>
+
+  </div><!-- /screen-results -->
+
+</div><!-- /page-wrap -->
+
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────────
+const TIERS = [
+  {
+    num: '01',
+    label: 'Awareness',
+    of: 'Tier One of Four',
+    bgClass: '',
+    desc: 'Before a church can engage diaspora peoples, it has to know they exist and specifically who lives nearby. This tier asks whether your church has moved beyond vague awareness into informed attention.',
+    questions: [
+      'Our church leadership can name at least one unreached people group currently living within 10 miles of our building.',
+      'Our pastor has preached, taught, or referred to the presence of unreached diaspora peoples in our community within the last 12 months.',
+      'Our church has taken deliberate steps to discover which people groups live in our city or neighborhood (e.g., demographic research, community mapping, or a Peoples Next Door survey).',
+      'Our congregation understands the difference between "unreached" peoples and simply "unchurched" people in our area.',
+      'Our missions budget or strategy discussion has explicitly referenced diaspora or international peoples locally, not just overseas contexts.',
+    ],
+    nextSteps: [
+      'Use free census data (census.gov) or Joshua Project to identify people groups in your zip code.',
+      'Ask your pastor to preach one message connecting the Great Commission to diaspora peoples in your own community.',
+      'Assign one elder or deacon to gather and present a neighborhood demographic snapshot to your leadership team.',
+      'Visit keelancook.com for free community mapping resources through the Peoples Next Door project.',
+    ],
+    interp: {
+      beginning: 'Your church has not yet developed a working awareness of the diaspora peoples in your community. That\'s not a disqualifier; it\'s actually the most fixable problem on this list. Awareness is the most actionable tier. A few deliberate steps in the next 90 days can move you further than you might expect.',
+      developing: 'Your church is beginning to see the nations in your own backyard, but that awareness is probably sitting with a few individuals rather than shaping your leadership culture. The work is making this structural, something that shows up in how your church talks about missions, how you budget, and how you read your neighborhood.',
+      strong: 'Your church has a genuine working knowledge of the diaspora peoples in your community. That\'s less common than it should be, so protect it. Now ask whether that awareness is actually producing movement into Tier 2.',
+    },
+  },
+  {
+    num: '02',
+    label: 'Relationship',
+    of: 'Tier Two of Four',
+    bgClass: 'teal-bg',
+    desc: 'Awareness without relationship is just information. This tier asks whether church members are moving beyond knowledge about diaspora peoples into genuine, sustained friendship with them.',
+    questions: [
+      'Members of our congregation can name specific individuals from diaspora or international communities whom they know personally, people they would welcome into their home.',
+      'Our church creates structured opportunities for members to form friendships across cultural lines (e.g., ESL ministry, shared meals, community events, neighbor outreach).',
+      'Church members with cross-cultural relationships approach them with a learner\'s spirit, asking questions and acquiring culture rather than waiting until they feel like experts.',
+      'Our church regularly practices and encourages hospitality as a means of gospel witness, inviting neighbors from other cultures into our homes, not just programming.',
+      'Members who have built relationships with internationals share these stories with the broader congregation, helping build a culture of engagement rather than a solo effort.',
+    ],
+    nextSteps: [
+      'Identify two or three members who already have proximity to internationals (neighbors, coworkers) and come alongside them intentionally.',
+      'Teach your congregation that cultural expertise is not the prerequisite for friendship. A learner\'s posture is.',
+      'Consider launching a simple English conversation ministry or international student welcome program as a relational entry point.',
+      'Preach and model hospitality as a spiritual discipline, not a personality type.',
+    ],
+    interp: {
+      beginning: 'Your church has not yet moved from knowing about diaspora peoples to actually knowing them. This is where most churches stall. Awareness produces concern, but concern doesn\'t automatically become contact. The most useful thing you can do right now is help two or three members take one small relational step toward a neighbor or coworker from another culture.',
+      developing: 'Some of your members have cross-cultural friendships, but it probably feels like a personal hobby rather than something the whole church owns. Preaching hospitality, sharing those stories publicly, and building simple on-ramps for ordinary members are what move this from individual initiative to congregational culture.',
+      strong: 'Your church has built something genuinely hard to build: a real culture of cross-cultural relationship. Now the question is whether those friendships are carrying the gospel.',
+    },
+  },
+  {
+    num: '03',
+    label: 'Gospel',
+    of: 'Tier Three of Four',
+    bgClass: 'mid-bg',
+    desc: 'Relationships without gospel proclamation are not yet fulfilling the Great Commission. This tier asks whether your church is actually sharing the good news of Jesus across cultural lines and equipping members to do it faithfully.',
+    questions: [
+      'Members of our congregation are regularly sharing the gospel with people from unreached diaspora communities, not just serving or befriending them.',
+      'Our church equips members with cross-cultural gospel communication skills, including awareness of how different worldviews (honor/shame, fear/power) receive the message of Christ.',
+      'We have seen at least one person from an unreached people group come to saving faith and be discipled through our congregation in the past three years.',
+      'Our church uses Bible reading or Bible storying as a cross-cultural evangelism tool, presenting the gospel in narrative form that travels across cultural and linguistic barriers.',
+      'Cross-cultural gospel conversations are reported and celebrated in our congregation, creating accountability and a culture of expectation around this work.',
+    ],
+    nextSteps: [
+      'Teach your congregation that friendship is the bridge, not the destination. Relationships exist to carry the message of Christ, not to substitute for it.',
+      'Train members in basic cross-cultural communication: how to share the gospel with someone from an honor/shame or animistic background.',
+      'Introduce Bible storying as an evangelistic method. It requires no translation of Western categories and travels naturally across cultural and linguistic lines.',
+      'Create regular accountability moments: ask in small groups, "Did anyone have a gospel conversation with an international neighbor this week?"',
+    ],
+    interp: {
+      beginning: 'Your church is not yet consistently bringing the gospel into cross-cultural relationships. That\'s worth naming plainly, because good intentions and good relationships that never carry the gospel are not yet Great Commission work. The shift needed here is not a new program but a clearer conviction: every cross-cultural friendship is an opportunity to be a witness.',
+      developing: 'The gospel is being shared, but probably through a handful of people rather than as something the whole congregation expects of itself. Building a culture of accountability around this, where cross-cultural gospel conversations are prayed for, celebrated publicly, and expected of members, is what moves you from "some people do this" to "this is who we are."',
+      strong: 'Your church is doing the hard work of cross-cultural proclamation. Souls from least-reached communities are coming to faith and the Great Commission is being taken seriously in your own neighborhood. Now ask what happens to the people who believe.',
+    },
+  },
+  {
+    num: '04',
+    label: 'Partnership',
+    of: 'Tier Four of Four',
+    bgClass: 'deep-bg',
+    desc: 'The ultimate aim is not a program but a movement: indigenous believers from diaspora communities worshipping in their own language and eventually sending their own missionaries. This tier asks whether your church is moving toward that kind of generative partnership.',
+    questions: [
+      'Our church is discipling believers from unreached diaspora communities, not just welcoming them into services but walking alongside them in formation, accountability, and growth.',
+      'We are actively working toward, or have already helped establish, a gathering among an unreached people group where they can worship and be discipled in their own cultural and linguistic context.',
+      'Our church has a relationship with an IMB missionary or global partner working among the same people group we engage locally, connecting our local work to the broader international mission.',
+      'We are identifying and equipping emerging leaders from within the diaspora community itself, not just serving the community from the outside.',
+      'Our church speaks of diaspora engagement not as an outreach program but as a core expression of our missionary identity, something the whole congregation understands as central to why we exist.',
+    ],
+    nextSteps: [
+      'Identify believers from the diaspora community you are engaging and invest intentionally in their discipleship and leadership development.',
+      'Connect your local diaspora work with the IMB\'s global strategy for that people group. They may be able to offer training, resources, or field contacts you don\'t have.',
+      'Resist the urge to assimilate new believers into your existing church culture. Ask: what would a healthy gathering look like within their cultural context?',
+      'Begin framing this work publicly as part of your church\'s core mission so the whole congregation owns it.',
+    ],
+    interp: {
+      beginning: 'Your church has not yet reached the stage of generative partnership, and that\'s not surprising. This is the most advanced tier and it builds entirely on the three that come before it. Before investing energy here, check your Tier 1 and 2 scores. Partnership without awareness and relationship underneath it doesn\'t hold.',
+      developing: 'Your church is beginning to move toward the deeper work of discipleship and church formation among diaspora peoples. That\'s rare. The key question now is whether you\'re working toward indigenous leadership, people from within the community itself who will carry this work forward long after your church\'s involvement started it.',
+      strong: 'Your church is operating at the frontier of what diaspora engagement can look like. You\'re not doing missions among a community anymore. You\'re doing it with them. That\'s the shape of the Great Commission.',
+    },
+  },
+];
+
+const SCALE_LABELS = ['Not at all', 'Rarely', 'Sometimes', 'Consistently'];
+
+// ── State ──────────────────────────────────────────────────────────────────
+let currentTier = 0;
+let answers = Array(4).fill(null).map(() => Array(5).fill(0));
+
+// ── Navigation ─────────────────────────────────────────────────────────────
+function startAssessment() {
+  document.getElementById('screen-intro').style.display = 'none';
+  document.getElementById('screen-assessment').style.display = 'block';
+  currentTier = 0;
+  renderTier();
+  window.scrollTo(0, 0);
+}
+
+function renderTier() {
+  const tier = TIERS[currentTier];
+
+  // Header
+  const hdr = document.getElementById('tier-header');
+  hdr.className = 'tier-header' + (tier.bgClass ? ' ' + tier.bgClass : '');
+  document.getElementById('tier-ghost').textContent = tier.num;
+  document.getElementById('tier-eyebrow').textContent = tier.of.toUpperCase();
+  document.getElementById('tier-name').textContent = tier.label;
+  document.getElementById('tier-desc').textContent = tier.desc;
+
+  // Progress
+  for (let i = 0; i < 4; i++) {
+    const seg = document.getElementById('seg-' + i);
+    seg.className = 'progress-tier-seg' +
+      (i < currentTier ? ' complete' : i === currentTier ? ' active' : '');
+  }
+  document.getElementById('progress-label').textContent =
+    `Tier ${currentTier + 1} of 4: ${tier.label}`;
+  document.getElementById('progress-count').textContent =
+    `Questions ${currentTier * 5 + 1}–${currentTier * 5 + 5} of 20`;
+
+  // Back button
+  document.getElementById('btn-back').style.visibility =
+    currentTier === 0 ? 'hidden' : 'visible';
+
+  // Next button label
+  const btnNext = document.getElementById('btn-next');
+  btnNext.innerHTML = currentTier === 3
+    ? 'See My Results <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+    : 'Next Tier <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  // Questions
+  const container = document.getElementById('questions-container');
+  container.innerHTML = '';
+  tier.questions.forEach((q, qi) => {
+    const saved = answers[currentTier][qi];
+    const block = document.createElement('div');
+    block.className = 'question-block' + (saved ? ' answered' : '');
+    block.id = 'qblock-' + qi;
+
+    let scaleHTML = '<div class="scale-row">';
+    for (let v = 1; v <= 4; v++) {
+      const checked = saved === v ? 'checked' : '';
+      scaleHTML += `
+        <div class="scale-option">
+          <input type="radio" name="q${currentTier}_${qi}" id="q${currentTier}_${qi}_${v}"
+            value="${v}" ${checked} onchange="recordAnswer(${qi}, ${v})">
+          <label for="q${currentTier}_${qi}_${v}">
+            <span class="scale-num">${v}</span>
+            <span class="scale-desc">${SCALE_LABELS[v-1]}</span>
+          </label>
+        </div>`;
+    }
+    scaleHTML += '</div>';
+
+    block.innerHTML = `
+      <div class="question-num">${currentTier * 5 + qi + 1}</div>
+      <p class="question-text">${q}</p>
+      ${scaleHTML}`;
+    container.appendChild(block);
+  });
+
+  updateMiniScore();
+  document.getElementById('validation-msg').classList.remove('show');
+}
+
+function recordAnswer(qi, value) {
+  answers[currentTier][qi] = value;
+  const block = document.getElementById('qblock-' + qi);
+  if (block) block.classList.add('answered');
+  updateMiniScore();
+}
+
+function updateMiniScore() {
+  const tierAnswers = answers[currentTier];
+  const answered = tierAnswers.filter(a => a > 0).length;
+  const total = tierAnswers.reduce((s, a) => s + a, 0);
+  const mini = document.getElementById('tier-score-mini');
+  if (answered === 5) {
+    mini.innerHTML = `<strong>${total}</strong> / 20`;
+  } else {
+    mini.innerHTML = `${answered} of 5 answered`;
+  }
+}
+
+function prevTier() {
+  if (currentTier > 0) {
+    currentTier--;
+    renderTier();
+    window.scrollTo(0, 0);
+  }
+}
+
+function nextTier() {
+  // Validate
+  const unanswered = answers[currentTier].filter(a => a === 0).length;
+  if (unanswered > 0) {
+    document.getElementById('validation-msg').classList.add('show');
+    // Scroll to first unanswered
+    const firstEmpty = answers[currentTier].findIndex(a => a === 0);
+    const el = document.getElementById('qblock-' + firstEmpty);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    return;
+  }
+
+  if (currentTier < 3) {
+    currentTier++;
+    renderTier();
+    window.scrollTo(0, 0);
+  } else {
+    showResults();
+  }
+}
+
+// ── Results ────────────────────────────────────────────────────────────────
+function getStatus(score) {
+  if (score <= 9)  return { label: 'Beginning',  cls: 'status-beginning',  barCls: 'low' };
+  if (score <= 15) return { label: 'Developing', cls: 'status-developing', barCls: 'mid' };
+  return               { label: 'Strong',      cls: 'status-strong',     barCls: 'high' };
+}
+
+function showResults() {
+  document.getElementById('screen-assessment').style.display = 'none';
+  document.getElementById('screen-results').style.display = 'block';
+
+  const tierScores = answers.map(t => t.reduce((s, a) => s + a, 0));
+  const overall = tierScores.reduce((s, a) => s + a, 0);
+
+  document.getElementById('overall-score-num').textContent = overall;
+
+  // Tier score cards
+  const grid = document.getElementById('tier-results-grid');
+  grid.innerHTML = '';
+  TIERS.forEach((tier, i) => {
+    const score = tierScores[i];
+    const pct = (score / 20) * 100;
+    const status = getStatus(score);
+    grid.innerHTML += `
+      <div class="tier-result-card trc-${i+1}">
+        <div class="trc-header">
+          <div>
+            <div class="trc-label">Tier ${tier.num}</div>
+            <div class="trc-name">${tier.label}</div>
+          </div>
+          <div style="text-align:right">
+            <div class="trc-score">${score}<span class="trc-denom"> /20</span></div>
+          </div>
+        </div>
+        <div class="trc-bar-wrap">
+          <div class="trc-bar-fill ${status.barCls}" style="width:${pct}%"></div>
+        </div>
+        <div class="trc-status ${status.cls}">${status.label}</div>
+      </div>`;
+  });
+
+  // Interpretation blocks
+  const interp = document.getElementById('interpretation-section');
+  interp.innerHTML = `
+    <h3 class="interp-heading">What Your Scores Mean</h3>
+    <div class="interp-rule"></div>`;
+
+  // Find weakest tier for callout
+  const weakestIdx = tierScores.indexOf(Math.min(...tierScores));
+
+  TIERS.forEach((tier, i) => {
+    const score = tierScores[i];
+    const status = getStatus(score);
+    const interpText = tier.interp[status.label.toLowerCase()];
+    const isWeakest = (i === weakestIdx);
+
+    const stepsHTML = tier.nextSteps
+      .map(s => `<li>${s}</li>`)
+      .join('');
+
+    const priorityBadge = isWeakest
+      ? `<span style="background:var(--teal);color:white;font-size:0.62rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:2px 8px;border-radius:20px;margin-left:8px;">Focus here first</span>`
+      : '';
+
+    interp.innerHTML += `
+      <div class="interp-block">
+        <div class="interp-block-title">
+          Tier ${tier.num}: ${tier.label}
+          <span class="trc-status ${status.cls}" style="margin-left:6px;">${status.label}</span>
+          ${priorityBadge}
+        </div>
+        <p>${interpText}</p>
+        ${score <= 15 ? `<ul class="next-steps-list">${stepsHTML}</ul>` : ''}
+      </div>`;
+  });
+
+  window.scrollTo(0, 0);
+
+  // Animate bars after paint
+  setTimeout(() => {
+    document.querySelectorAll('.trc-bar-fill').forEach((bar, i) => {
+      const score = tierScores[i];
+      bar.style.width = ((score / 20) * 100) + '%';
+    });
+  }, 100);
+}
+
+function retake() {
+  answers = Array(4).fill(null).map(() => Array(5).fill(0));
+  currentTier = 0;
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-intro').style.display = 'block';
+  window.scrollTo(0, 0);
+}
+</script>
+
+</body>
+</html>
