@@ -516,26 +516,35 @@ a.resource-card:hover .card-arrow {
   margin-top: 1px;
 }
 
-/* Coming soon */
+/* Coming soon — ribbon overlay */
 .resource-card.soon {
-  opacity: 0.55;
+  opacity: 0.62;
   pointer-events: none;
 }
 
-.soon-badge {
+.resource-card.soon::after {
+  content: 'Coming Soon';
+  position: absolute;
+  top: 22px;
+  right: -28px;
+  width: 120px;
+  padding: 5px 0;
+  background: var(--navy);
+  color: rgba(255,255,255,0.9);
+  font-family: var(--sans);
   font-size: 0.58rem;
   font-weight: 700;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--lgray);
-  background: var(--offwht);
-  padding: 2px 7px;
-  border-radius: 3px;
-  border: 1px solid var(--rule);
-  flex-shrink: 0;
-  align-self: flex-start;
-  margin-top: 1px;
+  text-align: center;
+  transform: rotate(45deg);
+  transform-origin: center;
+  box-shadow: 0 2px 6px rgba(35,43,91,0.25);
+  pointer-events: none;
 }
+
+/* Hide the old inline badge since ribbon replaces it */
+.soon-badge { display: none; }
 
 /* ── Email banner ─────────────────────────────────────────────── */
 .email-banner {
