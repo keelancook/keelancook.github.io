@@ -1,0 +1,1598 @@
+---
+layout: null
+title: The Coffee Cup Assessment
+canonical: https://keelancook.com/library/coffee-cup-assessment/
+permalink: /library/coffee-cup-assessment/
+meta-description: An informal conversation guide for a first coffee with someone who might be called to plant a church. Not a formal assessment tool.
+meta-og:title: The Coffee Cup Assessment – Keelan Cook
+meta-og:description: An informal conversation guide for a first coffee with someone who might be called to plant a church. Not a formal assessment tool.
+meta-twitter:card: summary_large_image
+meta-twitter:title: The Coffee Cup Assessment – Keelan Cook
+meta-twitter:description: An informal conversation guide for a first coffee with someone who might be called to plant a church. Not a formal assessment tool.
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Coffee Cup Assessment | Keelan Cook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:   #232B5B;
+  --teal:   #00587E;
+  --accent: #68939E;
+  --light:  #A8C5CE;
+  --offwht: #F6F5F3;
+  --rule:   #E2E0DC;
+  --dgray:  #333333;
+  --mgray:  #666666;
+  --lgray:  #999999;
+  --white:  #ffffff;
+
+  --serif:  'Lora', Georgia, serif;
+  --sans:   'Open Sans', system-ui, sans-serif;
+
+  --page-max: 740px;
+  --radius: 6px;
+}
+
+html { font-size: 16px; scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  background: var(--offwht);
+  color: var(--dgray);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── Header (matches library header exactly) ────────────────────── */
+.site-header {
+  background: var(--navy);
+  padding: 0 40px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.site-header-brand {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  color: var(--white);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-logo {
+  height: 36px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.header-back {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.65);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  transition: color 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.header-back:hover { color: var(--white); }
+
+.header-divider {
+  width: 1px;
+  height: 18px;
+  background: rgba(255,255,255,0.15);
+}
+
+.site-header-sub {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.site-header-sub:hover { color: var(--light); }
+
+@media (max-width: 600px) {
+  .site-header { padding: 0 20px; }
+  .header-divider { display: none; }
+  .header-back span { display: none; }
+}
+
+/* ── Layout ───────────────────────────────────────────────────── */
+.page-wrap {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+/* ── Intro screen ─────────────────────────────────────────────── */
+#screen-intro { padding-top: 48px; }
+
+.intro-eyebrow {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
+.intro-title {
+  font-family: var(--serif);
+  font-size: clamp(1.9rem, 5vw, 2.7rem);
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.1;
+  margin-bottom: 10px;
+}
+
+.intro-title em { font-style: italic; color: var(--teal); }
+
+.intro-rule {
+  width: 48px;
+  height: 3px;
+  background: var(--accent);
+  margin: 20px 0 24px;
+}
+
+.intro-body {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--mgray);
+  line-height: 1.75;
+  margin-bottom: 24px;
+  max-width: 580px;
+}
+
+/* Not-a-formal-tool callout */
+.disclaimer-box {
+  background: var(--white);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 20px 24px;
+  margin-bottom: 28px;
+}
+
+.privacy-box {
+  background: #F0F5F2;
+  border-left: 4px solid #4a8a5c;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 22px;
+  margin-bottom: 24px;
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.privacy-icon {
+  flex-shrink: 0;
+  margin-top: 2px;
+  color: #4a8a5c;
+}
+
+.privacy-text {
+  font-size: 0.85rem;
+  color: #395c42;
+  line-height: 1.6;
+}
+
+.privacy-text strong { color: #2b4a33; }
+
+.intake-fields {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--rule);
+  padding: 22px 24px;
+  margin-bottom: 28px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 500px) { .intake-fields { grid-template-columns: 1fr; } }
+
+.intake-field { }
+.intake-field.full-width { grid-column: 1 / -1; }
+
+.intake-field label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.intake-field input,
+.intake-field textarea {
+  width: 100%;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  padding: 10px 12px;
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.intake-field textarea {
+  min-height: 70px;
+  resize: vertical;
+  line-height: 1.5;
+  font-family: var(--sans);
+}
+
+.intake-field input:focus,
+.intake-field textarea:focus { border-color: var(--accent); }
+.intake-field .hint { font-size: 0.74rem; color: var(--lgray); margin-top: 5px; font-style: italic; }
+.optional-tag { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--lgray); font-size: 0.9em; }
+
+.disclaimer-title {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.disclaimer-box p {
+  font-size: 0.88rem;
+  color: var(--mgray);
+  margin-bottom: 10px;
+}
+
+.disclaimer-box p:last-child { margin-bottom: 0; }
+
+.intro-how {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--rule);
+  padding: 20px 24px;
+  margin-bottom: 32px;
+}
+
+.intro-how-title {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-bottom: 8px;
+}
+
+.intro-how p {
+  font-size: 0.88rem;
+  color: var(--mgray);
+  margin-bottom: 10px;
+}
+
+.intro-how p:last-child { margin-bottom: 0; }
+
+.scale-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.scale-chip {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: var(--offwht);
+  border-radius: 20px;
+  padding: 5px 13px 5px 5px;
+  font-size: 0.76rem;
+}
+
+.scale-chip-num {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--navy);
+  color: var(--white);
+  font-size: 0.68rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.scale-chip-label { color: var(--mgray); font-weight: 600; }
+
+/* Category overview */
+.tier-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 36px;
+}
+
+@media (max-width: 600px) {
+  .tier-grid { grid-template-columns: 1fr; }
+}
+
+.tier-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  border-top: 3px solid;
+  position: relative;
+  overflow: hidden;
+}
+
+.tier-card-1 { border-color: var(--accent); }
+.tier-card-2 { border-color: var(--teal); }
+.tier-card-3 { border-color: var(--navy); }
+
+.tier-card-label {
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.tier-card-name {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 6px;
+}
+
+.tier-card-desc {
+  font-size: 0.79rem;
+  color: var(--mgray);
+  line-height: 1.5;
+}
+
+.btn-start {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--navy);
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 14px 28px;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-start:hover { background: var(--teal); }
+.btn-start svg { transition: transform 0.2s; }
+.btn-start:hover svg { transform: translateX(3px); }
+
+/* ── Conversation screen ──────────────────────────────────────── */
+#screen-assessment { display: none; padding-top: 32px; }
+
+.progress-wrap { margin-bottom: 28px; }
+
+.progress-tiers { display: flex; gap: 6px; margin-bottom: 10px; }
+
+.progress-tier-seg {
+  flex: 1;
+  height: 4px;
+  background: var(--rule);
+  border-radius: 2px;
+  transition: background 0.3s;
+}
+
+.progress-tier-seg.complete { background: var(--teal); }
+.progress-tier-seg.active   { background: var(--accent); }
+
+.progress-meta { display: flex; justify-content: space-between; align-items: baseline; }
+
+.progress-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.progress-count { font-size: 0.72rem; color: var(--lgray); }
+
+.tier-header {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 26px 26px 20px;
+  margin-bottom: 22px;
+  position: relative;
+  overflow: hidden;
+}
+
+.tier-header.teal-bg { background: var(--teal); }
+.tier-header.deep-bg { background: #1a2249; }
+
+.tier-header-ghost {
+  position: absolute;
+  right: -6px;
+  top: -14px;
+  font-family: var(--serif);
+  font-size: 6.5rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.06);
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.tier-header-eyebrow {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 6px;
+}
+
+.tier-header-name {
+  font-family: var(--serif);
+  font-size: 1.85rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 9px;
+  line-height: 1.1;
+}
+
+.tier-header-desc {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.72);
+  line-height: 1.6;
+  max-width: 520px;
+}
+
+/* Questions */
+.question-block {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 20px 22px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.question-block.answered { border-left-color: var(--accent); }
+
+.question-num {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+.question-text {
+  font-family: var(--serif);
+  font-size: 0.96rem;
+  color: var(--dgray);
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.ask-prompt {
+  background: var(--offwht);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.ask-label {
+  font-family: var(--sans);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.ask-text {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.87rem;
+  color: var(--mgray);
+  line-height: 1.5;
+}
+
+.scale-row { display: flex; gap: 8px; flex-wrap: wrap; }
+
+.scale-option { flex: 1; min-width: 140px; position: relative; }
+
+.scale-option input[type="radio"] { position: absolute; opacity: 0; width: 0; height: 0; }
+
+.scale-option label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 1.5px solid var(--rule);
+  background: var(--offwht);
+  transition: all 0.15s;
+  user-select: none;
+  height: 100%;
+}
+
+.scale-option label:hover { border-color: var(--accent); background: #EDF4F7; }
+.scale-option input:checked + label { border-color: var(--teal); background: #E0EFF4; }
+
+.scale-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid var(--lgray);
+  flex-shrink: 0;
+  position: relative;
+}
+
+.scale-option input:checked + label .scale-dot {
+  border-color: var(--teal);
+  background: var(--teal);
+}
+
+.scale-option input:checked + label .scale-dot::after {
+  content: '';
+  position: absolute;
+  inset: 3px;
+  border-radius: 50%;
+  background: var(--white);
+}
+
+.scale-text {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--mgray);
+  line-height: 1.3;
+}
+
+.scale-option input:checked + label .scale-text { color: var(--teal); }
+
+/* Notes field per category */
+.notes-block {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 20px 22px;
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+
+.notes-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.notes-textarea {
+  width: 100%;
+  min-height: 80px;
+  font-family: var(--sans);
+  font-size: 0.86rem;
+  color: var(--dgray);
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  resize: vertical;
+  outline: none;
+  transition: border-color 0.15s;
+  line-height: 1.55;
+}
+
+.notes-textarea:focus { border-color: var(--accent); }
+.notes-textarea::placeholder { color: var(--lgray); }
+
+/* Tier nav */
+.tier-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 26px;
+  padding-top: 18px;
+  border-top: 1px solid var(--rule);
+}
+
+.btn-back {
+  background: none;
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 11px 20px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--mgray);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-back:hover { border-color: var(--accent); color: var(--navy); }
+
+.btn-next {
+  background: var(--navy);
+  border: none;
+  border-radius: var(--radius);
+  padding: 12px 24px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--white);
+  cursor: pointer;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-next:hover { background: var(--teal); }
+
+.validation-msg {
+  font-size: 0.78rem;
+  color: #b44;
+  display: none;
+  margin-top: 8px;
+  text-align: right;
+}
+
+.validation-msg.show { display: block; }
+
+/* ── Results screen ───────────────────────────────────────────── */
+#screen-results { display: none; padding-top: 32px; }
+
+.results-hero {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 34px 30px;
+  margin-bottom: 26px;
+  position: relative;
+  overflow: hidden;
+}
+
+.results-hero-ghost {
+  position: absolute;
+  right: -20px;
+  bottom: -30px;
+  font-family: var(--serif);
+  font-size: 12rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.04);
+  line-height: 1;
+  user-select: none;
+}
+
+.results-eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.results-title {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 4vw, 2rem);
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 12px;
+  line-height: 1.15;
+}
+
+.results-summary {
+  font-size: 0.87rem;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.65;
+  max-width: 480px;
+}
+
+.report-meta {
+  display: flex;
+  gap: 22px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.12);
+}
+
+.report-meta-item { }
+
+.report-meta-label {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.4);
+  margin-bottom: 3px;
+}
+
+.report-meta-value {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.9);
+}
+
+/* Category summary cards */
+.tier-results-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+@media (max-width: 640px) {
+  .tier-results-grid { grid-template-columns: 1fr; }
+}
+
+.tier-result-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 18px 18px 14px;
+  border-top: 3px solid;
+}
+
+.trc-1 { border-color: var(--accent); }
+.trc-2 { border-color: var(--teal); }
+.trc-3 { border-color: var(--navy); }
+
+.trc-label {
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lgray);
+  margin-bottom: 3px;
+}
+
+.trc-name {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 10px;
+}
+
+.trc-bar-wrap {
+  height: 6px;
+  background: var(--rule);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.trc-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--teal);
+  transition: width 0.8s cubic-bezier(.4,0,.2,1);
+}
+
+.trc-status {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
+.status-low  { color: var(--accent); }
+.status-mid  { color: var(--teal); }
+.status-high { color: var(--navy); }
+
+/* Reflection section */
+.interpretation-section { margin-bottom: 24px; }
+
+.interp-heading {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 6px;
+}
+
+.interp-rule { width: 36px; height: 2px; background: var(--accent); margin-bottom: 18px; }
+
+.interp-block {
+  background: var(--white);
+  border-radius: var(--radius);
+  border-left: 4px solid var(--accent);
+  padding: 20px 22px;
+  margin-bottom: 14px;
+}
+
+.interp-block-title {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-bottom: 8px;
+}
+
+.interp-block p {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--mgray);
+  line-height: 1.7;
+}
+
+.next-steps-title {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.next-steps-list {
+  list-style: none;
+}
+
+.next-steps-list li {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--dgray);
+  line-height: 1.55;
+  padding: 6px 0 6px 18px;
+  position: relative;
+  border-bottom: 1px solid var(--rule);
+}
+
+.next-steps-list li:last-child { border-bottom: none; }
+
+.next-steps-list li::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--teal);
+  font-weight: 700;
+}
+
+/* Your notes recap */
+.notes-recap {
+  background: var(--white);
+  border-radius: var(--radius);
+  border: 1px solid var(--rule);
+  padding: 20px 22px;
+  margin-bottom: 14px;
+}
+
+.notes-recap-title {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.notes-recap-body {
+  font-size: 0.85rem;
+  color: var(--dgray);
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.notes-recap-empty {
+  font-size: 0.85rem;
+  color: var(--lgray);
+  font-style: italic;
+}
+
+/* Actions */
+.results-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 32px; }
+
+.btn-print {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius);
+  padding: 13px 22px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-print:hover { background: var(--navy); }
+
+.btn-retake {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  color: var(--mgray);
+  border: 1.5px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 12px 22px;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-retake:hover { border-color: var(--navy); color: var(--navy); }
+
+.results-footer {
+  border-top: 1px solid var(--rule);
+  padding-top: 20px;
+  font-size: 0.75rem;
+  color: var(--lgray);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.results-footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
+
+/* ── Print ────────────────────────────────────────────────────── */
+@media print {
+  body { background: white; font-size: 11pt; }
+  .site-header, .results-actions, .btn-print, .btn-retake,
+  #screen-intro, #screen-assessment { display: none !important; }
+  #screen-results { display: block !important; }
+  .results-hero, .tier-result-card, .interp-block, .notes-recap {
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    break-inside: avoid;
+  }
+  .results-hero { background: #232B5B !important; }
+  .tier-results-grid { grid-template-columns: 1fr 1fr 1fr; }
+  .results-footer { display: none; }
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="https://keelancook.com" class="site-header-brand">
+    <img src="/images/logo.png" alt="Keelan Cook" class="header-logo">
+    Keelan Cook
+  </a>
+  <div class="header-nav">
+    <a href="/library/" class="header-back">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+        <path d="M13 8H3M7 12l-4-4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>The Library</span>
+    </a>
+  </div>
+</header>
+
+<div class="page-wrap">
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 1 — INTRO
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-intro">
+
+    <p class="intro-eyebrow">Resources for Church &amp; Missions</p>
+    <h1 class="intro-title">The Coffee Cup <em>Assessment</em></h1>
+    <div class="intro-rule"></div>
+
+    <p class="intro-body">A first conversation with a potential church planter shouldn't feel like an interview. It should feel like coffee. This guide helps you listen well while you talk.</p>
+
+    <div class="privacy-box">
+      <svg class="privacy-icon" width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path d="M12 2L4 6v6c0 5.5 3.8 10.7 8 12 4.2-1.3 8-6.5 8-12V6l-8-4z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <p class="privacy-text"><strong>Nothing here is stored on this website.</strong> Everything stays in your browser and disappears when you close the page. Save it as a PDF before you go.</p>
+    </div>
+
+    <div class="disclaimer-box">
+      <div class="disclaimer-title">What This Is (and Isn't)</div>
+      <p>This is an informal tool. It has no score to pass or fail and produces no endorsement. Formal assessment comes later, with trained assessors and structured interviews.</p>
+      <p>This is lighter: a way to pay attention during an early, informal conversation, usually over coffee, with someone curious about church planting.</p>
+    </div>
+
+    <div class="intake-fields">
+      <div class="intake-field">
+        <label for="candidate-name">Candidate Name</label>
+        <input type="text" id="candidate-name" placeholder="Their name">
+      </div>
+      <div class="intake-field">
+        <label for="sending-church">Sending / Home Church</label>
+        <input type="text" id="sending-church" placeholder="Church name, if known">
+      </div>
+      <div class="intake-field">
+        <label for="wife-name">Wife's Name <span class="optional-tag">(optional)</span></label>
+        <input type="text" id="wife-name" placeholder="If married">
+      </div>
+      <div class="intake-field">
+        <label for="contact-info">Contact Info <span class="optional-tag">(optional)</span></label>
+        <input type="text" id="contact-info" placeholder="Phone or email">
+      </div>
+      <div class="intake-field full-width">
+        <label for="general-notes">General Notes</label>
+        <textarea id="general-notes" placeholder="Anything about the setting or the conversation that doesn't fit elsewhere..."></textarea>
+        <div class="hint">Optional. Appears at the top of your saved report.</div>
+      </div>
+    </div>
+
+    <div class="intro-how">
+      <div class="intro-how-title">How to Use This</div>
+      <p>Have the conversation naturally, then fill this out afterward based on what you heard.</p>
+      <p>Twelve prompts across three areas: character, calling, competency. Mark what you noticed, add notes at the end of each.</p>
+      <div class="scale-chips">
+        <div class="scale-chip"><div class="scale-chip-num">1</div><span class="scale-chip-label">Not much evidence yet</span></div>
+        <div class="scale-chip"><div class="scale-chip-num">2</div><span class="scale-chip-label">Some signs of this</span></div>
+        <div class="scale-chip"><div class="scale-chip-num">3</div><span class="scale-chip-label">Clearly present</span></div>
+      </div>
+    </div>
+
+    <div class="tier-grid">
+      <div class="tier-card tier-card-1">
+        <div class="tier-card-label">Part One</div>
+        <div class="tier-card-name">Character</div>
+        <p class="tier-card-desc">Who this person is when no one is watching, and how they handle their own weaknesses.</p>
+      </div>
+      <div class="tier-card tier-card-2">
+        <div class="tier-card-label">Part Two</div>
+        <div class="tier-card-name">Calling</div>
+        <p class="tier-card-desc">Whether there's a real sense of God's leading, and whether others see it too.</p>
+      </div>
+      <div class="tier-card tier-card-3">
+        <div class="tier-card-label">Part Three</div>
+        <div class="tier-card-name">Competency</div>
+        <p class="tier-card-desc">Early signs of the gifting and ability that church planting will require.</p>
+      </div>
+    </div>
+
+    <button class="btn-start" onclick="startAssessment()">
+      Begin the Conversation Guide
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+
+  </div><!-- /screen-intro -->
+
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 2 — CONVERSATION GUIDE
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-assessment">
+
+    <div class="progress-wrap">
+      <div class="progress-tiers">
+        <div class="progress-tier-seg" id="seg-0"></div>
+        <div class="progress-tier-seg" id="seg-1"></div>
+        <div class="progress-tier-seg" id="seg-2"></div>
+      </div>
+      <div class="progress-meta">
+        <span class="progress-label" id="progress-label">Part 1 of 3: Character</span>
+        <span class="progress-count" id="progress-count">Prompts 1–4 of 12</span>
+      </div>
+    </div>
+
+    <div class="tier-header" id="tier-header">
+      <div class="tier-header-ghost" id="tier-ghost">01</div>
+      <div class="tier-header-eyebrow" id="tier-eyebrow">PART ONE OF THREE</div>
+      <div class="tier-header-name" id="tier-name">Character</div>
+      <p class="tier-header-desc" id="tier-desc">Listen for who this person actually is, not just what they say about themselves. Character shows up in how someone talks about failure, conflict, and the ordinary parts of life nobody's watching.</p>
+    </div>
+
+    <div id="questions-container"></div>
+
+    <div class="notes-block">
+      <div class="notes-label" id="notes-label">Notes on Character</div>
+      <textarea class="notes-textarea" id="notes-input" placeholder="Anything you want to remember from this part of the conversation..."></textarea>
+    </div>
+
+    <p class="validation-msg" id="validation-msg">Take a moment to mark all four prompts before continuing.</p>
+
+    <div class="tier-nav">
+      <button class="btn-back" id="btn-back" onclick="prevTier()">← Back</button>
+      <span></span>
+      <button class="btn-next" id="btn-next" onclick="nextTier()">
+        Next Part
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+          <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+
+  </div><!-- /screen-assessment -->
+
+
+  <!-- ═══════════════════════════════════════════════════
+       SCREEN 3 — RESULTS
+  ════════════════════════════════════════════════════ -->
+  <div id="screen-results">
+
+    <div class="results-hero">
+      <div class="results-hero-ghost">C</div>
+      <div class="results-eyebrow">A Summary of Your Conversation</div>
+      <h2 class="results-title" id="results-title">Where to Go From Here</h2>
+      <p class="results-summary">This isn't a verdict. It's a snapshot of one conversation, meant to help you think about what to explore next, whether that's another coffee, an introduction to your pastor, or simply more time.</p>
+      <div class="report-meta" id="report-meta"></div>
+    </div>
+
+    <div class="tier-results-grid" id="tier-results-grid"></div>
+
+    <div class="interpretation-section" id="interpretation-section"></div>
+
+    <div class="notes-recap" id="general-notes-recap" style="display:none;">
+      <div class="notes-recap-title">General Notes</div>
+      <div id="general-notes-recap-body"></div>
+    </div>
+
+    <div class="notes-recap" id="notes-recap-container">
+      <div class="notes-recap-title">Notes by Section</div>
+      <div id="notes-recap-body"></div>
+    </div>
+
+    <div class="results-actions">
+      <button class="btn-print" onclick="window.print()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
+          <path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6v-8z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Download PDF Report
+      </button>
+      <button class="btn-retake" onclick="retake()">↺ Start Over</button>
+    </div>
+
+    <div class="results-footer">
+      <span>© Keelan Cook · Free to share with attribution</span>
+      <a href="https://keelancook.com">keelancook.com</a>
+    </div>
+
+  </div><!-- /screen-results -->
+
+</div><!-- /page-wrap -->
+
+
+<script>
+const TIERS = [
+  {
+    num: '01',
+    label: 'Character',
+    of: 'Part One of Three',
+    bgClass: '',
+    desc: 'Listen for who this person actually is, not just what they say about themselves. Character shows up in how someone talks about failure, conflict, and the ordinary parts of life nobody\'s watching.',
+    questions: [
+      { text: 'When they talk about a past failure or hard season, do they own their part in it, or does the story always seem to be about what others did to them?',
+        ask: '"Tell me about a time in ministry or leadership that didn\'t go the way you hoped. What was your part in it?"' },
+      { text: 'Do they seem to have a settled, honest sense of their own strengths and weaknesses, or is there a gap between how they see themselves and how you\'re experiencing them?',
+        ask: '"What would you say is your biggest weakness right now, and how are you working with it?"' },
+      { text: 'Is there evidence of consistent spiritual disciplines in their life, things like prayer, Scripture, and community, not as a checklist but as an actual rhythm?',
+        ask: '"What do your days usually look like when it comes to prayer and time in the Word?"' },
+      { text: 'Do they seem to be at peace, or is there an undercurrent of striving, exhaustion, or something being proven?',
+        ask: '"How are you doing, really, this season? What does life actually feel like for you right now?"' },
+    ],
+    interp: {
+      low: 'There wasn\'t much evidence of settled character in this conversation. That\'s not necessarily disqualifying this early, but it\'s worth another unhurried conversation before encouraging next steps.',
+      mid: 'You saw some real signs of character here, alongside some things worth watching. Normal for an early conversation. Keep paying attention over time rather than time.',
+      high: 'Character came through clearly in this conversation. That\'s a meaningful sign, though it\'s still one conversation. Formal assessment, if this moves forward, will look at this in far more depth.',
+    },
+    nextSteps: {
+      low: [
+        'Spend more time with him in ordinary settings, a meal, a project, a hard conversation, rather than a single planned coffee.',
+        'Ask him directly how he handles conflict and correction, and watch how he responds to being asked.',
+        'Encourage him to find a mentor or counselor if there are signs of unprocessed pain or unhealthy patterns.',
+        'Don\'t rush toward next steps yet. Character needs time to reveal itself, not a single conversation.',
+      ],
+      mid: [
+        'Invite him into a season of being known, a small group, a mentoring relationship, something with real accountability.',
+        'Ask people who already know him well what they\'ve observed about his character over time.',
+        'Give him something small to lead or steward and watch how he handles it.',
+        'Revisit this conversation in three to six months rather than treating today as final.',
+      ],
+      high: [
+        'Affirm what you saw directly and specifically. Tell him what stood out to you.',
+        'Introduce him to others who can also observe and speak into his character over time.',
+        'Begin praying with him about next steps, without rushing toward formal process.',
+        'Keep watching. Strong character in one conversation is a good sign, not a conclusion.',
+      ],
+    },
+  },
+  {
+    num: '02',
+    label: 'Calling',
+    of: 'Part Two of Three',
+    bgClass: 'teal-bg',
+    desc: 'Calling is more than a feeling. Listen for whether there\'s a real sense of God\'s leading behind this, and whether anyone besides the person themselves has noticed it.',
+    questions: [
+      { text: 'Can they clearly describe how this sense of calling has formed, whether through a specific moment, a passage of Scripture, or a conviction that has steadily grown and been tested over time? A gradual, well-examined calling counts just as much as a sudden one.',
+        ask: '"How has your sense of calling to this taken shape? Was it a specific moment, or has it grown over time? Either way, walk me through it."' },
+      { text: 'Does their motivation sound like it\'s rooted in a love for people who don\'t yet know Jesus, or does it sound more like ambition, escape, or dissatisfaction with their current situation?',
+        ask: '"What is it about church planting specifically that excites you? What do you hope happens because of it?"' },
+      { text: 'Has anyone else, a pastor, a mentor, people who know them well, ever independently said something like "you should plant a church" before this conversation?',
+        ask: '"Who else has spoken into this? Has anyone said something like this to you before you brought it up yourself?"' },
+      { text: 'If they\'re married, do they describe their spouse as being on the same page, or does the language feel one-sided?',
+        ask: '"How does your wife feel about this? What has she said to you about it?"' },
+    ],
+    interp: {
+      low: 'The sense of calling in this conversation felt more like an idea than a tested conviction. That doesn\'t mean it isn\'t real, only that it hasn\'t been examined much yet. Worth exploring further before this goes anywhere near formal steps.',
+      mid: 'There\'s something real here, whether it came as a clear moment or a conviction that\'s grown over time. It may still be forming or still need outside voices to test it. Good next step: connect them with a pastor or mentor who can help them examine it further.',
+      high: 'This conversation showed real markers of a well-examined, externally-affirmed calling, however it originally took shape. Worth encouraging them to take a next concrete step, like talking with a pastor about formal exploration.',
+    },
+    nextSteps: {
+      low: [
+        'Ask him to spend some real time putting his sense of calling into writing: what he senses, why, and what has confirmed it so far.',
+        'Encourage him not to rush this. A calling that\'s real will hold up to time and testing.',
+        'Introduce him to a pastor or mentor who can help him examine this honestly, without pressure either direction.',
+        'Revisit this conversation again in a few months rather than treating today as a green light.',
+      ],
+      mid: [
+        'Encourage him to seek out two or three mature believers who know him well and ask them directly what they observe in him.',
+        'If he\'s married, make sure his wife has a real voice in this conversation, not just secondhand through him.',
+        'Point him toward a pastor who can walk with him through what testing this calling might look like.',
+        'Keep the conversation open. This is a good moment to keep exploring, not to decide.',
+      ],
+      high: [
+        'Affirm what you\'re seeing and tell him specifically what stood out.',
+        'Connect him with your pastor or a church planting network to talk about what formal next steps could look like.',
+        'If he\'s married, make sure his wife is part of any next conversation, not just informed of it after the fact.',
+        'Keep praying with him. A strong calling still needs to be tested formally before it\'s acted on.',
+      ],
+    },
+  },
+  {
+    num: '03',
+    label: 'Competency',
+    of: 'Part Three of Three',
+    bgClass: 'deep-bg',
+    desc: 'This is the earliest possible read on gifting, not a final judgment. Listen for whether the raw materials for leadership, teaching, and building relationships seem to be present.',
+    questions: [
+      { text: 'In this conversation, could they explain the gospel clearly and simply, in a way an unchurched person could actually follow?',
+        ask: '"If you had two minutes with someone who had never heard about Jesus, what would you say to them?"' },
+      { text: 'Do they seem to build easy rapport with people, including you, or does the conversation feel effortful in a way that concerns you?',
+        ask: 'No script needed here. Just notice: does this conversation feel natural, or is it work to keep going?' },
+      { text: 'Have they led anything before, a ministry, a team, a group, even informally, and can they talk concretely about what that was like?',
+        ask: '"Tell me about a time you led a team or a group, formally or informally. What did you learn from it?"' },
+      { text: 'When they talk about their vision for a church plant, is there any real specificity, a community, a need, a strategy, or does it stay entirely abstract?',
+        ask: '"If you could plant anywhere, where would it be, and why there? What would it actually look like?"' },
+    ],
+    interp: {
+      low: 'Competency is the area most churches expect to develop over time, so a lower reading here isn\'t alarming this early. Still, it\'s worth naming honestly as something to watch.',
+      mid: 'You saw some real capability here. That\'s a good early sign. Formal training and assessment, if this moves forward, will develop this further.',
+      high: 'Real strengths came through in this conversation. That\'s worth naming to them directly. Encouragement here matters as much as honest feedback elsewhere.',
+    },
+    nextSteps: {
+      low: [
+        'Give him a small, real opportunity to lead or teach, and see how he actually does with it.',
+        'Ask him to explain the gospel to you as though you\'d never heard it. Give him honest feedback afterward.',
+        'Encourage him to get more reps: teaching a class, leading a small group, serving in visible ministry.',
+        'Don\'t treat this as a final read. Competency is the most trainable of the three areas.',
+      ],
+      mid: [
+        'Point him toward specific opportunities to grow: a preaching class, a leadership cohort, a mentor who can sharpen him.',
+        'Ask him to get more specific about his vision. Vague vision often just needs more time and study, not more talent.',
+        'Give him increasing levels of responsibility and see how he handles it over months, not one conversation.',
+        'Connect him with people who\'ve done this before and can speak concretely into what he still needs to develop.',
+      ],
+      high: [
+        'Tell him plainly what strengths you saw. Specific encouragement matters here.',
+        'Start connecting him with people and resources for formal training, church planting assessment, or a residency.',
+        'Ask him to lead something real and slightly bigger than what he\'s done before, and debrief it with him afterward.',
+        'Keep an eye on whether his character and calling are keeping pace with his obvious giftedness.',
+      ],
+    },
+  },
+];
+
+const SCALE_LABELS = ['Not much evidence yet', 'Some signs of this', 'Clearly present'];
+
+let currentTier = 0;
+let answers = Array(3).fill(null).map(() => Array(4).fill(0));
+let notes = Array(3).fill('');
+
+function startAssessment() {
+  document.getElementById('screen-intro').style.display = 'none';
+  document.getElementById('screen-assessment').style.display = 'block';
+  currentTier = 0;
+  renderTier();
+  window.scrollTo(0, 0);
+}
+
+function renderTier() {
+  const tier = TIERS[currentTier];
+
+  const hdr = document.getElementById('tier-header');
+  hdr.className = 'tier-header' + (tier.bgClass ? ' ' + tier.bgClass : '');
+  document.getElementById('tier-ghost').textContent = tier.num;
+  document.getElementById('tier-eyebrow').textContent = tier.of.toUpperCase();
+  document.getElementById('tier-name').textContent = tier.label;
+  document.getElementById('tier-desc').textContent = tier.desc;
+  document.getElementById('notes-label').textContent = 'Notes on ' + tier.label;
+
+  for (let i = 0; i < 3; i++) {
+    const seg = document.getElementById('seg-' + i);
+    seg.className = 'progress-tier-seg' +
+      (i < currentTier ? ' complete' : i === currentTier ? ' active' : '');
+  }
+  document.getElementById('progress-label').textContent =
+    `Part ${currentTier + 1} of 3: ${tier.label}`;
+  document.getElementById('progress-count').textContent =
+    `Prompts ${currentTier * 4 + 1}–${currentTier * 4 + 4} of 12`;
+
+  document.getElementById('btn-back').style.visibility =
+    currentTier === 0 ? 'hidden' : 'visible';
+
+  const btnNext = document.getElementById('btn-next');
+  btnNext.innerHTML = currentTier === 2
+    ? 'See Summary <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+    : 'Next Part <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  const container = document.getElementById('questions-container');
+  container.innerHTML = '';
+  tier.questions.forEach((q, qi) => {
+    const saved = answers[currentTier][qi];
+    const block = document.createElement('div');
+    block.className = 'question-block' + (saved ? ' answered' : '');
+    block.id = 'qblock-' + qi;
+
+    let scaleHTML = '<div class="scale-row">';
+    for (let v = 1; v <= 3; v++) {
+      const checked = saved === v ? 'checked' : '';
+      scaleHTML += `
+        <div class="scale-option">
+          <input type="radio" name="q${currentTier}_${qi}" id="q${currentTier}_${qi}_${v}"
+            value="${v}" ${checked} onchange="recordAnswer(${qi}, ${v})">
+          <label for="q${currentTier}_${qi}_${v}">
+            <span class="scale-dot"></span>
+            <span class="scale-text">${SCALE_LABELS[v-1]}</span>
+          </label>
+        </div>`;
+    }
+    scaleHTML += '</div>';
+
+    block.innerHTML = `
+      <div class="question-num">${currentTier * 4 + qi + 1}</div>
+      <p class="question-text">${q.text}</p>
+      <div class="ask-prompt">
+        <span class="ask-label">Try asking</span>
+        <span class="ask-text">${q.ask}</span>
+      </div>
+      ${scaleHTML}`;
+    container.appendChild(block);
+  });
+
+  document.getElementById('notes-input').value = notes[currentTier];
+  document.getElementById('validation-msg').classList.remove('show');
+}
+
+function recordAnswer(qi, value) {
+  answers[currentTier][qi] = value;
+  const block = document.getElementById('qblock-' + qi);
+  if (block) block.classList.add('answered');
+}
+
+function prevTier() {
+  notes[currentTier] = document.getElementById('notes-input').value;
+  if (currentTier > 0) {
+    currentTier--;
+    renderTier();
+    window.scrollTo(0, 0);
+  }
+}
+
+function nextTier() {
+  notes[currentTier] = document.getElementById('notes-input').value;
+
+  const unanswered = answers[currentTier].filter(a => a === 0).length;
+  if (unanswered > 0) {
+    document.getElementById('validation-msg').classList.add('show');
+    const firstEmpty = answers[currentTier].findIndex(a => a === 0);
+    const el = document.getElementById('qblock-' + firstEmpty);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    return;
+  }
+
+  if (currentTier < 2) {
+    currentTier++;
+    renderTier();
+    window.scrollTo(0, 0);
+  } else {
+    showResults();
+  }
+}
+
+function getStatus(avg) {
+  if (avg <= 1.6) return { label: 'Early Signs',  cls: 'status-low',  barCls: '', color: '#68939E' };
+  if (avg <= 2.3) return { label: 'Developing',   cls: 'status-mid',  barCls: '', color: '#00587E' };
+  return               { label: 'Clearly Present', cls: 'status-high', barCls: '', color: '#232B5B' };
+}
+
+function showResults() {
+  document.getElementById('screen-assessment').style.display = 'none';
+  document.getElementById('screen-results').style.display = 'block';
+
+  const candidateName = document.getElementById('candidate-name').value.trim();
+  const sendingChurch = document.getElementById('sending-church').value.trim();
+  const wifeName = document.getElementById('wife-name').value.trim();
+  const contactInfo = document.getElementById('contact-info').value.trim();
+  const generalNotes = document.getElementById('general-notes').value.trim();
+
+  document.getElementById('results-title').textContent = candidateName
+    ? `Conversation Summary: ${candidateName}`
+    : 'Where to Go From Here';
+
+  const metaWrap = document.getElementById('report-meta');
+  let metaHTML = '';
+  if (candidateName) {
+    metaHTML += `<div class="report-meta-item"><div class="report-meta-label">Candidate</div><div class="report-meta-value">${candidateName}</div></div>`;
+  }
+  if (sendingChurch) {
+    metaHTML += `<div class="report-meta-item"><div class="report-meta-label">Sending / Home Church</div><div class="report-meta-value">${sendingChurch}</div></div>`;
+  }
+  if (wifeName) {
+    metaHTML += `<div class="report-meta-item"><div class="report-meta-label">Wife's Name</div><div class="report-meta-value">${wifeName}</div></div>`;
+  }
+  if (contactInfo) {
+    metaHTML += `<div class="report-meta-item"><div class="report-meta-label">Contact</div><div class="report-meta-value">${contactInfo}</div></div>`;
+  }
+  metaHTML += `<div class="report-meta-item"><div class="report-meta-label">Date</div><div class="report-meta-value">${new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div></div>`;
+  metaWrap.innerHTML = metaHTML;
+
+  const genNotesWrap = document.getElementById('general-notes-recap');
+  if (generalNotes) {
+    document.getElementById('general-notes-recap-body').innerHTML = `<p class="notes-recap-body">${generalNotes}</p>`;
+    genNotesWrap.style.display = 'block';
+  } else {
+    genNotesWrap.style.display = 'none';
+  }
+
+  const tierAverages = answers.map(t => t.reduce((s, a) => s + a, 0) / t.length);
+
+  const grid = document.getElementById('tier-results-grid');
+  grid.innerHTML = '';
+  TIERS.forEach((tier, i) => {
+    const avg = tierAverages[i];
+    const pct = ((avg - 1) / 2) * 100;
+    const status = getStatus(avg);
+    grid.innerHTML += `
+      <div class="tier-result-card trc-${i+1}">
+        <div class="trc-label">Part ${tier.num}</div>
+        <div class="trc-name">${tier.label}</div>
+        <div class="trc-bar-wrap">
+          <div class="trc-bar-fill" style="width:${pct}%;background:${status.color}"></div>
+        </div>
+        <div class="trc-status ${status.cls}">${status.label}</div>
+      </div>`;
+  });
+
+  const interp = document.getElementById('interpretation-section');
+  interp.innerHTML = `
+    <h3 class="interp-heading">A Few Thoughts</h3>
+    <div class="interp-rule"></div>`;
+
+  const weakestIdx = tierAverages.indexOf(Math.min(...tierAverages));
+
+  TIERS.forEach((tier, i) => {
+    const avg = tierAverages[i];
+    const status = getStatus(avg);
+    const key = status.label === 'Early Signs' ? 'low' : status.label === 'Developing' ? 'mid' : 'high';
+    const interpText = tier.interp[key];
+    const isWeakest = (i === weakestIdx);
+
+    const focusBadge = isWeakest
+      ? `<span style="background:var(--teal);color:white;font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:2px 8px;border-radius:20px;margin-left:8px;">Worth a longer look</span>`
+      : '';
+
+    const stepsHTML = (tier.nextSteps && tier.nextSteps[key])
+      ? `<div class="next-steps-title">Suggested Next Steps</div>
+         <ul class="next-steps-list">${tier.nextSteps[key].map(s => `<li>${s}</li>`).join('')}</ul>`
+      : '';
+
+    interp.innerHTML += `
+      <div class="interp-block">
+        <div class="interp-block-title">
+          Part ${tier.num}: ${tier.label}
+          <span class="trc-status ${status.cls}" style="margin-left:6px;">${status.label}</span>
+          ${focusBadge}
+        </div>
+        <p>${interpText}</p>
+        ${stepsHTML}
+      </div>`;
+  });
+
+  // Notes recap
+  const notesBody = document.getElementById('notes-recap-body');
+  const hasNotes = notes.some(n => n && n.trim().length > 0);
+  if (hasNotes) {
+    let html = '';
+    TIERS.forEach((tier, i) => {
+      if (notes[i] && notes[i].trim().length > 0) {
+        html += `<p class="notes-recap-body" style="margin-bottom:14px;"><strong style="font-family:var(--sans);font-size:0.72rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--navy);display:block;margin-bottom:4px;">${tier.label}</strong>${notes[i]}</p>`;
+      }
+    });
+    notesBody.innerHTML = html || '<p class="notes-recap-empty">No notes were added.</p>';
+  } else {
+    notesBody.innerHTML = '<p class="notes-recap-empty">No notes were added during this conversation.</p>';
+  }
+
+  window.scrollTo(0, 0);
+
+  setTimeout(() => {
+    document.querySelectorAll('.trc-bar-fill').forEach((bar, i) => {
+      const avg = tierAverages[i];
+      const pct = ((avg - 1) / 2) * 100;
+      bar.style.width = pct + '%';
+    });
+  }, 100);
+}
+
+function retake() {
+  answers = Array(3).fill(null).map(() => Array(4).fill(0));
+  notes = Array(3).fill('');
+  currentTier = 0;
+  document.getElementById('screen-results').style.display = 'none';
+  document.getElementById('screen-intro').style.display = 'block';
+  document.getElementById('candidate-name').value = '';
+  document.getElementById('sending-church').value = '';
+  document.getElementById('wife-name').value = '';
+  document.getElementById('contact-info').value = '';
+  document.getElementById('general-notes').value = '';
+  window.scrollTo(0, 0);
+}
+</script>
+
+</body>
+</html>
