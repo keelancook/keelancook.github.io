@@ -1,16 +1,1091 @@
 ---
-layout: default
-image: '/images/keelan-bio.jpeg'
+layout: null
+title: The Library
+canonical: https://keelancook.com/library/
+permalink: /library/
+meta-description: Free tools, guides, and assessments for pastors and church leaders working on diaspora engagement, unreached peoples, and missions mobilization.
+meta-og:title: The Library – Keelan Cook
+meta-og:description: Free tools, guides, and assessments for pastors and church leaders working on diaspora engagement, unreached peoples, and missions mobilization.
+meta-twitter:card: summary_large_image
+meta-twitter:title: The Library – Keelan Cook
+meta-twitter:description: Free tools, guides, and assessments for pastors and church leaders working on diaspora engagement, unreached peoples, and missions mobilization.
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Library | Keelan Cook</title>
+<meta name="description" content="Free tools, guides, and assessments for pastors and church leaders working on diaspora engagement, unreached peoples, and missions mobilization.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-{% include section-hero.html %}
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-{% include section-featured-posts.html %}
+:root {
+  --navy:    #232B5B;
+  --teal:    #00587E;
+  --accent:  #68939E;
+  --light:   #A8C5CE;
+  --offwht:  #F6F5F3;
+  --warmwht: #FAFAF8;
+  --rule:    #E2E0DC;
+  --dgray:   #2E2E2E;
+  --mgray:   #666666;
+  --lgray:   #999999;
+  --white:   #ffffff;
+  --serif: 'Lora', Georgia, serif;
+  --sans:  'Open Sans', system-ui, sans-serif;
+  --max:   1080px;
+  --r:     5px;
+}
 
-{% include section-posts.html %}
+html { font-size: 16px; scroll-behavior: smooth; }
+body  { font-family: var(--sans); background: var(--warmwht); color: var(--dgray); line-height: 1.6; }
 
-{% include section-recommended.html %}
+/* ── Site header ──────────────────────────────────────────────── */
+.site-header {
+  background: var(--navy);
+  padding: 0 40px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
 
-{% include section-about.html %}
+.site-header-brand {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  color: var(--white);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 
-{% include section-authors.html %}
+.header-logo {
+  height: 36px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
+
+.site-nav {
+  display: flex;
+  gap: 28px;
+  list-style: none;
+}
+
+.site-nav a {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.65);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  transition: color 0.15s;
+  white-space: nowrap;
+}
+
+.site-nav a:hover { color: var(--white); }
+.site-nav a.active {
+  color: var(--white);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 2px;
+}
+
+/* Mobile hamburger */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.nav-toggle span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: rgba(255,255,255,0.7);
+  border-radius: 2px;
+  transition: all 0.2s;
+}
+
+.mobile-nav {
+  display: none;
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+  background: var(--navy);
+  border-top: 1px solid rgba(255,255,255,0.08);
+  padding: 16px 24px 20px;
+  z-index: 99;
+  flex-direction: column;
+  gap: 0;
+}
+
+.mobile-nav.open { display: flex; }
+
+.mobile-nav a {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.7);
+  text-decoration: none;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  transition: color 0.15s;
+}
+
+.mobile-nav a:last-child { border-bottom: none; }
+.mobile-nav a:hover,
+.mobile-nav a.active { color: var(--white); }
+
+/* ── Hero ─────────────────────────────────────────────────────── */
+.hero {
+  background: var(--navy);
+  padding: 64px 40px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-ghost {
+  position: absolute;
+  font-family: var(--serif);
+  font-size: 460px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.03);
+  right: -40px;
+  top: -80px;
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.hero-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-eyebrow {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+
+.hero-title {
+  font-family: var(--serif);
+  font-size: clamp(2.2rem, 6vw, 3.6rem);
+  font-weight: 700;
+  color: var(--white);
+  line-height: 1.05;
+  margin-bottom: 20px;
+}
+
+.hero-body {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+  color: rgba(255,255,255,0.68);
+  line-height: 1.75;
+  max-width: 560px;
+  margin-bottom: 36px;
+}
+
+.hero-stats {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  padding-bottom: 44px;
+  flex-wrap: wrap;
+  row-gap: 16px;
+}
+
+.hero-stat {
+  padding-right: 28px;
+  margin-right: 28px;
+  border-right: 1px solid rgba(255,255,255,0.12);
+}
+
+.hero-stat:last-child {
+  border-right: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+.hero-stat-num {
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.75);
+  display: block;
+  line-height: 1;
+  margin-bottom: 3px;
+}
+
+.hero-stat-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.38);
+}
+
+/* Book spine */
+.book-spine {
+  position: relative;
+  height: 24px;
+  background: var(--navy);
+}
+
+.book-spine::before,
+.book-spine::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  height: 1px;
+  width: 50%;
+  background: linear-gradient(to right, transparent, var(--accent));
+}
+
+.book-spine::before {
+  right: 50%;
+  background: linear-gradient(to left, transparent, var(--accent));
+}
+
+.book-spine::after { left: 50%; }
+
+.spine-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  position: absolute;
+  bottom: -3px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+/* ── Main ─────────────────────────────────────────────────────── */
+.main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 52px 40px 100px;
+}
+
+/* ── Filter bar ───────────────────────────────────────────────── */
+.filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 48px;
+  flex-wrap: wrap;
+  row-gap: 8px;
+}
+
+.filter-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--lgray);
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.filter-btn {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid var(--rule);
+  background: none;
+  color: var(--mgray);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+
+.filter-btn:hover  { border-color: var(--accent); color: var(--navy); }
+.filter-btn.active { background: var(--navy); border-color: var(--navy); color: var(--white); }
+
+/* ── Section headings ─────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 20px;
+  margin-top: 52px;
+}
+
+.section-head:first-of-type { margin-top: 0; }
+
+.section-title {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--navy);
+  white-space: nowrap;
+}
+
+.section-rule {
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+  min-width: 20px;
+}
+
+.section-count {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--lgray);
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+/* ── Resource grid ────────────────────────────────────────────── */
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+/* ── Resource card ────────────────────────────────────────────── */
+.resource-card {
+  background: var(--white);
+  border-radius: var(--r);
+  border: 1px solid var(--rule);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.18s, transform 0.18s;
+}
+
+a.resource-card:hover {
+  box-shadow: 0 4px 20px rgba(35,43,91,0.10);
+  transform: translateY(-2px);
+}
+
+a.resource-card:hover .card-arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.card-band {
+  height: 4px;
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.band-1 { background: var(--accent); }
+.band-2 { background: var(--teal); }
+.band-3 { background: #00476a; }
+.band-4 { background: var(--navy); }
+
+.card-body {
+  padding: 20px 20px 14px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.card-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+
+.card-type {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.card-format {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--lgray);
+  background: var(--offwht);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.card-title {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+
+.card-desc {
+  font-size: 0.83rem;
+  color: var(--mgray);
+  line-height: 1.6;
+  flex: 1;
+  margin-bottom: 16px;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule);
+}
+
+.card-cta {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--teal);
+}
+
+.card-arrow {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--offwht);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.45;
+  transform: translateX(-3px);
+  transition: all 0.18s;
+  flex-shrink: 0;
+}
+
+/* Featured card */
+.resource-card.featured {
+  grid-column: 1 / -1;
+  flex-direction: row;
+}
+
+.resource-card.featured .card-band {
+  width: 5px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.resource-card.featured .card-body { padding: 24px 26px; }
+.resource-card.featured .card-title { font-size: 1.2rem; }
+
+.new-badge {
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--white);
+  background: var(--teal);
+  padding: 2px 8px;
+  border-radius: 3px;
+  flex-shrink: 0;
+  align-self: flex-start;
+  margin-top: 1px;
+}
+
+/* Coming soon — ribbon overlay */
+.resource-card.soon {
+  opacity: 0.62;
+  pointer-events: none;
+}
+
+.resource-card.soon::after {
+  content: 'Coming Soon';
+  position: absolute;
+  top: 22px;
+  right: -28px;
+  width: 120px;
+  padding: 5px 0;
+  background: var(--navy);
+  color: rgba(255,255,255,0.9);
+  font-family: var(--sans);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-align: center;
+  transform: rotate(45deg);
+  transform-origin: center;
+  box-shadow: 0 2px 6px rgba(35,43,91,0.25);
+  pointer-events: none;
+}
+
+/* Hide the old inline badge since ribbon replaces it */
+.soon-badge { display: none; }
+
+/* ── Email banner ─────────────────────────────────────────────── */
+.email-banner {
+  background: var(--navy);
+  border-radius: var(--r);
+  padding: 36px 40px;
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 64px;
+  flex-wrap: wrap;
+}
+
+.email-banner-text { flex: 1; min-width: 220px; }
+
+.email-banner-eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.email-banner-title {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 8px;
+  line-height: 1.2;
+}
+
+.email-banner-body {
+  font-size: 0.84rem;
+  color: rgba(255,255,255,0.58);
+  line-height: 1.65;
+}
+
+/* SendFox embed wrapper — real widget can't be restyled from our CSS,
+   so it sits inside a plain white card instead of trying to force it
+   to match the navy banner directly. */
+.sendfox-wrap {
+  flex: 1;
+  min-width: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sendfox-card {
+  background: var(--white);
+  border-radius: var(--r);
+  padding: 20px 22px 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+}
+
+.sendfox-widget-container {
+  min-height: 52px;
+}
+
+.email-note {
+  font-size: 0.7rem;
+  color: rgba(255,255,255,0.3);
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+/* ── Footer ───────────────────────────────────────────────────── */
+.site-footer {
+  background: var(--navy);
+  padding: 28px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 0;
+}
+
+.footer-brand {
+  font-family: var(--serif);
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.45);
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.38);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.footer-links a:hover { color: var(--accent); }
+
+
+/* ── MOBILE BREAKPOINTS ───────────────────────────────────────── */
+
+/* Tablet */
+@media (max-width: 768px) {
+  .site-header { padding: 0 20px; }
+  .site-nav { display: none; }
+  .nav-toggle { display: flex; }
+
+  .hero { padding: 48px 20px 0; }
+  .hero-ghost { font-size: 300px; right: -20px; top: -40px; }
+
+  .main { padding: 40px 20px 80px; }
+
+  .resource-card.featured {
+    flex-direction: column;
+  }
+  .resource-card.featured .card-band {
+    width: 100%;
+    height: 4px;
+  }
+
+  .email-banner { padding: 28px 24px; gap: 24px; }
+
+  .site-footer { padding: 24px 20px; }
+}
+
+/* Phone */
+@media (max-width: 480px) {
+  .hero-stats { gap: 0; }
+  .hero-stat {
+    padding-right: 20px;
+    margin-right: 20px;
+  }
+
+  .filter-bar { gap: 6px; }
+  .filter-btn { font-size: 0.7rem; padding: 5px 11px; }
+
+  .resource-grid { grid-template-columns: 1fr; }
+
+  .section-title { font-size: 1.1rem; }
+
+  .email-banner { padding: 24px 20px; }
+
+  .footer-links { gap: 14px; }
+  .footer-brand { font-size: 0.82rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── Header ─────────────────────────────────────────────────── -->
+<header class="site-header" style="position:relative;">
+  <a href="https://keelancook.com" class="site-header-brand"><img src="/images/logo.png" alt="Keelan Cook" class="header-logo"> Keelan Cook</a>
+  <nav>
+    <ul class="site-nav">
+      <li><a href="https://keelancook.com">Home</a></li>
+      <li><a href="https://keelancook.com/about">About</a></li>
+      <li><a href="https://notes.keelancook.com">Notes</a></li>
+      <li><a href="https://keelancook.com/library" class="active">Library</a></li>
+      <li><a href="https://keelancook.com/contact">Contact</a></li>
+    </ul>
+  </nav>
+  <button class="nav-toggle" onclick="toggleNav()" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="mobile-nav" id="mobile-nav">
+    <a href="https://keelancook.com">Home</a>
+    <a href="https://keelancook.com/about">About</a>
+    <a href="https://notes.keelancook.com">Notes</a>
+    <a href="https://keelancook.com/library" class="active">Library</a>
+    <a href="https://keelancook.com/contact">Contact</a>
+  </div>
+</header>
+
+<!-- ── Hero ───────────────────────────────────────────────────── -->
+<div class="hero">
+  <div class="hero-ghost">C</div>
+  <div class="hero-inner">
+    <p class="hero-eyebrow">Resources for Church &amp; Missions</p>
+    <h1 class="hero-title">The Library</h1>
+    <p class="hero-body">A growing collection of tools, guides, and assessments for pastors and church leaders working on diaspora engagement, unreached peoples, and missions mobilization. If something here is useful to your church, pass it along.</p>
+
+  </div>
+</div>
+
+<div class="book-spine"><div class="spine-dot"></div></div>
+
+<!-- ── Main ───────────────────────────────────────────────────── -->
+<main class="main">
+
+  <!-- Filter -->
+  <div class="filter-bar">
+    <span class="filter-label">Filter:</span>
+    <button class="filter-btn active" onclick="filterCards(this, 'all')">All</button>
+    <button class="filter-btn" onclick="filterCards(this, 'diaspora')">Diaspora Engagement</button>
+    <button class="filter-btn" onclick="filterCards(this, 'planting')">Church Planting</button>
+    <button class="filter-btn" onclick="filterCards(this, 'missions')">Global Missions</button>
+    <button class="filter-btn" onclick="filterCards(this, 'church')">Church Health</button>
+    <button class="filter-btn" onclick="filterCards(this, 'tool')">Tools</button>
+    <button class="filter-btn" onclick="filterCards(this, 'guide')">Guides</button>
+  </div>
+
+
+  <!-- ── Diaspora Engagement ──────────────────────────────────── -->
+  <div class="section-head">
+    <h2 class="section-title">Diaspora Engagement</h2>
+    <div class="section-rule"></div>
+    <span class="section-count">3 resources</span>
+  </div>
+
+  <div class="resource-grid">
+
+    <a href="/library/diaspora-assessment/" class="resource-card featured" data-cats="diaspora tool">
+      <div class="card-band band-1"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Diaspora Engagement</span>
+            <span class="card-format">Interactive Tool</span>
+          </div>
+          <span class="new-badge">New</span>
+        </div>
+        <div class="card-title">Is Your Church Ready for the Peoples Next Door? A Diaspora Engagement Assessment</div>
+        <p class="card-desc">Twenty questions across four tiers — Awareness, Relationship, Gospel, Partnership — that help your leadership honestly evaluate where your church stands in engaging unreached diaspora peoples nearby. Scored results with per-tier interpretation and next steps.</p>
+        <div class="card-footer">
+          <span class="card-cta">Take the Assessment</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </a>
+
+    <div class="resource-card soon" data-cats="diaspora guide">
+      <div class="card-band band-1"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Diaspora Engagement</span>
+            <span class="card-format">PDF Guide</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">The Peoples Next Door Field Guide</div>
+        <p class="card-desc">A step-by-step guide for local churches to identify and engage unreached diaspora peoples in their zip code. Community mapping, demographic research, and first steps for ordinary members.</p>
+        <div class="card-footer">
+          <span class="card-cta">Download Free</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="resource-card soon" data-cats="diaspora guide">
+      <div class="card-band band-1"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Diaspora Engagement</span>
+            <span class="card-format">PDF Guide</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">Neighborhood Ethnography Starter Guide</div>
+        <p class="card-desc">A plain-language walkthrough for churches doing a demographic study of their surrounding community. Designed to be completed by a small team of ordinary members over a few weekends.</p>
+        <div class="card-footer">
+          <span class="card-cta">Download Free</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- ── Church Planting ──────────────────────────────────────── -->
+  <div class="section-head">
+    <h2 class="section-title">Church Planting</h2>
+    <div class="section-rule"></div>
+    <span class="section-count">2 resources</span>
+  </div>
+
+  <div class="resource-grid">
+
+    <a href="/library/informal-assessment/" class="resource-card" data-cats="planting tool">
+      <div class="card-band band-4"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Church Planting</span>
+            <span class="card-format">Interactive Tool</span>
+          </div>
+          <span class="new-badge">New</span>
+        </div>
+        <div class="card-title">The Coffee Cup Assessment</div>
+        <p class="card-desc">A conversation guide for a pastor or church leader meeting with someone who might be called to plant a church, built for an early, unhurried coffee rather than a formal interview. Produces a private, printable summary with suggested next steps.</p>
+        <div class="card-footer">
+          <span class="card-cta">Use the Guide</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </a>
+
+    <a href="/library/planter-assessment/" class="resource-card" data-cats="planting tool">
+      <div class="card-band band-4"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Church Planting</span>
+            <span class="card-format">Interactive Tool</span>
+          </div>
+          <span class="new-badge">New</span>
+        </div>
+        <div class="card-title">Church Planting Candidate Assessment</div>
+        <p class="card-desc">A formal, structured evaluation for a trained assessor to complete after a full interview, covering character, calling, competency, and the biblical qualifications of an overseer. Produces a growth plan and endorsement summary.</p>
+        <div class="card-footer">
+          <span class="card-cta">Use the Assessment</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </a>
+
+  </div>
+
+
+  <!-- ── Global Missions ──────────────────────────────────────── -->
+  <div class="section-head">
+    <h2 class="section-title">Global Missions</h2>
+    <div class="section-rule"></div>
+    <span class="section-count">2 resources</span>
+  </div>
+
+  <div class="resource-grid">
+
+    <div class="resource-card soon" data-cats="missions guide">
+      <div class="card-band band-2"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Global Missions</span>
+            <span class="card-format">Template Kit</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">Global Missions Partnership Starter Kit</div>
+        <p class="card-desc">Downloadable templates for churches establishing an IMB field partnership: covenant language, prayer calendar, communication schedule, and a simple reporting framework.</p>
+        <div class="card-footer">
+          <span class="card-cta">Download Free</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="resource-card soon" data-cats="missions guide">
+      <div class="card-band band-2"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Global Missions</span>
+            <span class="card-format">Reading Guide</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">Missionary Biography Reading Guide with Study Questions</div>
+        <p class="card-desc">Curated discussion questions for seven essential missionary biographies, designed for seminary classrooms, small groups, or personal study. Pairs with the recommended reading list on the blog.</p>
+        <div class="card-footer">
+          <span class="card-cta">Download Free</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- ── Church Health ────────────────────────────────────────── -->
+  <div class="section-head">
+    <h2 class="section-title">Church Health &amp; Sending Culture</h2>
+    <div class="section-rule"></div>
+    <span class="section-count">2 resources</span>
+  </div>
+
+  <div class="resource-grid">
+
+    <div class="resource-card soon" data-cats="church tool">
+      <div class="card-band band-3"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Church Health</span>
+            <span class="card-format">Interactive Tool</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">Sending Culture Audit for Churches</div>
+        <p class="card-desc">Twenty-five questions that help a church evaluate its own sending culture across leadership, congregation, and structure. Designed for use in an elder or deacon meeting.</p>
+        <div class="card-footer">
+          <span class="card-cta">Take the Audit</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="resource-card soon" data-cats="church guide">
+      <div class="card-band band-3"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Church Health</span>
+            <span class="card-format">PDF Guide</span>
+          </div>
+          <span class="soon-badge">Coming Soon</span>
+        </div>
+        <div class="card-title">5 Questions to Ask Before Sending a Mission Team</div>
+        <p class="card-desc">A one-page checklist for pastors and missions committees evaluating a short-term trip proposal. Practical and designed to protect both your team and the people you're going to serve.</p>
+        <div class="card-footer">
+          <span class="card-cta">Download Free</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- ── Email banner ──────────────────────────────────────────── -->
+  <!--
+    The real SendFox widget renders itself inside .sendfox-widget-container.
+    Its own styling comes from the Design tab in your SendFox dashboard,
+    not from this page's CSS — that's why it sits inside a plain white
+    card here rather than trying to force it to match the navy banner
+    directly. Same "Library Signup" form used in the assessment gate
+    modals (data-form="m2ol0d") — reused here since it's already
+    configured with the redirect left blank and the right list.
+  -->
+  <div class="email-banner">
+    <div class="email-banner-text">
+      <div class="email-banner-eyebrow">Stay in the loop</div>
+      <div class="email-banner-title">New resources, when they're ready.</div>
+      <p class="email-banner-body">I add to the Library as I build new tools and guides. Subscribe and I'll let you know when something new is available, along with new articles on missions and church mobilization. No more than once a week.</p>
+    </div>
+    <div class="sendfox-wrap">
+      <div class="sendfox-card">
+        <div class="sendfox-widget-container">
+          <script src="https://cdn.sendfox.com/js/embed.js" data-form="m2ol0d" data-api="https://sendfox.com" async></script>
+        </div>
+      </div>
+      <p class="email-note">Your email stays with me. No spam, no sharing. Unsubscribe any time.</p>
+    </div>
+  </div>
+
+</main>
+
+<!-- ── Footer ─────────────────────────────────────────────────── -->
+<footer class="site-footer">
+  <span class="footer-brand">Keelan Cook · keelancook.com</span>
+  <ul class="footer-links">
+    <li><a href="https://keelancook.com">Home</a></li>
+    <li><a href="https://keelancook.com/about">About</a></li>
+    <li><a href="https://keelancook.com/library">Library</a></li>
+    <li><a href="https://keelancook.com/contact">Contact</a></li>
+  </ul>
+</footer>
+
+<script>
+// ── Mobile nav toggle ──────────────────────────────────────────
+function toggleNav() {
+  document.getElementById('mobile-nav').classList.toggle('open');
+}
+
+// Close mobile nav when clicking outside
+document.addEventListener('click', function(e) {
+  const nav = document.getElementById('mobile-nav');
+  const toggle = document.querySelector('.nav-toggle');
+  if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+    nav.classList.remove('open');
+  }
+});
+
+// ── Filter ─────────────────────────────────────────────────────
+function filterCards(btn, cat) {
+  // Update active button
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  // Show/hide cards
+  document.querySelectorAll('.resource-card').forEach(card => {
+    if (cat === 'all') {
+      card.style.display = '';
+    } else {
+      const cats = (card.dataset.cats || '').split(' ');
+      card.style.display = cats.includes(cat) ? '' : 'none';
+    }
+  });
+
+  // Hide empty section heads
+  document.querySelectorAll('.section-head').forEach(head => {
+    const grid = head.nextElementSibling;
+    if (!grid) return;
+    const visible = grid.querySelectorAll('.resource-card:not([style*="none"])');
+    head.style.display = visible.length === 0 ? 'none' : '';
+    grid.style.display = visible.length === 0 ? 'none' : '';
+  });
+}
+</script>
+
+</body>
+</html>
