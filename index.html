@@ -20,6 +20,7 @@ meta-twitter:description: Free tools, guides, and assessments for pastors and ch
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.sendfox.com/js/form.js" charset="utf-8"></script>
 
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -584,27 +585,62 @@ a.resource-card:hover .card-arrow {
   line-height: 1.65;
 }
 
-/* SendFox embed wrapper — real widget can't be restyled from our CSS,
-   so it sits inside a plain white card instead of trying to force it
-   to match the navy banner directly. */
+/* SendFox embed — real classic form, restyled as transparent "dark
+   glass" sitting directly on the navy banner. No white card wrapper. */
 .sendfox-wrap {
   flex: 1;
   min-width: 240px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
-
-.sendfox-card {
-  background: var(--white);
-  border-radius: var(--r);
-  padding: 20px 22px 16px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  margin-top: 24px; /* aligns form with the title line, not the eyebrow above it */
 }
 
 .sendfox-widget-container {
-  min-height: 52px;
+  min-height: 20px;
 }
+
+.sendfox-form { display: flex !important; flex-direction: column !important; gap: 10px !important; margin: 0 !important; padding: 0 !important; }
+.sendfox-form p { margin: 0 !important; padding: 0 !important; }
+.sendfox-form label { display: none !important; }
+.sendfox-form input[type="email"] {
+  width: 100% !important;
+  font-family: var(--sans) !important;
+  font-size: 0.88rem !important;
+  padding: 11px 15px !important;
+  margin: 0 !important;
+  border: 1.5px solid rgba(255,255,255,0.18) !important;
+  border-radius: var(--r) !important;
+  outline: none !important;
+  color: var(--white) !important;
+  background: rgba(255,255,255,0.08) !important;
+  transition: border-color 0.15s !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+.sendfox-form input[type="email"]:focus { border-color: var(--accent) !important; }
+.sendfox-form input[type="email"]::placeholder { color: rgba(255,255,255,0.32) !important; opacity: 1 !important; }
+.sendfox-form button {
+  width: 100% !important;
+  font-family: var(--sans) !important;
+  font-size: 0.78rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.07em !important;
+  text-transform: uppercase !important;
+  padding: 12px 20px !important;
+  margin: 0 !important;
+  background: var(--accent) !important;
+  color: var(--white) !important;
+  border: none !important;
+  border-radius: var(--r) !important;
+  cursor: pointer !important;
+  transition: background 0.15s !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+.sendfox-form button:hover { background: var(--teal) !important; }
 
 .email-note {
   font-size: 0.7rem;
@@ -670,6 +706,7 @@ a.resource-card:hover .card-arrow {
   }
 
   .email-banner { padding: 28px 24px; gap: 24px; }
+  .sendfox-wrap { margin-top: 0; }
 
   .site-footer { padding: 24px 20px; }
 }
@@ -1008,13 +1045,10 @@ a.resource-card:hover .card-arrow {
 
   <!-- ── Email banner ──────────────────────────────────────────── -->
   <!--
-    The real SendFox widget renders itself inside .sendfox-widget-container.
-    Its own styling comes from the Design tab in your SendFox dashboard,
-    not from this page's CSS — that's why it sits inside a plain white
-    card here rather than trying to force it to match the navy banner
-    directly. Same "Library Signup" form used in the assessment gate
-    modals (data-form="m2ol0d") — reused here since it's already
-    configured with the redirect left blank and the right list.
+    Real, custom-styled SendFox classic embed (form + form.js), same
+    "Library Signup" form used in the assessment gate modals
+    (action .../m2ol0d) — already configured with the redirect left
+    blank and the right list.
   -->
   <div class="email-banner">
     <div class="email-banner-text">
@@ -1023,10 +1057,13 @@ a.resource-card:hover .card-arrow {
       <p class="email-banner-body">I add to the Library as I build new tools and guides. Subscribe and I'll let you know when something new is available, along with new articles on missions and church mobilization. No more than once a week.</p>
     </div>
     <div class="sendfox-wrap">
-      <div class="sendfox-card">
-        <div class="sendfox-widget-container">
-          <script src="https://cdn.sendfox.com/js/embed.js" data-form="m2ol0d" data-api="https://sendfox.com" async></script>
-        </div>
+      <div class="sendfox-widget-container">
+        <form method="post" action="https://sendfox.com/form/1ye54o/m2ol0d" class="sendfox-form" id="library-sendfox-form" data-async="true" data-recaptcha="true">
+          <p><label for="library-sendfox-email">Email: </label><input type="email" id="library-sendfox-email" placeholder="Your email address" name="email" required /></p>
+          <!-- no botz please -->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+          <p><button type="submit">Subscribe to the Library</button></p>
+        </form>
       </div>
       <p class="email-note">Your email stays with me. No spam, no sharing. Unsubscribe any time.</p>
     </div>
