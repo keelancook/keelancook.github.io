@@ -109,7 +109,7 @@ body { font-family: var(--sans); background: var(--offwht); color: var(--dgray);
 
 .intro-how { background: var(--white); border-radius: var(--radius); border: 1px solid var(--rule); padding: 20px 24px; margin-bottom: 28px; }
 .intro-how-title { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--teal); margin-bottom: 8px; }
-.prereq-list { margin-top: 10px; }
+.prereq-list { margin-top: 10px; list-style: none; }
 .prereq-list li { font-size: 0.85rem; color: var(--mgray); padding: 4px 0 4px 20px; position: relative; }
 .prereq-list li::before { content: '✓'; position: absolute; left: 0; color: var(--teal); font-weight: 700; }
 
@@ -277,10 +277,45 @@ body { font-family: var(--sans); background: var(--offwht); color: var(--dgray);
 .results-footer { border-top: 1px solid var(--rule); padding-top: 20px; font-size: 0.75rem; color: var(--lgray); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
 .results-footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
 
+/* Subscribe gate modal */
+.gate-overlay {
+  position: fixed; inset: 0; background: rgba(35,43,91,0.6);
+  backdrop-filter: blur(2px); display: none; align-items: center;
+  justify-content: center; z-index: 300; padding: 20px;
+}
+.gate-overlay.show { display: flex; }
+.gate-modal {
+  background: var(--white); border-radius: 8px; max-width: 440px; width: 100%;
+  padding: 32px 30px 26px; box-shadow: 0 24px 60px rgba(0,0,0,0.3);
+  animation: gate-in 0.25s ease;
+}
+@keyframes gate-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.gate-eyebrow { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+.gate-title { font-family: var(--serif); font-size: 1.4rem; font-weight: 700; color: var(--navy); margin-bottom: 10px; line-height: 1.2; }
+.gate-body { font-size: 0.88rem; color: var(--mgray); line-height: 1.6; margin-bottom: 20px; }
+.gate-widget-container { min-height: 52px; margin-bottom: 14px; }
+.gate-continue { margin-bottom: 14px; }
+.gate-continue-btn {
+  width: 100%; font-family: var(--sans); font-size: 0.8rem; font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; padding: 13px 20px;
+  background: var(--teal); color: var(--white); border: none;
+  border-radius: var(--radius); cursor: pointer; transition: background 0.15s;
+}
+.gate-continue-btn:hover { background: var(--navy); }
+.gate-skip {
+  text-align: center; font-size: 0.82rem; color: var(--mgray);
+  text-decoration: underline; text-underline-offset: 3px; cursor: pointer;
+  transition: color 0.15s;
+}
+.gate-skip:hover { color: var(--navy); }
+
 @media print {
   body { background: white; font-size: 10.5pt; }
   .site-header, .results-actions, .btn-print, .btn-retake,
-  #screen-intro, #screen-assessment { display: none !important; }
+  #screen-intro, #screen-assessment, .gate-overlay { display: none !important; }
   #screen-results { display: block !important; }
   .results-hero, .tier-result-card, .growth-plan-block, .verdict-next-steps {
     -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid;
@@ -473,7 +508,83 @@ body { font-family: var(--sans); background: var(--offwht); color: var(--dgray);
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════
+     SUBSCRIBE GATE MODAL — appears once per browser,
+     right before results are shown
+════════════════════════════════════════════════════ -->
+<div class="gate-overlay" id="gate-overlay">
+  <div class="gate-modal">
+    <div class="gate-eyebrow">Before You Go</div>
+    <div class="gate-title">Want to keep this?</div>
+    <p class="gate-body">Subscribe for new tools like this one, plus occasional articles and site updates. Your evaluation is ready either way.</p>
+
+    <!-- Real SendFox widget renders itself inside this container -->
+    <div id="gate-widget-container" class="gate-widget-container">
+      <script src="https://cdn.sendfox.com/js/embed.js" data-form="m2ol0d" data-api="https://sendfox.com" async></script>
+    </div>
+
+    <div class="gate-continue" id="gate-continue" style="display:none;">
+      <button class="gate-continue-btn" onclick="proceedFromGate()">Continue to My Results →</button>
+    </div>
+
+    <div class="gate-skip" onclick="skipGate()">Skip — just show me my results</div>
+  </div>
+</div>
+
 <script>
+// ── Subscribe gate ───────────────────────────────────────────────────────
+// Shared across all keelancook.com/library/ tools via localStorage. Skipping
+// never sets this flag — the modal reappears next time regardless of how
+// many times skipped. Only a real subscribe suppresses future prompts.
+const GATE_KEY = 'kc_library_gate_seen';
+let gateWidgetObserver = null;
+let gateWidgetSettled = false;
+
+function openGate(onProceed) {
+  if (localStorage.getItem(GATE_KEY) === '1') {
+    onProceed();
+    return;
+  }
+  window._gateProceed = onProceed;
+  document.getElementById('gate-overlay').classList.add('show');
+  document.getElementById('gate-continue').style.display = 'none';
+  gateWidgetSettled = false;
+  startGateWatcher();
+}
+
+function skipGate() {
+  stopGateWatcher();
+  document.getElementById('gate-overlay').classList.remove('show');
+  if (window._gateProceed) window._gateProceed();
+}
+
+function proceedFromGate() {
+  // Best-effort inference from a DOM change in the widget after its initial
+  // render, not a confirmed API response — worth confirming live.
+  stopGateWatcher();
+  localStorage.setItem(GATE_KEY, '1');
+  document.getElementById('gate-overlay').classList.remove('show');
+  if (window._gateProceed) window._gateProceed();
+}
+
+function startGateWatcher() {
+  const container = document.getElementById('gate-widget-container');
+  if (!container) return;
+  setTimeout(() => { gateWidgetSettled = true; }, 1500);
+  gateWidgetObserver = new MutationObserver(() => {
+    if (!gateWidgetSettled) return;
+    document.getElementById('gate-continue').style.display = 'block';
+  });
+  gateWidgetObserver.observe(container, { childList: true, subtree: true });
+}
+
+function stopGateWatcher() {
+  if (gateWidgetObserver) {
+    gateWidgetObserver.disconnect();
+    gateWidgetObserver = null;
+  }
+}
+
 const SCALE4 = ['Strongly Disagree', 'Disagree', 'Agree', 'Strongly Agree'];
 
 // Auto-fill today's date as a sensible default; assessor can still edit it
@@ -819,7 +930,7 @@ function nextPart() {
       document.getElementById('validation-msg').classList.add('show');
       return;
     }
-    showResults();
+    openGate(showResults);
     return;
   }
 

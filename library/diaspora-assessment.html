@@ -956,11 +956,54 @@ body {
   font-weight: 600;
 }
 
-/* ── Print styles ─────────────────────────────────────────────── */
+/* ── Subscribe gate modal ─────────────────────────────────────── */
+.gate-overlay {
+  position: fixed; inset: 0; background: rgba(35,43,91,0.6);
+  backdrop-filter: blur(2px); display: none; align-items: center;
+  justify-content: center; z-index: 300; padding: 20px;
+}
+.gate-overlay.show { display: flex; }
+.gate-modal {
+  background: var(--white); border-radius: 8px; max-width: 440px; width: 100%;
+  padding: 32px 30px 26px; box-shadow: 0 24px 60px rgba(0,0,0,0.3);
+  animation: gate-in 0.25s ease;
+}
+@keyframes gate-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.gate-eyebrow {
+  font-size: 0.66rem; font-weight: 700; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--accent); margin-bottom: 10px;
+}
+.gate-title {
+  font-family: var(--serif); font-size: 1.4rem; font-weight: 700;
+  color: var(--navy); margin-bottom: 10px; line-height: 1.2;
+}
+.gate-body {
+  font-size: 0.88rem; color: var(--mgray); line-height: 1.6; margin-bottom: 20px;
+}
+.gate-widget-container {
+  min-height: 52px; margin-bottom: 14px;
+}
+.gate-continue { margin-bottom: 14px; }
+.gate-continue-btn {
+  width: 100%; font-family: var(--sans); font-size: 0.8rem; font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase; padding: 13px 20px;
+  background: var(--teal); color: var(--white); border: none;
+  border-radius: var(--radius); cursor: pointer; transition: background 0.15s;
+}
+.gate-continue-btn:hover { background: var(--navy); }
+.gate-skip {
+  text-align: center; font-size: 0.82rem; color: var(--mgray);
+  text-decoration: underline; text-underline-offset: 3px; cursor: pointer;
+  transition: color 0.15s;
+}
+.gate-skip:hover { color: var(--navy); }
 @media print {
   body { background: white; font-size: 11pt; }
   .site-header, .results-actions, .btn-print, .btn-retake,
-  #screen-intro, #screen-assessment { display: none !important; }
+  #screen-intro, #screen-assessment, .gate-overlay { display: none !important; }
   #screen-results { display: block !important; }
   .results-hero { background: #232B5B !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   .tier-result-card, .interp-block, .pathway-strip {
@@ -1010,7 +1053,7 @@ body {
 
     <div class="intro-how">
       <div class="intro-how-title">How This Works</div>
-      <p>This assessment has 20 questions across four tiers. Answer each one honestly based on your church's current reality, not your aspirations. There are no right answers to perform.</p>
+      <p>This assessment has 20 questions across four tiers. Answer each one honestly based on your church's current reality. There are no right answers to perform.</p>
       <p>At the end, you'll get a scored breakdown by tier with interpretation and specific next steps for where you are.</p>
       <div class="scale-chips">
         <div class="scale-chip"><div class="scale-chip-num">1</div><span class="scale-chip-label">Not at all</span></div>
@@ -1175,8 +1218,96 @@ body {
 
 </div><!-- /page-wrap -->
 
+<!-- ═══════════════════════════════════════════════════
+     SUBSCRIBE GATE MODAL — appears once per browser,
+     right before results are shown
+════════════════════════════════════════════════════ -->
+<div class="gate-overlay" id="gate-overlay">
+  <div class="gate-modal">
+    <div class="gate-eyebrow">Before You Go</div>
+    <div class="gate-title">Want to keep this?</div>
+    <p class="gate-body">Subscribe for new tools like this one, plus occasional articles and site updates. Your results are ready either way.</p>
+
+    <!-- Real SendFox widget renders itself inside this container -->
+    <div id="gate-widget-container" class="gate-widget-container">
+      <script src="https://cdn.sendfox.com/js/embed.js" data-form="m2ol0d" data-api="https://sendfox.com" async></script>
+    </div>
+
+    <div class="gate-continue" id="gate-continue" style="display:none;">
+      <button class="gate-continue-btn" onclick="proceedFromGate()">Continue to My Results →</button>
+    </div>
+
+    <div class="gate-skip" onclick="skipGate()">Skip — just show me my results</div>
+  </div>
+</div>
+
 
 <script>
+// ── Subscribe gate ───────────────────────────────────────────────────────
+// Shared across all keelancook.com/library/ tools via localStorage (same
+// origin), so once someone subscribes on ANY tool, they won't see this
+// modal again on any other tool either. Skipping never sets this flag —
+// the modal reappears next time regardless of how many times skipped.
+const GATE_KEY = 'kc_library_gate_seen';
+let gateWidgetObserver = null;
+let gateWidgetSettled = false;
+
+function openGate(onProceed) {
+  if (localStorage.getItem(GATE_KEY) === '1') {
+    onProceed();
+    return;
+  }
+  window._gateProceed = onProceed;
+  document.getElementById('gate-overlay').classList.add('show');
+  document.getElementById('gate-continue').style.display = 'none';
+  gateWidgetSettled = false;
+  startGateWatcher();
+}
+
+function skipGate() {
+  stopGateWatcher();
+  document.getElementById('gate-overlay').classList.remove('show');
+  if (window._gateProceed) window._gateProceed();
+}
+
+function proceedFromGate() {
+  // Reaching this button means the widget's content changed after its
+  // initial render — almost certainly SendFox swapping the form for a
+  // success message. Treated as a real subscribe, so future prompts
+  // are suppressed. This is a best-effort inference, not a confirmed
+  // API response (SendFox's widget internals aren't inspectable from
+  // here) — worth confirming live that this fires only after an actual
+  // successful submission, not on some other incidental DOM change.
+  stopGateWatcher();
+  localStorage.setItem(GATE_KEY, '1');
+  document.getElementById('gate-overlay').classList.remove('show');
+  if (window._gateProceed) window._gateProceed();
+}
+
+function startGateWatcher() {
+  const container = document.getElementById('gate-widget-container');
+  if (!container) return;
+
+  // Give SendFox's async script time to do its *initial* render first;
+  // only changes AFTER that grace period count as a likely submission.
+  setTimeout(() => {
+    gateWidgetSettled = true;
+  }, 1500);
+
+  gateWidgetObserver = new MutationObserver(() => {
+    if (!gateWidgetSettled) return; // ignore the widget's own first render
+    document.getElementById('gate-continue').style.display = 'block';
+  });
+  gateWidgetObserver.observe(container, { childList: true, subtree: true });
+}
+
+function stopGateWatcher() {
+  if (gateWidgetObserver) {
+    gateWidgetObserver.disconnect();
+    gateWidgetObserver = null;
+  }
+}
+
 // ── Data ──────────────────────────────────────────────────────────────────
 const TIERS = [
   {
@@ -1407,7 +1538,7 @@ function nextTier() {
     renderTier();
     window.scrollTo(0, 0);
   } else {
-    showResults();
+    openGate(showResults);
   }
 }
 
