@@ -19,6 +19,7 @@ meta-twitter:description: A conversation guide for an early, informal coffee wit
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.sendfox.com/js/form.js" charset="utf-8"></script>
 
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1018,8 +1019,49 @@ body {
   font-size: 0.88rem; color: var(--mgray); line-height: 1.6; margin-bottom: 20px;
 }
 .gate-widget-container {
-  min-height: 52px; margin-bottom: 14px;
+  min-height: 20px; margin-bottom: 6px;
 }
+.gate-sendfox-form { display: flex !important; flex-direction: column !important; gap: 10px !important; margin: 0 0 8px !important; padding: 0 !important; }
+.gate-sendfox-form p { margin: 0 !important; padding: 0 !important; }
+.gate-sendfox-form label { display: none !important; }
+.gate-sendfox-form input[type="email"] {
+  width: 100% !important;
+  font-family: var(--sans) !important;
+  font-size: 0.9rem !important;
+  padding: 11px 14px !important;
+  margin: 0 !important;
+  border: 1.5px solid var(--rule) !important;
+  border-radius: var(--radius) !important;
+  outline: none !important;
+  transition: border-color 0.15s !important;
+  color: var(--dgray) !important;
+  background: var(--white) !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+.gate-sendfox-form input[type="email"]:focus { border-color: var(--accent) !important; }
+.gate-sendfox-form input[type="email"]::placeholder { color: var(--lgray) !important; opacity: 1 !important; }
+.gate-sendfox-form button {
+  width: 100% !important;
+  font-family: var(--sans) !important;
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  padding: 13px 20px !important;
+  margin: 0 !important;
+  background: var(--navy) !important;
+  color: var(--white) !important;
+  border: none !important;
+  border-radius: var(--radius) !important;
+  cursor: pointer !important;
+  transition: background 0.15s !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+}
+.gate-sendfox-form button:hover { background: var(--teal) !important; }
 .gate-continue { margin-bottom: 14px; }
 .gate-continue-btn {
   width: 100%; font-family: var(--sans); font-size: 0.8rem; font-weight: 700;
@@ -1261,9 +1303,13 @@ body {
     <div class="gate-title">Want to keep this?</div>
     <p class="gate-body">Subscribe for new tools like this one, plus occasional articles and site updates. Your results are ready either way.</p>
 
-    <!-- Real SendFox widget renders itself inside this container -->
     <div id="gate-widget-container" class="gate-widget-container">
-      <script src="https://cdn.sendfox.com/js/embed.js" data-form="m2ol0d" data-api="https://sendfox.com" async></script>
+      <form method="post" action="https://sendfox.com/form/1ye54o/m2ol0d" class="gate-sendfox-form sendfox-form" id="gate-sendfox-form" data-async="true" data-recaptcha="true">
+        <p><label for="gate-sendfox-email">Email: </label><input type="email" id="gate-sendfox-email" placeholder="Your email address" name="email" required /></p>
+        <!-- no botz please -->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+        <p><button type="submit">Subscribe &amp; See Results</button></p>
+      </form>
     </div>
 
     <div class="gate-continue" id="gate-continue" style="display:none;">
@@ -1303,8 +1349,10 @@ function skipGate() {
 }
 
 function proceedFromGate() {
-  // Best-effort inference from a DOM change in the widget after its initial
-  // render, not a confirmed API response — worth confirming live.
+  // Reaching this button means the form's DOM changed after init settled —
+  // SendFox's classic embed (data-async="true") swaps the form's inner HTML
+  // for a success message on a successful submission, which is documented
+  // behavior for this embed style. Still worth confirming live once.
   stopGateWatcher();
   localStorage.setItem(GATE_KEY, '1');
   document.getElementById('gate-overlay').classList.remove('show');
@@ -1314,7 +1362,10 @@ function proceedFromGate() {
 function startGateWatcher() {
   const container = document.getElementById('gate-widget-container');
   if (!container) return;
-  setTimeout(() => { gateWidgetSettled = true; }, 1500);
+  // Short grace period for SendFox's form.js to finish its own init
+  // (e.g. attaching its reCAPTCHA hook) before we start watching for a
+  // real submission-driven change.
+  setTimeout(() => { gateWidgetSettled = true; }, 800);
   gateWidgetObserver = new MutationObserver(() => {
     if (!gateWidgetSettled) return;
     document.getElementById('gate-continue').style.display = 'block';

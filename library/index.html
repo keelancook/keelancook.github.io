@@ -20,6 +20,7 @@ meta-twitter:description: Free tools, guides, and assessments for pastors and ch
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.sendfox.com/js/form.js" charset="utf-8"></script>
 
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -584,73 +585,67 @@ a.resource-card:hover .card-arrow {
   line-height: 1.65;
 }
 
-/* SendFox embed wrapper */
+/* SendFox embed — real classic form, restyled as transparent "dark
+   glass" sitting directly on the navy banner. No white card wrapper. */
 .sendfox-wrap {
   flex: 1;
   min-width: 240px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-top: 24px; /* aligns form with the title line, not the eyebrow above it */
 }
 
-/* Override SendFox embed styles to match brand */
-.sendfox-wrap .sendfox-form,
-.sendfox-form {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
+.sendfox-widget-container {
+  min-height: 20px;
 }
 
-.sendfox-form input[type="text"],
+.sendfox-form { display: flex !important; flex-direction: column !important; gap: 10px !important; margin: 0 !important; padding: 0 !important; }
+.sendfox-form p { margin: 0 !important; padding: 0 !important; }
+.sendfox-form label { display: none !important; }
 .sendfox-form input[type="email"] {
+  width: 100% !important;
   font-family: var(--sans) !important;
   font-size: 0.88rem !important;
   padding: 11px 15px !important;
+  margin: 0 !important;
   border: 1.5px solid rgba(255,255,255,0.18) !important;
   border-radius: var(--r) !important;
-  background: rgba(255,255,255,0.08) !important;
-  color: var(--white) !important;
   outline: none !important;
-  width: 100% !important;
+  color: var(--white) !important;
+  background: rgba(255,255,255,0.08) !important;
   transition: border-color 0.15s !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
 }
-
-.sendfox-form input[type="text"]::placeholder,
-.sendfox-form input[type="email"]::placeholder {
-  color: rgba(255,255,255,0.32) !important;
-}
-
-.sendfox-form input[type="text"]:focus,
-.sendfox-form input[type="email"]:focus {
-  border-color: var(--accent) !important;
-}
-
-.sendfox-form button,
-.sendfox-form input[type="submit"] {
+.sendfox-form input[type="email"]:focus { border-color: var(--accent) !important; }
+.sendfox-form input[type="email"]::placeholder { color: rgba(255,255,255,0.32) !important; opacity: 1 !important; }
+.sendfox-form button {
+  width: 100% !important;
   font-family: var(--sans) !important;
   font-size: 0.78rem !important;
   font-weight: 700 !important;
   letter-spacing: 0.07em !important;
   text-transform: uppercase !important;
   padding: 12px 20px !important;
+  margin: 0 !important;
   background: var(--accent) !important;
   color: var(--white) !important;
   border: none !important;
   border-radius: var(--r) !important;
   cursor: pointer !important;
   transition: background 0.15s !important;
-  width: 100% !important;
+  box-shadow: none !important;
+  -webkit-appearance: none !important;
+  appearance: none !important;
 }
-
-.sendfox-form button:hover,
-.sendfox-form input[type="submit"]:hover {
-  background: var(--teal) !important;
-}
+.sendfox-form button:hover { background: var(--teal) !important; }
 
 .email-note {
   font-size: 0.7rem;
   color: rgba(255,255,255,0.3);
-  margin-top: 8px;
+  margin-top: 10px;
   line-height: 1.5;
 }
 
@@ -711,6 +706,7 @@ a.resource-card:hover .card-arrow {
   }
 
   .email-banner { padding: 28px 24px; gap: 24px; }
+  .sendfox-wrap { margin-top: 0; }
 
   .site-footer { padding: 24px 20px; }
 }
@@ -892,7 +888,7 @@ a.resource-card:hover .card-arrow {
           </div>
           <span class="new-badge">New</span>
         </div>
-        <div class="card-title">The Informal Assessment</div>
+        <div class="card-title">The Coffee Cup Assessment</div>
         <p class="card-desc">A conversation guide for a pastor or church leader meeting with someone who might be called to plant a church, built for an early, unhurried coffee rather than a formal interview. Produces a private, printable summary with suggested next steps.</p>
         <div class="card-footer">
           <span class="card-cta">Use the Guide</span>
@@ -1049,16 +1045,10 @@ a.resource-card:hover .card-arrow {
 
   <!-- ── Email banner ──────────────────────────────────────────── -->
   <!--
-    HOW THIS WORKS:
-    Replace the placeholder form below with your actual SendFox embed snippet.
-    In SendFox: go to Lists > [your list] > Embed Form, copy the HTML snippet,
-    and paste it inside .sendfox-wrap, replacing everything between the comments.
-    The CSS above will override SendFox's default styles to match the brand.
-
-    For the assessment gate specifically: in SendFox, set the confirmation email
-    redirect URL to https://keelancook.com/library/assessment
-    That way the assessment URL is only delivered via email after confirming,
-    which is your subscribe gate — no Tally or Power Automate needed.
+    Real, custom-styled SendFox classic embed (form + form.js), same
+    "Library Signup" form used in the assessment gate modals
+    (action .../m2ol0d) — already configured with the redirect left
+    blank and the right list.
   -->
   <div class="email-banner">
     <div class="email-banner-text">
@@ -1067,23 +1057,14 @@ a.resource-card:hover .card-arrow {
       <p class="email-banner-body">I add to the Library as I build new tools and guides. Subscribe and I'll let you know when something new is available, along with new articles on missions and church mobilization. No more than once a week.</p>
     </div>
     <div class="sendfox-wrap">
-      <!-- ═══ PASTE YOUR SENDFOX EMBED SNIPPET HERE ═══ -->
-      <!-- Example of what SendFox provides (replace with your actual snippet): -->
-      <form action="https://sendfox.com/form/YOUR_FORM_ID/YOUR_LIST_ID"
-            method="post"
-            class="sendfox-form"
-            id="library-subscribe"
-            data-async="true"
-            data-recaptcha="true">
-        <p><input type="text" placeholder="First Name" name="first_name" required></p>
-        <p><input type="email" placeholder="Email Address" name="email" required></p>
-        <!-- SendFox anti-bot honeypot — do not remove -->
-        <div style="position:absolute;left:-5000px;" aria-hidden="true">
-          <input type="text" name="a_password" tabindex="-1" value="" autocomplete="off">
-        </div>
-        <p><button type="submit">Subscribe to the Library</button></p>
-      </form>
-      <!-- ═══════════════════════════════════════════════ -->
+      <div class="sendfox-widget-container">
+        <form method="post" action="https://sendfox.com/form/1ye54o/m2ol0d" class="sendfox-form" id="library-sendfox-form" data-async="true" data-recaptcha="true">
+          <p><label for="library-sendfox-email">Email: </label><input type="email" id="library-sendfox-email" placeholder="Your email address" name="email" required /></p>
+          <!-- no botz please -->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+          <p><button type="submit">Subscribe to the Library</button></p>
+        </form>
+      </div>
       <p class="email-note">Your email stays with me. No spam, no sharing. Unsubscribe any time.</p>
     </div>
   </div>
