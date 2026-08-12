@@ -8,7 +8,7 @@ tags:
 author: keelan
 featured: false
 hidden: false
-image: images/post-images/nones.png
+image: images/post-images/nones.jpg
 image_caption: "Photo credit: Generated with Gemini"
 rating:
 beforetoc:
