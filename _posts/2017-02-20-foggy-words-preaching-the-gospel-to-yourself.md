@@ -14,7 +14,7 @@ beforetoc:
 toc: false
 ---
 
-A few weeks back, I called attention to [the foggy words we often use as Christians](http://blog.keelancook.com/2017/01/foggy-words-that-can-sidetrack-the-mission.html) to talk about our gospel work and ministry. Today, I want to point out one such phrase. It is real common, nowadays, to talk of "preaching the gospel to yourself."
+A few weeks back, I called attention to [the foggy words we often use as Christians](https://keelancook.com/foggy-words-that-can-sidetrack-the-mission/) to talk about our gospel work and ministry. Today, I want to point out one such phrase. It is real common, nowadays, to talk of "preaching the gospel to yourself."
 
 You may have heard someone use this, or you may have said it yourself. It most often makes its way into small group studies, I believe. A group will be discussing a particular passage, and this is somehow an application statement that is made. "Well," someone will chime in, "we just need to make sure we are preaching the gospel to ourselves." The statement is certainly true, but what in the world does it mean? If we are not careful this falls into the truism category, sounding profound but having no real practical application.
 

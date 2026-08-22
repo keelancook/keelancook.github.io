@@ -18,7 +18,7 @@ toc: false
 
 > For a number of years now the representatives of our foreign missionary societies have been crying with a loud voice for the best talent of America to go into foreign lands. Their cry has been heard, and each year the choicest best-trained young men and women from our various colleges and universities have given themselves heart and soul to that great enterprise. Has the time not come for us to raise our voices in behalf of the needs of our own land? What is necessary to make the church awaken to her great responsibility and duty? She cannot help but hear the cry of the man from Macedonia, pleading in an unknown tongue for help to learn about God. Will the young men and the young women of today turn a deaf ear to the call of the foreigner in America ([Mangano, _Sons of Italy_, 226-227](https://books.google.com/books/about/Sons_of_Italy.html?id=NA8dAAAAMAAJ))?
 
-That sounds familiar. In fact, [I have personally written things that sound just like that](http://blog.keelancook.com/about-pnd). So have many others. These words have a contemporary ring. They are a call to action in the midst of a very present reality for North American churches.
+That sounds familiar. In fact, I have personally written things that sound just like that. So have many others. These words have a contemporary ring. They are a call to action in the midst of a very present reality for North American churches.
 
 Except they are not. That call to action was written exactly 100 years ago, in 1917.
 

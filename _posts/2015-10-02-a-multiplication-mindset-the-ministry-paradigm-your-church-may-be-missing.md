@@ -35,7 +35,7 @@ While Acts is not a prescriptive church planting manual, it does gives us one cl
 
 We all say we love that, but is that really what you celebrate in your local church?
 
-Let me put it another way. Do you get more excited about adding another handful of people to your church roll or about losing a group of people who are going to start a church? Pastor, when you hear about another church going up close by, [what does your heart do](http://blog.keelancook.com/2015/11/cooperation-or-competition-does-your-church-play-nice-with-others.html)? Do you feel a need to compete with other local churches in the area? Is your focus on growing your congregation to the exclusion of sending your best to start work elsewhere?
+Let me put it another way. Do you get more excited about adding another handful of people to your church roll or about losing a group of people who are going to start a church? Pastor, when you hear about another church going up close by, [what does your heart do](https://keelancook.com/cooperation-or-competition-does-your-church-play-nice-with-others/)? Do you feel a need to compete with other local churches in the area? Is your focus on growing your congregation to the exclusion of sending your best to start work elsewhere?
 
 If a church works toward what it celebrates, then the church that gets more excited about growth in numbers, dollars, programs, and buildings than about sending members to start churches and serve overseas will see simple addition as success. On the other hand, the church that puts more emphasis on planting churches and sending members than on growing its own roll will see multiplication as success.
 

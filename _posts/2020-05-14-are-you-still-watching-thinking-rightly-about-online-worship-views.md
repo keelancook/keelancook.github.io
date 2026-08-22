@@ -38,7 +38,7 @@ People who wouldn't walk into your church have viewed your service online, if on
 
 ## **Temper Your Expectations of Online Engagement**
 
-As good as these views are, and I do believe they are a good thing, we must not make more of this phenomenon than it is. We need to be careful that we do not misunderstand what these increased views mean. It would be easy for us to treat online viewer numbers as [a new vanity metric to follow](https://blog.keelancook.com/2017/01/foggy-numbers-that-can-sidetrack-the-mission.html), propping up our own sense of success by measuring something that sounds prestigious but says little about real Great Commission ministry.
+As good as these views are, and I do believe they are a good thing, we must not make more of this phenomenon than it is. We need to be careful that we do not misunderstand what these increased views mean. It would be easy for us to treat online viewer numbers as [a new vanity metric to follow](https://keelancook.com/foggy-numbers-that-can-sidetrack-the-mission/), propping up our own sense of success by measuring something that sounds prestigious but says little about real Great Commission ministry.
 
 First, we need to realize that views are not equal to attendance in any conceivable way. Of course, advice is all over the map on this point if you peruse the internet. Take Facebook analytics as an example. Within the analytics page, Facebook will break down your views based on whether it was viewed for 3 seconds, 10 seconds, or 1 minute. Of course, the public-facing number is the 3 second number, since that will always be the biggest and provide the ego-boost.
 

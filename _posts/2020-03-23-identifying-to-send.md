@@ -21,7 +21,7 @@ I'm a sucker for alliteration. It's one of the ways you can tell I'm Baptist. Th
 
 Today, I want to introduce you to the Three Cs of Sending.
 
-Sending language is becoming common parlance in church circles nowadays. Like "missional" before it, most churches know that it's good to be a "sending church." Unfortunately, the term is often stretched to mean something that may not actually be real sending. If we're not careful, we're just using a [rhetoric of multiplication](https://blog.keelancook.com/2018/10/moving-past-the-rhetoric-of-multiplication.html).
+Sending language is becoming common parlance in church circles nowadays. Like "missional" before it, most churches know that it's good to be a "sending church." Unfortunately, the term is often stretched to mean something that may not actually be real sending. If we're not careful, we're just using a [rhetoric of multiplication](https://keelancook.com/moving-past-the-rhetoric-of-multiplication/).
 
 Real multiplicative sending is not merely supporting, but requires a church to first look inside of its own congregation for those they would send. Real sending means sending your own.
 

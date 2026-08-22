@@ -12,7 +12,7 @@ beforetoc:
 toc: false
 ---
 
-In the last week, a flurry of articles have chimed in on the situation in Charlottesville or on the current cultural temperature that it lays bare. I wrote on Monday of how [this attitude affected our local missions over 100 years ago](http://blog.keelancook.com/2017/08/does-our-attitude-need-to-be-changed-thoughts-after-charlottesville.html).
+In the last week, a flurry of articles have chimed in on the situation in Charlottesville or on the current cultural temperature that it lays bare. I wrote on Monday of how [this attitude affected our local missions over 100 years ago](https://keelancook.com/does-our-attitude-need-to-be-changed-thoughts-after-charlottesville/).
 
 Today, though, I want to draw everyone's attention to an excellent piece by Scott Hildreth. Scott directs the Center for Great Commission Studies at Southeastern Baptist Theological Seminary, and this piece is on point. Scott digs to what I consider the heart of the matter for the church, namely, how racism impacts our Christ-given commission as local assemblies of light in this present age.
 

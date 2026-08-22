@@ -21,7 +21,7 @@ If you are too much younger than I am, this will not even make sense.
 
 __But if you who remember being excited about dc Talk’s first album and upset about their last, then this post is for you!_
 
-Ahh, the 1990s were an exciting time to be young and a Christian. And due to some recent nostalgia about my experiences at [church camp](http://blog.keelancook.com/2011/03/off-topic-spiritual-surfing/ "Off Topic: Spiritual Surfing"), I have decided to periodically pay tribute to the things that made this decade great.
+Ahh, the 1990s were an exciting time to be young and a Christian. And due to some recent nostalgia about my experiences at [church camp](https://keelancook.com/off-topic-spiritual-surfing/ "Off Topic: Spiritual Surfing"), I have decided to periodically pay tribute to the things that made this decade great.
 
 Here’s to you Christianity of the 90s!
 

@@ -33,6 +33,6 @@ May we never forget the debt of gratitude we owe you for your service.
 
 Here’s to you Christian t-shirts!
 
-_P.S. If you have no clue what this post is about, check out the [first one](http://blog.keelancook.com/2011/03/heres-to-you/ "Here’s to you!")! Or read the others on : [Ska Music](http://blog.keelancook.com/2011/04/heres-to-you-christian-ska-music/ "Here’s to you: Christian ska music"), and [Church camp romance](http://blog.keelancook.com/2011/06/heres-to-you-church-camp-romance/ "Here’s to you: Church camp romance")._
+_P.S. If you have no clue what this post is about, check out the [first one](https://keelancook.com/heres-to-you/ "Here’s to you!")! Or read the others on : [Ska Music](https://keelancook.com/heres-to-you-christian-ska-music/ "Here’s to you: Christian ska music"), and [Church camp romance](https://keelancook.com/heres-to-you-church-camp-romance/ "Here’s to you: Church camp romance")._
 
 Content Copyright © 2010-2011, C. Keelan Cook. All rights reserved.

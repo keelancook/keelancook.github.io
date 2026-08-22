@@ -16,7 +16,7 @@ beforetoc:
 toc: false
 ---
 
-Last week, I wrote a piece about the [foggy words we use in church that can sidetrack our mission](http://blog.keelancook.com/2017/01/foggy-words-that-can-sidetrack-the-mission.html). Sometimes, we say things that sound real nice, even sound important or profound, but have little real-world meaning. At best, these phrases keep us from really understanding what we are supposed to be doing concerning the Great Commission. At worst, they can be used to conceal ineffectiveness from ourselves or others.
+Last week, I wrote a piece about the [foggy words we use in church that can sidetrack our mission](https://keelancook.com/foggy-words-that-can-sidetrack-the-mission/). Sometimes, we say things that sound real nice, even sound important or profound, but have little real-world meaning. At best, these phrases keep us from really understanding what we are supposed to be doing concerning the Great Commission. At worst, they can be used to conceal ineffectiveness from ourselves or others.
 
 Words are not the only things that can be foggy. Numbers can be foggy too.
 

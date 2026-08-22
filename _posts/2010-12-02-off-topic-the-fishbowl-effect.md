@@ -39,7 +39,7 @@ My 10-year high school reunion was last week. (Put the old man jokes aside until
 
 Instead of catching up with long lost friends about life and their pursuit of happiness, I got to look at pictures of the reunion on Facebook. It appears they had a good time, a fact of which I am glad. Yet, like so many other things in the past year, I “experienced” this milestone from behind glass. I watched through the lens of Facebook.
 
-I have already [confessed to being a Facebook stalker](http://blog.keelancook.com/2010/09/off-topic-what-did-you-do-this-summer/ "Off topic: What did you do this summer?"). It has become my means of watching my old world march forward without me. I have indeed succumbed to the fish bowl effect. I sit back and idly watch as friends get married or have kids, as events take place that I should attend, and as family and church members get sick.
+I have already [confessed to being a Facebook stalker](https://keelancook.com/off-topic-what-did-you-do-this-summer/ "Off topic: What did you do this summer?"). It has become my means of watching my old world march forward without me. I have indeed succumbed to the fish bowl effect. I sit back and idly watch as friends get married or have kids, as events take place that I should attend, and as family and church members get sick.
 
 Facebook albums and status updates fill in the details of county fairs and Strawberry Festivals, of celebrations at church and tragic events that shake my community. All the while, I stare through my little glass wall and watch from a distance.
 

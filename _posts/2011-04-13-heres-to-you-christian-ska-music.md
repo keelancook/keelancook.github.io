@@ -25,6 +25,6 @@ But alas, like a falling star, you left us as suddenly as you appeared. Rest in 
 
 Here’s to you, Christian ska music!
 
-_P.S. If you have no clue what this post is about, check out the_ [_first one_](http://blog.keelancook.com/2011/03/heres-to-you/ "Here’s to you!")_!_
+_P.S. If you have no clue what this post is about, check out the_ [_first one_](https://keelancook.com/heres-to-you/ "Here’s to you!")_!_
 
 Content Copyright © 2010-2011, C. Keelan Cook. All rights reserved.

@@ -16,7 +16,7 @@ beforetoc:
 toc: false
 ---
 
-Monday, I ran a guest post by Trevor King on the importance of covenant membership, and I highly recommend you [read it here](http://blog.keelancook.com/2016/05/7-reasons-for-covenant-church-membership.html). In it, Trevor makes a compelling claim about the biblical nature of a covenant membership process for local churches, and he is right. Real membership that means something is an important aspect of the local church. Furthermore, it is best explained as a covenant in the manner which he describes. However, today I want us to talk about the difference between the principle of covenant membership and its contemporary application. While covenant membership is indeed a biblical process that all local churches should undertake, its application is nevertheless highly contextual.
+Monday, I ran a guest post by Trevor King on the importance of covenant membership, and I highly recommend you [read it here](https://keelancook.com/7-reasons-for-covenant-church-membership/). In it, Trevor makes a compelling claim about the biblical nature of a covenant membership process for local churches, and he is right. Real membership that means something is an important aspect of the local church. Furthermore, it is best explained as a covenant in the manner which he describes. However, today I want us to talk about the difference between the principle of covenant membership and its contemporary application. While covenant membership is indeed a biblical process that all local churches should undertake, its application is nevertheless highly contextual.
 
 Covenant membership should look different from one context to the next.
 

@@ -55,8 +55,8 @@ A list of rules will never satisfy man’s greatest need.
 
 _If you would like to read more, the following posts discuss similar dilemmas within the church:_
 
-- [The Lone Ranger Syndrome](http://blog.keelancook.com/2011/03/the-lone-ranger-syndrome/ "The Lone Ranger syndrome")
-- [Off Topic: Spiritual Surfing](http://blog.keelancook.com/2011/03/off-topic-spiritual-surfing/ "Off Topic: Spiritual Surfing")
+- [The Lone Ranger Syndrome](https://keelancook.com/the-lone-ranger-syndrome/ "The Lone Ranger syndrome")
+- [Off Topic: Spiritual Surfing](https://keelancook.com/off-topic-spiritual-surfing/ "Off Topic: Spiritual Surfing")
 
  
 

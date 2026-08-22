@@ -14,7 +14,7 @@ beforetoc:
 toc: false
 ---
 
-Having just moved to a new place, I am still trying to find my way around. Part of that process, at least for me, is learning all the nooks and crannies. It is discovering the little places, like a park or a trail, that provide moments of escape from the [bustle here in America](http://blog.keelancook.com/2011/08/the-american-bustle.html "The American bustle"). A couple of weeks ago, I stumbled across a gem. It is a wilderness area situated along a dam constructed by the Army Corps of Engineers.
+Having just moved to a new place, I am still trying to find my way around. Part of that process, at least for me, is learning all the nooks and crannies. It is discovering the little places, like a park or a trail, that provide moments of escape from the [bustle here in America](https://keelancook.com/the-american-bustle/ "The American bustle"). A couple of weeks ago, I stumbled across a gem. It is a wilderness area situated along a dam constructed by the Army Corps of Engineers.
 
 Sitting at a picnic table, reading my Bible and gazing at the still lake, I noticed an unusual sight to my right. Not too far from my table was a large piece of the dam protruding up into the sky. It was housing some machinery that looked of particular importance for the operation of the dam, and crowded on the very top of it was a whole flock of pigeons.
 
@@ -26,7 +26,7 @@ It was a scarecrow, fastened to the top of the dam to scare away pigeons. As you
 
 As I sat there, reading through 1 Peter and his discussion of holiness, a light bulb went off. We Christians have a nasty habit of doing the same thing. We build scarecrows, hoping they will keep us away from sin and cause us to live a holy life.
 
-Last week, I shared some thoughts on [the self-help approach](http://blog.keelancook.com/2011/11/the-secret-of-happiness.html "The secret of happiness") we often take to pursuing holiness. This week, my aim is fixed on our bend toward legalism as an answer to the holy life.
+Last week, I shared some thoughts on [the self-help approach](https://keelancook.com/the-secret-of-happiness/ "The secret of happiness") we often take to pursuing holiness. This week, my aim is fixed on our bend toward legalism as an answer to the holy life.
 
 The gospel is a hard pill to swallow. There is just something about the idea of grace that makes no sense to mankind. We cannot fathom its scope. In that one mighty act of grace, Christ not only kept us from getting what we earned, but gave us something we did not deserve. But what does that mean in practice?
 

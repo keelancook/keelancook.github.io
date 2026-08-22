@@ -26,7 +26,7 @@ I may enjoy the warm glow and soft crackle of a fire, but I am convinced I am no
 
 In any given school year, the average youth group member is inundated with references to fire in some capacity. Tonight, countless students across America will head off to their weekly Ignite Student Ministry meeting. During announcements, they will be given more information about purchasing tickets for the Acquire the Fire youth rally. This will be followed by a message on how to be “on fire” for the Lord and they will close out the evening with an appropriate song such as “Light the Fire.” Then, they will get in their car, plug in their iPod and listen to Shane & Shane belt out “Burn Me Up” on their way to Dairy Queen to grab one of those Flamethrower burgers and a Reese's Blizzard.
 
-Furthermore, how many of us currently own at least one [Christian t-shirt](http://blog.keelancook.com/2011/06/heres-to-you-christian-t-shirts/ "Here’s to you: Christian t-shirts") with some form of stylized flame logo on it? I know I do.
+Furthermore, how many of us currently own at least one [Christian t-shirt](https://keelancook.com/heres-to-you-christian-t-shirts/ "Here’s to you: Christian t-shirts") with some form of stylized flame logo on it? I know I do.
 
 If you want more proof, listen to the verbs we use in sermons and Bible studies now. We talk about fanning flames, evangelism explosions, igniting our faith or kindling our relationship with the Lord. Revival has taken on the language of bursting into flames and spreading throughout our country. And everyone knows, it only takes a spark to get a fire going.
 

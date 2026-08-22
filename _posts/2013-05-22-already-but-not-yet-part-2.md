@@ -17,7 +17,7 @@ toc: false
 
 If you do not know what you are fighting for, you are bound to make mistakes.
 
-In the [last post](http://blog.keelancook.com/2013/05/already-but-not-yet-part-1.html "Already, but not yet – Part 1"), I talked about the kingdom of God (or the kingdom of heaven, as the terms are interchangeable in the Bible). The term gets thrown around a lot. We Christian folk are always talking about "kingdom work," "advancing the kingdom," being "kingdom focused," and the list goes on and on. Perhaps we see that it is important, or perhaps we think the word sounds cool. Whatever the case, we describe a lot of things as kingdom work without ever really defining our term. And in doing this, we have created some interesting definitions of the kingdom that are nowhere to be found in the Bible.
+In the [last post](https://keelancook.com/already-but-not-yet-part-1/ "Already, but not yet – Part 1"), I talked about the kingdom of God (or the kingdom of heaven, as the terms are interchangeable in the Bible). The term gets thrown around a lot. We Christian folk are always talking about "kingdom work," "advancing the kingdom," being "kingdom focused," and the list goes on and on. Perhaps we see that it is important, or perhaps we think the word sounds cool. Whatever the case, we describe a lot of things as kingdom work without ever really defining our term. And in doing this, we have created some interesting definitions of the kingdom that are nowhere to be found in the Bible.
 
 At the risk of offending sensibilities, I think it is perhaps best to consider first what the kingdom is not.
 

@@ -22,7 +22,7 @@ You've heard those words. I've said those words. For the most part, they're true
 
 Healthy vision does not come out of thin air. Sure, good vision is creative and usually the result of a decent dose of inspiration. And any church's vision should be Spirit-directed and covered in prayer. It should be the overflow of a Spirit-filled congregation. However, hunches and good feelings are not the meat of vision, and direction from the Spirit is never untethered from the truths of Scripture or the realities around us.
 
-[![](images/1e5bf-vision-venn-e1522097985245.png)](http://blog.keelancook.com/wp-content/uploads/2018/03/Vision-Venn.png)
+![](images/1e5bf-vision-venn-e1522097985245.png)
 
 A church's vision is found at the intersection of three basic aspects of the congregation: the biblical mission, the context of the community around it, and the unique composition of the congregation itself. If you have ever heard someone say that every church should have a unique vision, this is why. Two of those three pillars (context and composition) are different for every, single church. That said, one of them (the biblical mission) is the exact same for every, single church. Understanding this distinction is imperative for crafting a healthy vision for planting or pastoring. Vision is what happens when an unchanging mission meets a unique congregation in an ever-changing context.
 

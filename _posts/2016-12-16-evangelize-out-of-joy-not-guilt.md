@@ -19,7 +19,7 @@ toc: false
 
 A few weeks ago, one of our other pastors at church made that statement during a sermon. Tony was preaching on Psalm 138. He made a really good point.
 
-[The Great Commission is not a burden; it is an opportunity](http://blog.keelancook.com/2016/10/its-the-great-commission-not-the-great-obligation.html). Piper addresses the idea in his concept of Christian hedonism, that God is most glorified in us when we are most satisfied in him. His claim is not just true about healthy Christian living (as though this can somehow be separated from missions), it is also true in the context of mission. Evangelism should be fueled by joy.
+[The Great Commission is not a burden; it is an opportunity](https://keelancook.com/its-the-great-commission-not-the-great-obligation/). Piper addresses the idea in his concept of Christian hedonism, that God is most glorified in us when we are most satisfied in him. His claim is not just true about healthy Christian living (as though this can somehow be separated from missions), it is also true in the context of mission. Evangelism should be fueled by joy.
 
 Too often evangelism is motivated by guilt. That guilt typically manifests in one of two forms. The first is a man-centered guilt that revolves around the plight of the lost. We sit here on top of a mountain of gospel resources while others around the world are in spiritual famine. The countless multitudes have a fate sealed by our lack of urgency to share with them the only news that can save. The other guilt motivator is God-centered, concerning itself with pleasing the Almighty who has commissioned us to go. We are commanded by the God of the universe to go and make disciples of our neighbors and the nations, and his watchful eye sees our inactivity.
 

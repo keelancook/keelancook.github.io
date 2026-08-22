@@ -31,7 +31,7 @@ Yet, in a place so full of people you cannot turn around without bumping someone
 
 Give it a read:
 
-# [A lonely multitude: Loneliness is not a location issue, it is a heart issue](http://blog.keelancook.com/2012/05/a-lonely-multitude.html)
+# [A lonely multitude: Loneliness is not a location issue, it is a heart issue](https://keelancook.com/a-lonely-multitude/)
 
  
 

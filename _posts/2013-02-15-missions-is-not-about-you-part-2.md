@@ -21,7 +21,7 @@ beforetoc:
 toc: false
 ---
 
-_This is the continuation of a previous post. If you have not read part 1, I would suggest you do so [here](http://blog.keelancook.com/2013/02/missions-is-not-about-you-part-1.html)._
+_This is the continuation of a previous post. If you have not read part 1, I would suggest you do so [here](https://keelancook.com/missions-is-not-about-you-part-1/)._
 
 So, if missions is not about you, and it is not ultimately about them, then what is the purpose of missions? Why do we go?
 

@@ -16,7 +16,7 @@ beforetoc:
 toc: false
 ---
 
-If you are perhaps thinking, “Wait, didn’t he give us the [Aha moment from the cow training](http://blog.keelancook.com/2011/04/cow-training-part-1/ "Cow training – Part 1") thing like two days ago?” then you feel the same way I did. 
+If you are perhaps thinking, “Wait, didn’t he give us the [Aha moment from the cow training](https://keelancook.com/cow-training-part-1/ "Cow training – Part 1") thing like two days ago?” then you feel the same way I did. 
 
 This lesson was a double whammy. Right when I thought this little visual demonstration had provided the extent of its enlightenment, I was blindsided with one more unexpected sucker punch of awesomeness. 
 
@@ -48,9 +48,9 @@ What great encouragement it is to know the kind of master we serve! He is a cari
 
 _For more Aha moments from Africa, check out these posts:_
 
-- [On talking to God](http://blog.keelancook.com/2010/09/on-talking-to-god/ "On talking to God")
-- [Down the rabbit hole](http://blog.keelancook.com/2011/01/down-the-rabbit-hole/ "Down the rabbit hole")
-- [Learning to learn](http://blog.keelancook.com/2011/02/learning-to-learn/ "Learning to learn")
+- [On talking to God](https://keelancook.com/on-talking-to-god/ "On talking to God")
+- [Down the rabbit hole](https://keelancook.com/down-the-rabbit-hole/ "Down the rabbit hole")
+- [Learning to learn](https://keelancook.com/learning-to-learn/ "Learning to learn")
 
  
 

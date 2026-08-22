@@ -17,7 +17,7 @@ beforetoc:
 toc: false
 ---
 
-I've said it before, and I'll say it again: [Missions is changing](http://blog.keelancook.com/2015/10/missions-is-changing-and-we-need-to-keep-up.html).
+I've said it before, and I'll say it again: [Missions is changing](https://keelancook.com/missions-is-changing-and-we-need-to-keep-up/).
 
 We need to keep up too. Too many of our traditional, American evangelical churches have a static understanding of the Great Commission, especially when it comes to missions. We need to send our people to reach the rest of the world. That's the idea. We do it by sending long term personnel and by sending short term teams full of students or volunteers from our churches.
 
@@ -31,7 +31,7 @@ For those of us who have grown up in traditional American churches, we need to p
 
 ### Every immigrant coming here is not unreached.
 
-I have written about this before [here](http://blog.keelancook.com/2016/11/three-things-the-immigrant-church-in-your-city-does-better-than-you.html) and [here](http://blog.keelancook.com/2017/05/one-resource-your-church-may-be-overlooking.html), but for all our talk of reaching the unreached peoples coming to America, we need to realize the majority of immigrants identify as Christians. Many of these are devoted followers of Christ who have a heart for the Great Commission just like we do.
+I have written about this before [here](https://keelancook.com/three-things-the-immigrant-church-in-your-city-does-better-than-you/) and [here](https://keelancook.com/one-resource-your-church-may-be-overlooking/), but for all our talk of reaching the unreached peoples coming to America, we need to realize the majority of immigrants identify as Christians. Many of these are devoted followers of Christ who have a heart for the Great Commission just like we do.
 
 Fact is, we need to realize that traditional American churches should have a response for all immigrants coming here. That is, we need to be thinking through how we will serve those coming here who need help, like refugees. We certainly need to be considering how we will share the gospel with those who are Muslim or Hindu. But we also need to realize that God is bringing us many fellow brothers and sisters in Christ. These immigrants, coming here and establishing their own churches, are our family and should be our partners in missions.
 

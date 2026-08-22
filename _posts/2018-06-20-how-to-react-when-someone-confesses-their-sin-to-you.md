@@ -14,7 +14,7 @@ beforetoc:
 toc: false
 ---
 
-Recently, I wrote about [why I think it's important to confess our sins to fellow believers](http://blog.keelancook.com/2018/05/why-do-we-need-to-confess-our-sin-to-others.html). In that piece, I only considered one side of that paradigm: that of the confessor. But there is a second piece that is equally important: What is an appropriate response when someone confesses their sin to us?
+Recently, I wrote about [why I think it's important to confess our sins to fellow believers](https://keelancook.com/why-do-we-need-to-confess-our-sin-to-others/). In that piece, I only considered one side of that paradigm: that of the confessor. But there is a second piece that is equally important: What is an appropriate response when someone confesses their sin to us?
 
 We have all kinds of natural reactions to sin—whether it's our own or someone else's. But often we have stronger reactions to the sin of others than our own. When someone we love sins, we likely feel a whole host of emotions: anger, hurt, grief, outrage, frustration, betrayal...to name a few. When we ourselves sin, we may feel all of those things but we also may be quicker to expect grace from others than we are willing to give when someone confesses their sin to us.
 

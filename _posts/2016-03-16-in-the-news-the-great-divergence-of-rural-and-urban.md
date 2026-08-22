@@ -40,7 +40,7 @@ This take away should be obvious. With the swelling populations in cities, we ne
 
 If your church is in a city center, evaluate your ministry model and answer the tough questions about growth. Are you growing? If so, is it by conversion and baptism or is it by transfer of believers into the city looking for a church?
 
-In addition, we all need to embrace urban (and suburban) church planting. Too often, [existing churches treat church plants like competition](http://blog.keelancook.com/2015/11/cooperation-or-competition-does-your-church-play-nice-with-others.html). That is simply not the case, especially when [cities are a diverse as they are](http://blog.keelancook.com/2016/02/why-no-single-church-can-reach-a-city.html). Local churches need to support and send in order to plant churches. This can be done by churches no matter where they are located.
+In addition, we all need to embrace urban (and suburban) church planting. Too often, [existing churches treat church plants like competition](https://keelancook.com/cooperation-or-competition-does-your-church-play-nice-with-others/). That is simply not the case, especially when [cities are a diverse as they are](https://keelancook.com/why-no-single-church-can-reach-a-city/). Local churches need to support and send in order to plant churches. This can be done by churches no matter where they are located.
 
 **Rural ministry must look different.**
 

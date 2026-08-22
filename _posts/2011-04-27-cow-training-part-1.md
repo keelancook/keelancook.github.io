@@ -63,8 +63,8 @@ If you find your yoke too heavy to bear, Jesus offers you a way out. But you mus
 
 \* _If you want to read about some more of my Aha moments, here are links to some others._
 
-- [On Polygamy](http://blog.keelancook.com/2010/04/on-polygamy/ "On Polygamy")
-- [I'll take the cheap seats](http://blog.keelancook.com/2010/05/ill-take-the-cheap-seats/ "I’ll take the cheap seats")
-- [Lessons from the little kids](http://blog.keelancook.com/2010/07/lessons-from-the-little-kids/ "Lessons from the little kids")
+- [On Polygamy](https://keelancook.com/on-polygamy/ "On Polygamy")
+- [I'll take the cheap seats](https://keelancook.com/ill-take-the-cheap-seats/ "I’ll take the cheap seats")
+- [Lessons from the little kids](https://keelancook.com/lessons-from-the-little-kids/ "Lessons from the little kids")
 
 Content Copyright © 2010-2011, C. Keelan Cook. All rights reserved.

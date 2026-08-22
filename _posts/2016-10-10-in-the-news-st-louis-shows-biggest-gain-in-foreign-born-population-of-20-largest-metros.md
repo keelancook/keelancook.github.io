@@ -20,7 +20,7 @@ The US Census bureau released new data at the end of September, and I thought it
 
 Apparently, St. Louis wins the trophy for biggest gains in foreign-born population. What is more, they are actively trying to recruit them.
 
-I have discussed other articles that talk about [cities trying to attract foreign-born residents](http://blog.keelancook.com/2015/09/in-the-news-why-american-cities-are-fighting-to-attract-immigrants.html), and this article makes the same point. Contrary to a great deal of popular rhetoric out there (especially surrounding the political campaigns), much data is indicating that increases in foreign-born residents actually strengthen economies in these cities. That is one big reason that many major cities are now in a race to win these residents to their area.
+I have discussed other articles that talk about [cities trying to attract foreign-born residents](https://keelancook.com/in-the-news-why-american-cities-are-fighting-to-attract-immigrants/), and this article makes the same point. Contrary to a great deal of popular rhetoric out there (especially surrounding the political campaigns), much data is indicating that increases in foreign-born residents actually strengthen economies in these cities. That is one big reason that many major cities are now in a race to win these residents to their area.
 
 Foreign-born residents are much more likely to start their own business. In fact, they are currently [twice as likely to start a business as American-born residents](http://www.inc.com/magazine/201502/adam-bluestein/the-most-entrepreneurial-group-in-america-wasnt-born-in-america.html). There is no wonder cities want immigrants.
 

@@ -35,7 +35,7 @@ When something becomes precious to you, it is hard to let go of it. Perhaps you 
 
 I had a great reminder of this yesterday.
 
-In the five years prior to my term in Africa, I led a college ministry at my church. As a matter of fact, I helped start the college ministry. In the beginning there were two or three kids who wanted to do a Bible study, and we started to meet together. We never imagined it would blossom into a big, vibrant ministry, but it did. And it changed my life. As a matter of fact, it was this college ministry that redirected [my life's course](http://blog.keelancook.com/why-a-tree "Why a tree?") and God used it to show me who he wanted me to be.
+In the five years prior to my term in Africa, I led a college ministry at my church. As a matter of fact, I helped start the college ministry. In the beginning there were two or three kids who wanted to do a Bible study, and we started to meet together. We never imagined it would blossom into a big, vibrant ministry, but it did. And it changed my life. As a matter of fact, it was this college ministry that redirected my life's course and God used it to show me who he wanted me to be.
 
 Week after week, for years, I taught my students, I prayed with them, I listened when they were hurt and life was hard, I played with them, and I watched them grow up. We lived life together, and it was my most valuable thing.
 

@@ -21,7 +21,7 @@ Jason and his team of heroes had the Argo, the X-Men had their Blackbird, the A-
 
 With muffler smoking and belts squealing, you struck fear into the hearts of parents everywhere. Cruising the streets on bald tires, you were more than an automobile, you were a symbol of hope in a dark world. For it was you who made church youth trips possible.
 
-Summer after summer you would faithfully escort youth to camp, only to bring them back safely while they pined for their newfound [camp romance](http://blog.keelancook.com/2011/06/heres-to-you-church-camp-romance.html "Here’s to you: Church camp romance"). You spent many a long Friday night barreling down the road with [SKA music](http://blog.keelancook.com/2011/04/heres-to-you-christian-ska-music.html "Here’s to you: Christian ska music") blaring on your only remaining speaker and students fidgeting in anticipation for the concert they were approaching.
+Summer after summer you would faithfully escort youth to camp, only to bring them back safely while they pined for their newfound [camp romance](https://keelancook.com/heres-to-you-church-camp-romance/ "Here’s to you: Church camp romance"). You spent many a long Friday night barreling down the road with [SKA music](https://keelancook.com/heres-to-you-christian-ska-music/ "Here’s to you: Christian ska music") blaring on your only remaining speaker and students fidgeting in anticipation for the concert they were approaching.
 
 Like a silent Sunday School teacher, you instructed us in the ways of life. You taught us about patience when you would break down in the middle of nowhere on the interstate. You taught us to share; after all, you only had one backseat. Most importantly, you taught us how to synchronize our need to use the bathroom with 14 other people.
 
@@ -33,4 +33,4 @@ Thanks for the memories.
 
 Here's to you 15-passenger church van!
 
-_P.S. If you have no clue what this post is about, check out the [first one](http://blog.keelancook.com/2011/03/heres-to-you/ "Here’s to you!")!_
+_P.S. If you have no clue what this post is about, check out the [first one](https://keelancook.com/heres-to-you/ "Here’s to you!")!_

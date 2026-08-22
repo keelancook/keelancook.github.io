@@ -17,7 +17,7 @@ beforetoc:
 toc: false
 ---
 
-Back in February, I wrote about the multi-faceted message of the gospel and its translatability into any culture. Cultures tend to focus on one of three paradigms: guilt (that's ours), fear, or shame. Right in the pages of the Bible, the gospel speaks to all of these. We just tend to miss it, because we are focused on how the gospel speaks to guilt. But, [the gospel is a three-fold message of salvation](http://blog.keelancook.com/2017/02/three-fold-message-of-salvation.html).
+Back in February, I wrote about the multi-faceted message of the gospel and its translatability into any culture. Cultures tend to focus on one of three paradigms: guilt (that's ours), fear, or shame. Right in the pages of the Bible, the gospel speaks to all of these. We just tend to miss it, because we are focused on how the gospel speaks to guilt. But, [the gospel is a three-fold message of salvation](https://keelancook.com/three-fold-message-of-salvation/).
 
 Today, I want to provide you with a great infographic on this issue. This free missiographic from the good folk at [gmi.org](http://www.gmi.org/) is a simple but effective resource to visualize the three-fold dynamic and how it relates to the gospel.
 

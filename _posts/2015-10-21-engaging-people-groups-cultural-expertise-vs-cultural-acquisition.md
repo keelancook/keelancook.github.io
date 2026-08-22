@@ -27,7 +27,7 @@ Working with people groups here in the States must follow the same process. Unfo
 
 ## **Limited expertise is not a deal-breaker**
 
-In fact, it may be an advantage. [I have written on this before.](http://blog.keelancook.com/2015/07/how-to-be-a-missionary-without-being-a-missionary.html "How to be a Missionary Without Being a “Missionary”") Ironically, a lack of understanding about international cultures can give you a real reason to begin dialogue. Too many times, people tell me they are nervous about meeting international newcomers. They are afraid they will not be able to share with them or that they might offend them. This kind of fear is understandable, but is no excuse to avoid the people groups around our local churches. Often, churches that see a need to reach out to these people groups feel they must find someone who is an expert in that culture to do it. Instead, we need a paradigm shift.
+In fact, it may be an advantage. [I have written on this before.](https://keelancook.com/how-to-be-a-missionary-without-being-a-missionary/ "How to be a Missionary Without Being a “Missionary”") Ironically, a lack of understanding about international cultures can give you a real reason to begin dialogue. Too many times, people tell me they are nervous about meeting international newcomers. They are afraid they will not be able to share with them or that they might offend them. This kind of fear is understandable, but is no excuse to avoid the people groups around our local churches. Often, churches that see a need to reach out to these people groups feel they must find someone who is an expert in that culture to do it. Instead, we need a paradigm shift.
 
 ## **Think of acquisition as a journey**
 

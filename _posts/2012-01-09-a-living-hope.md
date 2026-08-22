@@ -30,7 +30,7 @@ He starts off by praising God, "Blessed be the God and Father of our Lord Jesus 
 
 You see, in God's mercy, he did something he did not have to do. He caused us to be born again.
 
-But before we get lost in our 21st century, evangelical definition of that term (or lack of definition), let us look at what Peter has to say about it. He does not simply say we are "born again," using it as some tagline for church attenders. He does not merely slap this phrase on someone who [walked an aisle](http://blog.keelancook.com/2011/10/baptist-witchcraft.html "Baptist witchcraft") and repeated a prayer.
+But before we get lost in our 21st century, evangelical definition of that term (or lack of definition), let us look at what Peter has to say about it. He does not simply say we are "born again," using it as some tagline for church attenders. He does not merely slap this phrase on someone who [walked an aisle](https://keelancook.com/baptist-witchcraft/ "Baptist witchcraft") and repeated a prayer.
 
 Instead, he uses the term to imply exactly what it says. It is a rebirth. Something that was, in its first state, dead is now reborn. What did not breathe now has breathe. Life came to something that had no life, and it came through a resurrection, the resurrection of Christ.
 

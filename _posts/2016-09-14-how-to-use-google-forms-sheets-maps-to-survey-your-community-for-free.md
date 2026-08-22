@@ -20,13 +20,13 @@ Every church needs to know the community around them. Many churches today knew t
 
 Many (I would guess most) neighborhoods look different today than they did 10-15 years ago. In many places immigration has brought the nations into our neighborhoods. Today your new neighbor is as likely to come from Dehli as from Delaware. Nowadays, we have Hindu neighbors, Buddhist neighbors, Muslim neighbors, and all kinds of things in between.
 
-And for those few neighborhoods that are not seeing international influx, they are nevertheless in transition. [Gentrification is redrawing boundary lines](http://blog.keelancook.com/2016/08/in-the-news-when-gentrification-is-really-a-shift-in-boundaries.html) for neighborhoods and there is a likely chance your community has different culture and values than it did before. If you ever plan to do effective ministry where you sit, then you need to know.
+And for those few neighborhoods that are not seeing international influx, they are nevertheless in transition. [Gentrification is redrawing boundary lines](https://keelancook.com/in-the-news-when-gentrification-is-really-a-shift-in-boundaries/) for neighborhoods and there is a likely chance your community has different culture and values than it did before. If you ever plan to do effective ministry where you sit, then you need to know.
 
 When I speak and teach on these transitions, it is most often met with wholehearted agreement and confused looks concerning where to start.
 
 ### **Every Church Can Research Their Neighborhood**
 
-At this point, it is too common to number. Virtually everywhere I go to work with churches or conventions, I meet people who feel they lack the expertise to do people group discovery in their community. This is simply not true. [We do not need cultural expertise to start the mission; we simply need to be learners.](http://blog.keelancook.com/2015/10/engaging-people-groups-cultural-expertise-vs-cultural-acquisition.html)
+At this point, it is too common to number. Virtually everywhere I go to work with churches or conventions, I meet people who feel they lack the expertise to do people group discovery in their community. This is simply not true. [We do not need cultural expertise to start the mission; we simply need to be learners.](https://keelancook.com/engaging-people-groups-cultural-expertise-vs-cultural-acquisition/)
 
 We have done ourselves as disservice in Evangelical denominations by convincing ourselves that ministry requires "ministry specialists." [This is not true for evangelism.](https://amzn.to/2y93ieZ) [It is not true for discipleship.](https://amzn.to/3aoTsEd) [It is not true for missions.](https://amzn.to/2WPNd8q) And it is not true for people group discovery around your church. While special research from agencies or institutions can be helpful from time to time, what a church really needs to do is go out into their own community and collect their own information. And honestly, it is not hard to do.
 

@@ -15,7 +15,7 @@ beforetoc:
 toc: false
 ---
 
-Adult Americans have a real hard time making friends, at least [that is what most recent research claims](http://blog.keelancook.com/2015/11/chiming-in-how-our-housing-choices-make-adult-friendships-more-difficult.html)). There are reasons. Interpersonally speaking, our lifestyle choices have hemmed us in. The shift in America toward single-family housing, the total dependence on automobiles, and the seemingly endless amount of land we have to develop spreads us out and walls us in. While it all makes sense, it certainly has its downsides.
+Adult Americans have a real hard time making friends, at least [that is what most recent research claims](https://keelancook.com/chiming-in-how-our-housing-choices-make-adult-friendships-more-difficult/)). There are reasons. Interpersonally speaking, our lifestyle choices have hemmed us in. The shift in America toward single-family housing, the total dependence on automobiles, and the seemingly endless amount of land we have to develop spreads us out and walls us in. While it all makes sense, it certainly has its downsides.
 
 This walling off of people from each other has significant social consequences. It is most likely one reason our cultural and political views are increasingly atomized. Many people only participate in interpersonal relationships with people who are like them. If we choose not to, we no longer have to interact with people different than us. It also leaves people with a sense of loneliness, despite the fact that we are more connected than ever through a web of social media.
 
@@ -33,7 +33,7 @@ We all need those spaces.
 
 ### You need some third places.
 
-If we take serious the call to make disciples, then we must grasp the significance of third places. A study in 2013 noted that "[20 percent of non-Christians in North America really do not ‘personally know’ any Christians](http://blog.keelancook.com/2015/10/in-the-news-the-craziest-statistic-youll-read-about-north-american-missions.html)." Simply put, that is not okay.
+If we take serious the call to make disciples, then we must grasp the significance of third places. A study in 2013 noted that "[20 percent of non-Christians in North America really do not ‘personally know’ any Christians](https://keelancook.com/in-the-news-the-craziest-statistic-youll-read-about-north-american-missions/)." Simply put, that is not okay.
 
 This is one of those issues where it is easy to point fingers at the generic Christian culture, but that will not solve such an interpersonal issue. Instead, we need to ask ourselves if we are part of the problem. If you have ever complained about struggling to share the gospel because you do not know any lost people personally, then this is for you.
 
@@ -41,10 +41,10 @@ So, do you have any third places?
 
 This is not the same as frequenting a restaurant drive-thru. I am not asking you if you ever go do anything fun, I am asking you if you have places outside of your home and work where you invest time. Do you have places where you get to know people other than your family and coworkers? Other than your local church? Perhaps the reason one out of every five Americans do not personally know a Christian is because we are not too good at getting to know people different than us.
 
-And that is a shame, because according to research [people do not actually hate talking about their faith](http://blog.keelancook.com/2016/07/share-your-faith-more-research-says-so.html). Despite our fear that everyone around us is antagonistic to a conversation about the gospel, it appears many more people are open to the idea than we might imagine. 
+And that is a shame, because according to research [people do not actually hate talking about their faith](https://keelancook.com/share-your-faith-more-research-says-so/). Despite our fear that everyone around us is antagonistic to a conversation about the gospel, it appears many more people are open to the idea than we might imagine. 
 
 ### Merely going to a third place isn't evangelism.
 
-Let us recap. Third places are important. You need a third place. But, simply having a third place does not mean you are "on mission." Merely being in the same location as lost people is not evangelism. Having a nice conversation with someone, even a deep conversation, is great, but it is not evangelism unless you are actually sharing the gospel. We love the idea of relationship evangelism, but [a word of caution needs to be said](http://blog.keelancook.com/2015/09/a-word-of-caution-concerning-relationship-evangelism.html). By all means have those conversations. Develop relationships with people, genuine relationships, that demonstrate love of neighbor. Just be quick to share the gospel.
+Let us recap. Third places are important. You need a third place. But, simply having a third place does not mean you are "on mission." Merely being in the same location as lost people is not evangelism. Having a nice conversation with someone, even a deep conversation, is great, but it is not evangelism unless you are actually sharing the gospel. We love the idea of relationship evangelism, but [a word of caution needs to be said](https://keelancook.com/a-word-of-caution-concerning-relationship-evangelism/). By all means have those conversations. Develop relationships with people, genuine relationships, that demonstrate love of neighbor. Just be quick to share the gospel.
 
 Now, go find some third places, and make sure the gospel is on your lips.

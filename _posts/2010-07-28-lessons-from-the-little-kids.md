@@ -19,7 +19,7 @@ Africa has a bunch of kids, and I think about half of them follow me around on a
 
 In all honesty, over half of the population in my country is under the age of 25, and it seems that there are at least 20 little kids for every adult. Kids are everywhere.
 
-I have written before about the methods used in [raising livestock](http://blog.keelancook.com/2010/03/sheep/ "Sheep") in this part of Africa, and the methods used for children appear to be strikingly similar. However, the end results are quite different. Even if the children here are “free ranged,” so to speak, they have taught me many things over the past nine months.
+I have written before about the methods used in [raising livestock](https://keelancook.com/sheep/ "Sheep") in this part of Africa, and the methods used for children appear to be strikingly similar. However, the end results are quite different. Even if the children here are “free ranged,” so to speak, they have taught me many things over the past nine months.
 
 For some odd reason, I thought you might want to here a few of these lessons. So, I compiled a list.
 

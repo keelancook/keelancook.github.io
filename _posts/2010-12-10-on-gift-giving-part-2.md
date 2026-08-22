@@ -18,7 +18,7 @@ beforetoc:
 toc: false
 ---
 
-It started while I was thinking of gift ideas for my friends here. As I mentioned in [my last post](http://blog.keelancook.com/2010/12/on-gift-giving-part-1/ "On gift-giving – Part 1"), very few people here celebrate Christmas, but there is a handful of people for which I am shopping.
+It started while I was thinking of gift ideas for my friends here. As I mentioned in [my last post](https://keelancook.com/on-gift-giving-part-1/ "On gift-giving – Part 1"), very few people here celebrate Christmas, but there is a handful of people for which I am shopping.
 
 Several of them are locals, and let me tell you something. If you think shopping for that cousin you barely know is a challenge, wait until you try to shop for someone from a completely different culture. Wandering the mud-caked aisles of the African market and looking for Christmas gifts is truly a unique experience.
 

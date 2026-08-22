@@ -18,7 +18,7 @@ toc: false
 
 Every now and then, I have an article on the internet reach out and slap me in the face. Today it was in a good way, and I wanted to share it with you.
 
-It is an article at Christianity Today by John Meador, pastor of First Baptist Euless, TX. In the article, John briefly outlines his churches transformation into a gospel-sharing machine. This is not the only article lately focused on the significance of sharing the gospel with our lost neighbors. The priority of evangelism in the mission of the church is getting a fresh look. [We may even be seeing the return of door-knocking](http://blog.keelancook.com/2017/09/is-door-knocking-making-a-comeback.html).
+It is an article at Christianity Today by John Meador, pastor of First Baptist Euless, TX. In the article, John briefly outlines his churches transformation into a gospel-sharing machine. This is not the only article lately focused on the significance of sharing the gospel with our lost neighbors. The priority of evangelism in the mission of the church is getting a fresh look. [We may even be seeing the return of door-knocking](https://keelancook.com/is-door-knocking-making-a-comeback/).
 
 Meador outlines seven convictions that changed their evangelism ministry, and they are good. Below are a few takeaways from the article, but I am going to encourage you to read it for yourself.
 

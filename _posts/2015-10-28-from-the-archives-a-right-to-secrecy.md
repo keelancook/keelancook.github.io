@@ -27,4 +27,4 @@ Where secrecy exists real fellowship cannot. Nevertheless, so many of us go thr
 
 \[/pullquote\]
 
-You can read the argument here: **[A Right to Secrecy](http://blog.keelancook.com/2012/08/a-right-to-secrecy.html)**
+You can read the argument here: **[A Right to Secrecy](https://keelancook.com/a-right-to-secrecy/)**

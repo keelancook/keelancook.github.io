@@ -33,7 +33,7 @@ Recently Lifeway produced a study on current trends in churches concerning the r
 
 - **Only 19% say they are doing anything overseas.** And inevitably, the result of not talking about the crisis is no action concerning the crisis. Globally, this is one of the biggest humanitarian disasters in generations, and there is surprisingly little being done in many churches.
 
-- **Even less (8%) are doing something at home.** I have written before about how [we do not have a refugee crisis in the US right now](http://blog.keelancook.com/2016/02/breaking-down-the-refugee-crisis.html). However, since it is on the news, it has become a political football to be tossed around. This has only incited the fear mentioned above and is resulting in a shockingly low number of churches who are willing to [reach the unreached refugees that are now in arms reach of their church](http://blog.keelancook.com/2015/10/peoples-next-door-what-are-you-going-to-do-about-it.html).
+- **Even less (8%) are doing something at home.** I have written before about how [we do not have a refugee crisis in the US right now](https://keelancook.com/breaking-down-the-refugee-crisis/). However, since it is on the news, it has become a political football to be tossed around. This has only incited the fear mentioned above and is resulting in a shockingly low number of churches who are willing to [reach the unreached refugees that are now in arms reach of their church](https://keelancook.com/peoples-next-door-what-are-you-going-to-do-about-it/).
 
  
 

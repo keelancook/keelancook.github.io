@@ -17,7 +17,7 @@ beforetoc:
 toc: false
 ---
 
-Recently I wrote about spiritual gifts and [using your gifts to serve the church](http://blog.keelancook.com/2017/01/one-church-many-gifts-or-how-should-i-serve-my-church.html). Today, I want to discuss a couple of issues with the whole spiritual gifts conversation.
+Recently I wrote about spiritual gifts and [using your gifts to serve the church](https://keelancook.com/one-church-many-gifts-or-how-should-i-serve-my-church/). Today, I want to discuss a couple of issues with the whole spiritual gifts conversation.
 
 Obviously, I do not mean that spiritual gifts are a problem, but if we are not careful we abuse the idea. Let me give you an example from my personal experience. Several years ago, I was part of the core team for a new church plant in my hometown. When considering the opportunity, I was told my main responsibilities would be assisting and teaching in the children’s ministry. There was just one problem: I did not feel specifically “called” to children’s ministry nor “gifted” in teaching. In fact, I almost backed out of working with the church altogether simply because I did not desire to do those things. Thankfully, advice from a more mature believer caused me to reconsider and I joined the team, serving in those areas I tried to avoid. I grew into it, and I found that I enjoyed teaching on Sunday mornings and helping those kids learn the Bible. And, the longer I served in that area, the more comfortable I became with teaching. While I still would not consider myself a particularly gifted teacher, I think the Lord gifted me to serve in that way to meet a need of the church.
 

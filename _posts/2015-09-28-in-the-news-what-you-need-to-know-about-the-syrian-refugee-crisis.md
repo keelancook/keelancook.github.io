@@ -21,7 +21,7 @@ toc: false
 
 \[caption id="attachment\_1092" align="aligncenter" width="4000"\][![Syrian_refugees_strike_at_the_platform_of_Budapest_Keleti_railway_station._Refugee_crisis._Budapest,_Hungary,_Central_Europe,_4_September_2015._(3)](images/469a2-syrian_refugees_strike_at_the_platform_of_budapest_keleti_railway_station._refugee_crisis._budapest_hungary_central_europe_4_september_2015._3.jpg)](https://keelancook.files.wordpress.com/2020/08/469a2-syrian_refugees_strike_at_the_platform_of_budapest_keleti_railway_station._refugee_crisis._budapest_hungary_central_europe_4_september_2015._3.jpg) Syrian refugees contained in Budapest\[/caption\]
 
-After my recent post on [how you should care about the Syrian refugee crisis](http://blog.keelancook.com/2015/09/when_borders_get_crossed.html), I thought I would point out a few articles as an update. The news on the issue has no shortage currently, and it seems every day or so another article is coming out talking about more drownings, people being forcibly removed from places, and others get shuffled around.
+After my recent post on [how you should care about the Syrian refugee crisis](https://keelancook.com/when-borders-get-crossed/), I thought I would point out a few articles as an update. The news on the issue has no shortage currently, and it seems every day or so another article is coming out talking about more drownings, people being forcibly removed from places, and others get shuffled around.
 
 If you're trying to get up to speed on the issue, here are a couple of articles to get you started:
 

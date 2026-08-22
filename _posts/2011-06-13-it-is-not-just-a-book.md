@@ -42,7 +42,7 @@ Last Friday, we finished chapter 5.
 
 Like any other week, we started with small talk and discussions of the past week’s study. We talked over the day to day things that happened in life that week, and one of the men present made a point to request prayer.
 
-_Several months ago, I wrote a post that discussed this man and people from his village. They were new believers, and the post actually foreshadows what you are about to see, if you would like to [read it](http://blog.keelancook.com/2011/03/the-lone-ranger-syndrome/ "The Lone Ranger syndrome")._
+_Several months ago, I wrote a post that discussed this man and people from his village. They were new believers, and the post actually foreshadows what you are about to see, if you would like to [read it](https://keelancook.com/the-lone-ranger-syndrome/ "The Lone Ranger syndrome")._
 
 It appears the local religious leadership in their village was starting to put some subtle pressure on them about their lack of participation in the town religion. Truly, as small as that village is, everyone in town knew they had become Christians. This was just the beginning stages of pressure that will inevitably get worse as the village realizes this small band of believers is serious about their commitment. In that moment, he seemed concerned about the reality that this would get worse as they moved forward. He was not dissuaded by any means, but asked for prayer as they stayed the course.
 

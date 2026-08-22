@@ -26,4 +26,4 @@ Here on the website, you will find continued resources for discovery and engagem
 
 Feel free to poke around the site and ask questions if you have any.
 
-For now, head over to the [Peoples Next Door homepage](http://blog.keelancook.com) and start!
+For now, head over to the Peoples Next Door homepage and start!

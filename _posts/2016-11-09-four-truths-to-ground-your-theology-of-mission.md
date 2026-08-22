@@ -16,7 +16,7 @@ beforetoc:
 toc: false
 ---
 
-As I wrote in my last post, studying missions is an important part of actually doing missions. There is a cognitive aspect to everything we do. Therefore, what we study about missions affects how we actually do missions. [The Bible has a lot to say](http://blog.keelancook.com/2016/10/a-snapshot-biblical-theology-of-missions.html) about the mission of God and the church’s role in that mission. There is another component to studying mission: the actual theology we glean from what the Bible says. Our theology comes from our interpretation of the Bible, and everyone interprets the Bible whether they realize it or not. There are theological interpretations of Bible’s bases for missions. I’ve listed a few below.
+As I wrote in my last post, studying missions is an important part of actually doing missions. There is a cognitive aspect to everything we do. Therefore, what we study about missions affects how we actually do missions. [The Bible has a lot to say](https://keelancook.com/a-snapshot-biblical-theology-of-missions/) about the mission of God and the church’s role in that mission. There is another component to studying mission: the actual theology we glean from what the Bible says. Our theology comes from our interpretation of the Bible, and everyone interprets the Bible whether they realize it or not. There are theological interpretations of Bible’s bases for missions. I’ve listed a few below.
 
 ### The doctrine of the Trinity informs missions.
 

@@ -16,7 +16,7 @@ toc: false
 
 Love your enemies.
 
-That's a tall order, but it is exactly what Jesus expects of his followers. In his most famous of sermon's Jesus lays out a kingdom ethic for his followers. In Matthew 5, he underscores a clear expectation of his disciples: [Christians love their enemies.](https://blog.keelancook.com/2018/08/but-i-tell-you-love-your-enemies.html) It's counter intuitive, counter cultural, and seems down right backwards to what common sense would tell us. And yet, that is exactly the ethic we adopt as Christ followers.
+That's a tall order, but it is exactly what Jesus expects of his followers. In his most famous of sermon's Jesus lays out a kingdom ethic for his followers. In Matthew 5, he underscores a clear expectation of his disciples: [Christians love their enemies.](https://keelancook.com/but-i-tell-you-love-your-enemies/) It's counter intuitive, counter cultural, and seems down right backwards to what common sense would tell us. And yet, that is exactly the ethic we adopt as Christ followers.
 
 Jesus provides this uncommon understanding of how we deal with opposition and hatred, but I think we need to notice why. Jesus does not tell his followers to do this for pragmatic reasons.
 

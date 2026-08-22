@@ -30,7 +30,7 @@ You heard the guy. 200,000 people from India, Pakistan, Bangladesh and Nepal all
 
 And Houston is just one of the many cities in the US that is home to a large South Asian population. At the beginning of the video, the DJ claims that this Little India in Houston is the best Little India in America. There are others, we have one in Raleigh, and there may be one near you.
 
-I beat this drum all the time, but this is a Great Commission opportunity. The world's most concentrated lostness is found in South Asia, and here are hundreds of thousands of South Asians within driving distance of evangelical churches. Of course, missions to this South Asian diaspora is going to look different in a lot of ways than the traditional ministry of a church. But, it can and should be done. If you have no idea where to start, check out [these resources](http://blog.keelancook.com/resources).
+I beat this drum all the time, but this is a Great Commission opportunity. The world's most concentrated lostness is found in South Asia, and here are hundreds of thousands of South Asians within driving distance of evangelical churches. Of course, missions to this South Asian diaspora is going to look different in a lot of ways than the traditional ministry of a church. But, it can and should be done. If you have no idea where to start, check out these resources.
 
 ### **Similar people groups often cluster.**
 

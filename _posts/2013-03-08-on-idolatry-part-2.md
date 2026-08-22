@@ -20,7 +20,7 @@ toc: false
 
 You are a slave to something.
 
-That was the point of my last post, and this post will make a lot more sense, if you go [read that one first](http://blog.keelancook.com/2013/03/on-idolatry-part-1.html). In sum, we are created to serve something. Everyone has a master, and they serve it with their life. Last week, I stated that even skeptics, those people who claim to serve nothing and no one, are really just deceiving themselves. Simply calling your "god" something else, does not mean you do not worship it.
+That was the point of my last post, and this post will make a lot more sense, if you go [read that one first](https://keelancook.com/on-idolatry-part-1/). In sum, we are created to serve something. Everyone has a master, and they serve it with their life. Last week, I stated that even skeptics, those people who claim to serve nothing and no one, are really just deceiving themselves. Simply calling your "god" something else, does not mean you do not worship it.
 
 However, this week, my sights are aimed at those of us who actually claim to serve a god. In specific, those of us who claim to serve Christ.
 
