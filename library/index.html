@@ -557,6 +557,7 @@ a.resource-card:hover .card-arrow {
   gap: 40px;
   margin-top: 64px;
   flex-wrap: wrap;
+  scroll-margin-top: 80px;
 }
 
 .email-banner-text { flex: 1; min-width: 220px; }
@@ -931,10 +932,33 @@ a.resource-card:hover .card-arrow {
   <div class="section-head">
     <h2 class="section-title">Global Missions</h2>
     <div class="section-rule"></div>
-    <span class="section-count">2 resources</span>
+    <span class="section-count">3 resources</span>
   </div>
 
   <div class="resource-grid">
+
+    <a href="/library/trip-security-checklist/" class="resource-card" data-cats="missions guide">
+      <div class="card-band band-2"></div>
+      <div class="card-body">
+        <div class="card-top">
+          <div class="card-tags">
+            <span class="card-type">Global Missions</span>
+            <span class="card-format">Checklist</span>
+          </div>
+          <span class="new-badge">New</span>
+        </div>
+        <div class="card-title">Short-Term Trip Security Checklist</div>
+        <p class="card-desc">A conversation guide for trip leaders and sending church leaders to work through with the field contact before finalizing plans for a short-term mission trip. Covers threat context, social media, photos, devices, and communication back home.</p>
+        <div class="card-footer">
+          <span class="card-cta">Use the Checklist</span>
+          <div class="card-arrow">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="#232B5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </a>
 
     <div class="resource-card soon" data-cats="missions guide">
       <div class="card-band band-2"></div>
@@ -1050,7 +1074,7 @@ a.resource-card:hover .card-arrow {
     (action .../m2ol0d) — already configured with the redirect left
     blank and the right list.
   -->
-  <div class="email-banner">
+  <div class="email-banner" id="subscribe">
     <div class="email-banner-text">
       <div class="email-banner-eyebrow">Stay in the loop</div>
       <div class="email-banner-title">New resources, when they're ready.</div>

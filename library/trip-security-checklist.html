@@ -1,0 +1,562 @@
+---
+layout: null
+title: Short-Term Trip Security Checklist
+canonical: https://keelancook.com/library/trip-security-checklist/
+permalink: /library/trip-security-checklist/
+meta-description: A field-contact conversation checklist for trip leaders and sending church leaders to complete before a short-term mission trip.
+meta-og:title: Short-Term Trip Security Checklist – Keelan Cook
+meta-og:description: A field-contact conversation checklist for trip leaders and sending church leaders to complete before a short-term mission trip.
+meta-twitter:card: summary_large_image
+meta-twitter:title: Short-Term Trip Security Checklist – Keelan Cook
+meta-twitter:description: A field-contact conversation checklist for trip leaders and sending church leaders to complete before a short-term mission trip.
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Short-Term Trip Security Checklist | Keelan Cook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.sendfox.com/js/form.js" charset="utf-8"></script>
+
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:   #232B5B;
+  --teal:   #00587E;
+  --accent: #68939E;
+  --light:  #A8C5CE;
+  --offwht: #F6F5F3;
+  --rule:   #E2E0DC;
+  --dgray:  #333333;
+  --mgray:  #666666;
+  --lgray:  #999999;
+  --white:  #ffffff;
+
+  --serif:  'Lora', Georgia, serif;
+  --sans:   'Open Sans', system-ui, sans-serif;
+
+  --page-max: 780px;
+  --radius: 6px;
+}
+
+html { font-size: 16px; scroll-behavior: smooth; }
+body { font-family: var(--sans); background: var(--offwht); color: var(--dgray); line-height: 1.6; min-height: 100vh; }
+
+/* Header */
+.site-header {
+  background: var(--navy); padding: 0 40px; height: 60px;
+  display: flex; align-items: center; justify-content: space-between;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-brand {
+  font-family: var(--serif); font-size: 1.1rem; color: var(--white);
+  text-decoration: none; letter-spacing: 0.01em; flex-shrink: 0;
+  display: flex; align-items: center; gap: 10px;
+}
+.header-logo { height: 36px; width: auto; display: block; flex-shrink: 0; }
+.header-nav { display: flex; align-items: center; gap: 24px; }
+.header-back {
+  font-family: var(--sans); font-size: 0.75rem; font-weight: 600;
+  color: rgba(255,255,255,0.65); text-decoration: none; letter-spacing: 0.04em;
+  transition: color 0.15s; display: flex; align-items: center; gap: 5px;
+}
+.header-back:hover { color: var(--white); }
+@media (max-width: 600px) {
+  .site-header { padding: 0 20px; }
+  .header-back span { display: none; }
+}
+
+.page-wrap { max-width: var(--page-max); margin: 0 auto; padding: 0 24px 80px; }
+
+/* Intro */
+#screen-intro { padding-top: 48px; }
+.intro-eyebrow { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; }
+.intro-title { font-family: var(--serif); font-size: clamp(1.7rem, 4.4vw, 2.4rem); font-weight: 700; color: var(--navy); line-height: 1.15; margin-bottom: 10px; }
+.intro-rule { width: 48px; height: 3px; background: var(--accent); margin: 20px 0 24px; }
+.intro-body { font-family: var(--serif); font-style: italic; font-size: 1.02rem; color: var(--mgray); line-height: 1.75; margin-bottom: 24px; max-width: 620px; }
+
+.privacy-box {
+  background: #F0F5F2; border-left: 4px solid #4a8a5c; border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 22px; margin-bottom: 20px; display: flex; gap: 14px; align-items: flex-start;
+}
+.privacy-icon { flex-shrink: 0; margin-top: 2px; color: #4a8a5c; }
+.privacy-text { font-size: 0.85rem; color: #395c42; line-height: 1.6; }
+.privacy-text strong { color: #2b4a33; }
+
+.security-box {
+  background: #FBF3DC; border-left: 4px solid #a67c00; border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 22px; margin-bottom: 28px; display: flex; gap: 14px; align-items: flex-start;
+}
+.security-icon { flex-shrink: 0; margin-top: 2px; color: #a67c00; }
+.security-text { font-size: 0.85rem; color: #5c4400; line-height: 1.6; }
+.security-text strong { color: #3d2d00; }
+
+.intake-fields {
+  background: var(--white); border-radius: var(--radius); border: 1px solid var(--rule);
+  padding: 22px 24px; margin-bottom: 32px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px;
+}
+@media (max-width: 500px) { .intake-fields { grid-template-columns: 1fr; } }
+.intake-field label { display: block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 6px; }
+.intake-field input {
+  width: 100%; font-family: var(--sans); font-size: 0.9rem; padding: 10px 12px;
+  border: 1.5px solid var(--rule); border-radius: var(--radius); outline: none; transition: border-color 0.15s;
+}
+.intake-field input:focus { border-color: var(--accent); }
+
+/* Section cards */
+.checklist-section { margin-bottom: 32px; }
+
+.section-header {
+  background: var(--navy); border-radius: var(--radius) var(--radius) 0 0;
+  padding: 16px 24px; position: relative; overflow: hidden;
+}
+.section-header.teal-bg { background: var(--teal); }
+.section-header.mid-bg { background: #00476a; }
+.section-header.deep-bg { background: #1a2249; }
+.section-header-ghost {
+  position: absolute; right: -4px; top: -10px; font-family: var(--serif);
+  font-size: 4.5rem; font-weight: 700; color: rgba(255,255,255,0.07); line-height: 1;
+  user-select: none; pointer-events: none;
+}
+.section-header-eyebrow { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--light); margin-bottom: 4px; position: relative; z-index: 1; }
+.section-header-name { font-family: var(--serif); font-size: 1.4rem; font-weight: 700; color: var(--white); position: relative; z-index: 1; }
+
+.checklist-body { background: var(--white); border-radius: 0 0 var(--radius) var(--radius); padding: 8px 0; }
+
+.check-item {
+  display: flex; align-items: flex-start; gap: 14px;
+  padding: 16px 24px; border-bottom: 1px solid var(--rule);
+}
+.check-item:last-child { border-bottom: none; }
+
+.check-box-wrap { flex-shrink: 0; padding-top: 2px; position: relative; }
+.check-box-wrap input[type="checkbox"] {
+  position: absolute; opacity: 0; width: 22px; height: 22px; margin: 0; cursor: pointer;
+}
+.check-box-visual {
+  width: 22px; height: 22px; border-radius: 4px; border: 1.5px solid var(--rule);
+  background: var(--offwht); display: flex; align-items: center; justify-content: center;
+  transition: all 0.15s; pointer-events: none;
+}
+.check-box-wrap input:checked + .check-box-visual {
+  background: var(--teal); border-color: var(--teal);
+}
+.check-box-wrap input:checked + .check-box-visual::after {
+  content: ''; width: 5px; height: 10px; border: solid var(--white);
+  border-width: 0 2px 2px 0; transform: rotate(45deg) translate(-1px, -1px);
+}
+.check-box-wrap input:focus-visible + .check-box-visual { border-color: var(--accent); }
+
+.check-content { flex: 1; }
+.check-question {
+  font-family: var(--serif); font-size: 0.95rem; color: var(--dgray); line-height: 1.55; margin-bottom: 8px;
+}
+.check-note {
+  width: 100%; min-height: 44px; font-family: var(--sans); font-size: 0.83rem; color: var(--dgray);
+  border: 1.5px solid var(--rule); border-radius: var(--radius); padding: 9px 11px;
+  resize: vertical; outline: none; transition: border-color 0.15s; line-height: 1.5;
+}
+.check-note:focus { border-color: var(--accent); }
+.check-note::placeholder { color: var(--lgray); }
+
+/* Actions */
+.actions-bar {
+  display: flex; gap: 10px; flex-wrap: wrap; margin: 12px 0 40px;
+}
+.btn-print {
+  display: inline-flex; align-items: center; gap: 8px; background: var(--teal); color: var(--white);
+  border: none; border-radius: var(--radius); padding: 13px 22px; font-family: var(--sans);
+  font-size: 0.8rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+  cursor: pointer; transition: background 0.2s;
+}
+.btn-print:hover { background: var(--navy); }
+
+.page-footer {
+  border-top: 1px solid var(--rule); padding-top: 20px; font-size: 0.75rem; color: var(--lgray);
+  display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+}
+.page-footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
+
+.subscribe-box {
+  background: var(--navy);
+  border-radius: var(--radius);
+  padding: 24px 26px;
+  margin: 4px 0 32px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.subscribe-box-text { flex: 1; min-width: 200px; }
+.subscribe-box-title {
+  font-family: var(--serif); font-size: 1.05rem; font-weight: 700; color: var(--white); margin-bottom: 4px;
+}
+.subscribe-box-body { font-size: 0.83rem; color: rgba(255,255,255,0.65); line-height: 1.5; }
+.subscribe-box-form-wrap { flex-shrink: 0; width: 280px; }
+@media (max-width: 500px) { .subscribe-box-form-wrap { width: 100%; } }
+
+.subscribe-box-sendfox { display: flex !important; flex-direction: column !important; gap: 8px !important; margin: 0 !important; padding: 0 !important; }
+.subscribe-box-sendfox p { margin: 0 !important; padding: 0 !important; }
+.subscribe-box-sendfox label { display: none !important; }
+.subscribe-box-sendfox input[type="email"] {
+  width: 100% !important; font-family: var(--sans) !important; font-size: 0.85rem !important;
+  padding: 10px 13px !important; margin: 0 !important; border: 1.5px solid rgba(255,255,255,0.18) !important;
+  border-radius: var(--radius) !important; outline: none !important; transition: border-color 0.15s !important;
+  color: var(--white) !important; background: rgba(255,255,255,0.08) !important; box-shadow: none !important;
+  -webkit-appearance: none !important; appearance: none !important;
+}
+.subscribe-box-sendfox input[type="email"]:focus { border-color: var(--accent) !important; }
+.subscribe-box-sendfox input[type="email"]::placeholder { color: rgba(255,255,255,0.32) !important; opacity: 1 !important; }
+.subscribe-box-sendfox button {
+  width: 100% !important; font-family: var(--sans) !important; font-size: 0.75rem !important; font-weight: 700 !important;
+  letter-spacing: 0.06em !important; text-transform: uppercase !important; padding: 11px 18px !important; margin: 0 !important;
+  background: var(--accent) !important; color: var(--white) !important; border: none !important;
+  border-radius: var(--radius) !important; cursor: pointer !important; transition: background 0.15s !important;
+  box-shadow: none !important; -webkit-appearance: none !important; appearance: none !important;
+}
+.subscribe-box-sendfox button:hover { background: var(--teal) !important; }
+
+@media print {
+  body { background: white; font-size: 11pt; }
+  .site-header, .actions-bar, .subscribe-box { display: none !important; }
+  .privacy-box, .security-box { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .section-header { -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; break-after: avoid; }
+  .checklist-section { break-inside: avoid-page; }
+  .page-footer { display: none; }
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="https://keelancook.com" class="site-header-brand">
+    <img src="/images/logo.png" alt="Keelan Cook" class="header-logo">
+    Keelan Cook
+  </a>
+  <div class="header-nav">
+    <a href="/library/" class="header-back">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+        <path d="M13 8H3M7 12l-4-4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>The Library</span>
+    </a>
+  </div>
+</header>
+
+<div class="page-wrap">
+
+  <div id="screen-intro">
+    <p class="intro-eyebrow">Resources for Church &amp; Missions</p>
+    <h1 class="intro-title">Short-Term Trip Security Checklist</h1>
+    <div class="intro-rule"></div>
+    <p class="intro-body">A conversation guide for trip leaders and sending church leaders to work through with the field contact before finalizing plans for a short-term mission trip.</p>
+
+    <div class="privacy-box">
+      <svg class="privacy-icon" width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path d="M12 2L4 6v6c0 5.5 3.8 10.7 8 12 4.2-1.3 8-6.5 8-12V6l-8-4z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <p class="privacy-text"><strong>Nothing here is stored on this website.</strong> Everything you type stays in your browser and disappears when you close the page. Print or save it as a PDF before you go.</p>
+    </div>
+
+    <div class="security-box">
+      <svg class="security-icon" width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path d="M12 9v4M12 17h.01M10.3 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L14.7 3.86a2 2 0 0 0-3.42 0z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <p class="security-text"><strong>Handle these answers carefully.</strong> Once filled out, this document may contain sensitive information about people and places. Don't send it over unencrypted channels unless your field contact has told you it's safe to do so. Use Signal or another private method to communicate, and always defer to your field contact's preferred way of communicating.</p>
+    </div>
+
+    <div class="intake-fields">
+      <div class="intake-field">
+        <label for="trip-name">Trip / Team Name</label>
+        <input type="text" id="trip-name" placeholder="e.g. Summer 2026 Team">
+      </div>
+      <div class="intake-field">
+        <label for="field-contact">Field Contact Name</label>
+        <input type="text" id="field-contact" placeholder="Who you're talking with">
+      </div>
+      <div class="intake-field">
+        <label for="sending-church">Sending Church</label>
+        <input type="text" id="sending-church" placeholder="Church name">
+      </div>
+      <div class="intake-field">
+        <label for="trip-dates">Trip Dates</label>
+        <input type="text" id="trip-dates" placeholder="e.g. June 2026">
+      </div>
+    </div>
+
+    <!-- ══════════════════════ THREAT CONTEXT ══════════════════════ -->
+    <div class="checklist-section">
+      <div class="section-header">
+        <div class="section-header-ghost">01</div>
+        <div class="section-header-eyebrow">Section One</div>
+        <div class="section-header-name">Threat Context</div>
+      </div>
+      <div class="checklist-body">
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q1"><label class="check-box-visual" for="q1"></label></div>
+          <div class="check-content">
+            <p class="check-question">What is the current security level for foreigners in this country or region, particularly those associated with religious work?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q2"><label class="check-box-visual" for="q2"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there specific government agencies, monitoring programs, or known surveillance practices we should be aware of?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q3"><label class="check-box-visual" for="q3"></label></div>
+          <div class="check-content">
+            <p class="check-question">Have previous teams had phones searched, inspected, detained, or confiscated at the border or in-country?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q4"><label class="check-box-visual" for="q4"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there specific apps, Signal, VPNs, Bible apps, religious content apps, that trigger scrutiny at the border in this country?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q5"><label class="check-box-visual" for="q5"></label></div>
+          <div class="check-content">
+            <p class="check-question">Is the security situation currently stable, or has it changed recently in ways that affect how we should prepare?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ══════════════════ SOCIAL MEDIA & COMMUNICATION ══════════════════ -->
+    <div class="checklist-section">
+      <div class="section-header teal-bg">
+        <div class="section-header-ghost">02</div>
+        <div class="section-header-eyebrow">Section Two</div>
+        <div class="section-header-name">Social Media &amp; Public Communication</div>
+      </div>
+      <div class="checklist-body">
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q6"><label class="check-box-visual" for="q6"></label></div>
+          <div class="check-content">
+            <p class="check-question">What is your policy for whether team members can post anything on social media during the trip?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q7"><label class="check-box-visual" for="q7"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there specific platforms that are particularly risky to have on a phone entering this country?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q8"><label class="check-box-visual" for="q8"></label></div>
+          <div class="check-content">
+            <p class="check-question">Can we name the country in prayer requests? The region? The city?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q9"><label class="check-box-visual" for="q9"></label></div>
+          <div class="check-content">
+            <p class="check-question">Should all team communication back home go through a private channel (like a Signal group), or are general public updates acceptable?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q10"><label class="check-box-visual" for="q10"></label></div>
+          <div class="check-content">
+            <p class="check-question">What language or terms should we avoid in any public or private communication, including in closed groups?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q11"><label class="check-box-visual" for="q11"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there code words or innocuous phrases your team uses for sensitive topics that we should adopt?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ══════════════════════ PEOPLE & PHOTOS ══════════════════════ -->
+    <div class="checklist-section">
+      <div class="section-header mid-bg">
+        <div class="section-header-ghost">03</div>
+        <div class="section-header-eyebrow">Section Three</div>
+        <div class="section-header-name">People &amp; Photos</div>
+      </div>
+      <div class="checklist-body">
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q12"><label class="check-box-visual" for="q12"></label></div>
+          <div class="check-content">
+            <p class="check-question">Can team members photograph local believers? Under what conditions, and with what level of consent required?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q13"><label class="check-box-visual" for="q13"></label></div>
+          <div class="check-content">
+            <p class="check-question">Can team members photograph you or other field workers? What is your preference?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q14"><label class="check-box-visual" for="q14"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there specific locations, buildings, neighborhoods, gathering places, that should never be photographed?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q15"><label class="check-box-visual" for="q15"></label></div>
+          <div class="check-content">
+            <p class="check-question">What is your protocol for photos after the team returns home? Is there a clearance process before anything is shared publicly?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q16"><label class="check-box-visual" for="q16"></label></div>
+          <div class="check-content">
+            <p class="check-question">Is there a waiting period after the trip before any photos or stories can be shared publicly?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ══════════════════════ DEVICES & APPS ══════════════════════ -->
+    <div class="checklist-section">
+      <div class="section-header">
+        <div class="section-header-ghost">04</div>
+        <div class="section-header-eyebrow">Section Four</div>
+        <div class="section-header-name">Devices &amp; Apps</div>
+      </div>
+      <div class="checklist-body">
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q17"><label class="check-box-visual" for="q17"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there apps you want every team member to have installed before arrival (Signal, VPN, etc.)?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q18"><label class="check-box-visual" for="q18"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there apps you want removed or hidden from home screens before arriving at the border?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q19"><label class="check-box-visual" for="q19"></label></div>
+          <div class="check-content">
+            <p class="check-question">What communication app will you use to contact our team in-country? Signal? WhatsApp? Something else?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q20"><label class="check-box-visual" for="q20"></label></div>
+          <div class="check-content">
+            <p class="check-question">Do you recommend a VPN for this context, and if so, do you have a preferred provider?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q21"><label class="check-box-visual" for="q21"></label></div>
+          <div class="check-content">
+            <p class="check-question">Are there concerns about cloud sync, location services, or specific phone settings we should address before we arrive?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ══════════════════════ COMMUNICATION BACK HOME ══════════════════════ -->
+    <div class="checklist-section">
+      <div class="section-header deep-bg">
+        <div class="section-header-ghost">05</div>
+        <div class="section-header-eyebrow">Section Five</div>
+        <div class="section-header-name">Communication Back Home</div>
+      </div>
+      <div class="checklist-body">
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q22"><label class="check-box-visual" for="q22"></label></div>
+          <div class="check-content">
+            <p class="check-question">How do you want us to handle prayer updates to supporters while the team is in-country?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q23"><label class="check-box-visual" for="q23"></label></div>
+          <div class="check-content">
+            <p class="check-question">Can we use a private Signal group for supporter updates?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q24"><label class="check-box-visual" for="q24"></label></div>
+          <div class="check-content">
+            <p class="check-question">What should we tell supporters they can and cannot post on our behalf while we are in-country?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q25"><label class="check-box-visual" for="q25"></label></div>
+          <div class="check-content">
+            <p class="check-question">How should we handle the church presentation and post-trip sharing? Would you want to review before we present publicly?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+        <div class="check-item">
+          <div class="check-box-wrap"><input type="checkbox" id="q26"><label class="check-box-visual" for="q26"></label></div>
+          <div class="check-content">
+            <p class="check-question">Is there anything from this trip that should remain permanently private, even after we return home?</p>
+            <textarea class="check-note" placeholder="Notes from the conversation..."></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="actions-bar">
+      <button class="btn-print" onclick="window.print()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
+          <path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6v-8z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Print / Save as PDF
+      </button>
+    </div>
+
+    <div class="subscribe-box">
+      <div class="subscribe-box-text">
+        <div class="subscribe-box-title">Want more tools like this?</div>
+        <div class="subscribe-box-body">Subscribe for new tools and guides, plus occasional articles and site updates.</div>
+      </div>
+      <div class="subscribe-box-form-wrap">
+        <form method="post" action="https://sendfox.com/form/1ye54o/m2ol0d" class="subscribe-box-sendfox sendfox-form" id="checklist-sendfox-form" data-async="true" data-recaptcha="true">
+          <p><label for="checklist-sendfox-email">Email: </label><input type="email" id="checklist-sendfox-email" placeholder="Your email address" name="email" required /></p>
+          <!-- no botz please -->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+          <p><button type="submit">Subscribe</button></p>
+        </form>
+      </div>
+    </div>
+
+    <div class="page-footer">
+      <span>© Keelan Cook · Free to share with attribution</span>
+      <a href="https://keelancook.com">keelancook.com</a>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
