@@ -227,6 +227,50 @@ body { font-family: var(--sans); background: var(--offwht); color: var(--dgray);
   .section-header { -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; break-after: avoid; }
   .checklist-section { break-inside: avoid-page; }
   .page-footer { display: none; }
+
+  /* The SendFox subscribe form (data-recaptcha="true") loads Google reCAPTCHA v3,
+     which injects a fixed-position .grecaptcha-badge directly under <body> —
+     outside .subscribe-box, so hiding the box above doesn't hide the badge.
+     It's the source of the bottom-right "shadow/box" artifact in printed output. */
+  .grecaptcha-badge { display: none !important; }
+
+  /* Chromium/WebKit will paint an empty textarea's placeholder text into
+     printed/PDF output even though it correctly stays invisible on screen.
+     Force it transparent so unfilled fields print as a clean blank line. */
+  .check-note::placeholder,
+  .intake-field input::placeholder { color: transparent !important; }
+
+  /* Un-style the fillable fields for print: no bordered/backgrounded UI boxes —
+     just a plain ruled line, so filled answers read as plain text and empty
+     ones read as a blank line rather than an empty gray box. */
+  .check-note {
+    border: none !important;
+    border-bottom: 1px solid var(--rule) !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    padding: 2px 0 6px !important;
+    min-height: 0 !important;
+    resize: none !important;
+  }
+  .intake-fields {
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+  }
+  .intake-field input {
+    border: none !important;
+    border-bottom: 1px solid var(--rule) !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    padding: 2px 0 6px !important;
+  }
+
+  /* Checkboxes are real content (what the trip leader marked as discussed),
+     just print-color-adjust them so a checked box still shows filled on paper. */
+  .check-box-visual { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  /* Keep a question and its answer field together across a page break. */
+  .check-item { break-inside: avoid; }
 }
 </style>
 </head>
