@@ -16,7 +16,9 @@ header:
   image: /assets/images/missions-partnership.jpg
 ---
 
-_In my last article, I covered several important benefits for a local church entering into a global missions partnership with a missionary team overseas. [Feel free to start there if you'd like](https://keelancook.com/2020/09/22/five-local-church-benefits-from-creating-a-global-missions-partnership/(opens in a new tab))._
+_In a previous article, I covered several important benefits for a local church entering into a global missions partnership with a missionary team overseas. [Feel free to start there if you'd like](https://keelancook.com/2020/09/22/five-local-church-benefits-from-creating-a-global-missions-partnership/(opens in a new tab))._
+
+Before returning to the seminary to teach and lead our missions center, I served in associational leadership in Houston, Texas. Our network of Baptist churches was one of the largest in North America, and my job was helping that network build and develop a cooperative missions strategy. It was a blast, but when I first arrived I was surprised by some things.
 
 To be honest, when I first arrived in Houston, I quickly became convinced many of the churches in Houston cared little about international missions. The conversation here in town has been loudly directed toward local church planting within the Houston metro, as opposed to sending planters to other places in the US or sending missionaries to plant churches among unreached peoples. While I've been very encouraged by the attention given to local church planting, this led me to make an unfortunate assumption, namely that global missions was low on the list of priorities for our churches.
 
