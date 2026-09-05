@@ -5,7 +5,7 @@ description: I travel to churches, associations, and conventions to teach on mis
 permalink: /speaking/
 ---
 
-<p>I get asked fairly often to teach or preach at a church, an association meeting, or a convention gathering. Sometimes it is a keynote, but more often I'm training or leadership a workshop or seminar. It usually looks like working through a topic with a room of pastors, staff, or lay leaders over the course of a weekend or a single session.</p>
+<p>I get asked fairly often to teach or preach at a church, an association meeting, or a convention gathering. Sometimes it is a keynote, but more often I'm leading a workshop or seminar. It usually looks like working through a topic with a room of pastors, staff, or lay leaders over the course of a weekend or a single session.</p>
 
 
 <h2>What I'm Usually Asked to Teach On</h2>
