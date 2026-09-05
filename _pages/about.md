@@ -14,6 +14,8 @@ Before we moved back to Wake Forest, we lived in Houston, TX where I served with
 
 I continue to do a lot of research and writing because of my particular ministry assignment, and I regularly pray it is a benefit to the local church. I hope this space provides an easy way to share that work with others and as a source of edification for you. If you want to know more about my current and previous work, feel free to browse my [Curriculum Vitae](https://keelancook.com/cv).
 
+I also travel to speak and train at churches and conferences on missions and church renewal. You can see what that typically looks like [on this page](https://keelancook.com/speaking).
+
 <div class="gallery-box">
   <div class="gallery gallery-column-3">
     <img src="/images/photos/clingman.jpg" loading="lazy">
