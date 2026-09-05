@@ -19,6 +19,15 @@ permalink: /speaking/
 
 </ul>
 
+<h2>A Few I've Already Built</h2>
+ 
+<p>Most of what's above gets shaped around whatever a specific church or gathering actually needs. I've been asked to do a few things frequently enough now that I've built them into something closer to a ready-to-bring format:</p>
+<ul>
+  <li><strong>Short-Term Mission Trip Training.</strong> A session for team leaders or short-term teams covering missions philosophy (why do we do short term trips?), field readiness, and the growing need for security practices. I use a <a href="/library/trip-security-checklist/">field-contact security checklist</a> from this training that you can use on your own.</li>
+  <li><strong>Great Commission Culture Weekend.</strong> A weekend built for a church or a leadership retreat, working through what it actually takes to move a congregation from occasional missions involvement to a sustained missionary identity.</li>
+  <li><strong>Evangelism and Outreach Seminar.</strong> A congregation-wide seminar on personal evangelism, aimed at giving ordinary church members confidence and a simple approach for sharing their faith.</li>
+</ul>
+
 <p>I get asked to speak about other stuff as well. If you are interested in something else and think I might be helpful, ask anyway. Most of what I teach grows out of the same handful of convictions about the church and the Great Commission, so there's usually more overlap than the list suggests.</p>
 
 
