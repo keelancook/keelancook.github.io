@@ -12,4 +12,4 @@ mastodon: https://mastodon.social/@keelan
 youtube:
 tiktok:
 ---
-George Liele Director of the Center for Great Commission Studies and an instructor of missiology at Southeastern Baptist Theological Seminary
+George Liele Director of the Center for Great Commission Studies and an assistant professor of missiology at Southeastern Baptist Theological Seminary
