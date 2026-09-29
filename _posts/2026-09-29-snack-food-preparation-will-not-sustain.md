@@ -87,6 +87,6 @@ Before you think I'm being critical of bloggers and podcasters, I am both. I coh
 
 When it comes to spiritual formation for missions, even a regular diet of thin resources is still a diet of snack food preparation, present website included. Increasing the quantity of blog posts or podcasts does not change what they are. It just means filling your formation with even more thin resources. They are no replacement for genuine, thick theological formation and ministry preparation. Digging deep and laying a true foundation for mission and ministry requires the hard work of serious preparation. It is not snack food you can just grab out of that mobile vending machine we all have in our pocket.
 
-[^1]: James R. Edwards, _The Gospel According to Luke_, Pillar New Testament Commentary (Grand Rapids: Eerdmans, 2015), 206.
+[^1]: James R. Edwards, [_The Gospel According to Luke_](https://link.amazon/B0jdJ7ZvD), Pillar New Testament Commentary (Grand Rapids: Eerdmans, 2015), 206.
 
-[^2]: Leon Morris, _Luke: An Introduction and Commentary_, Tyndale New Testament Commentaries (Downers Grove: IVP Academic, 1988), 148.
+[^2]: Leon Morris, [_Luke: An Introduction and Commentary_](https://link.amazon/B00c9UtWv), Tyndale New Testament Commentaries (Downers Grove: IVP Academic, 1988), 148.
