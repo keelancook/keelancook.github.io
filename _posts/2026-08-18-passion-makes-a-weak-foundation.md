@@ -7,7 +7,7 @@ categories:
   - spiritual formation
   - calling
 author: keelan
-featured: true
+featured: false
 hidden: false
 image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 image_caption: "Photo credit: Unsplash"
@@ -80,7 +80,7 @@ We see this happen. In fact, we may be guilty of it. I watch students fall into 
 
 Furthermore, the passion is real. It is genuine excitement. One goes on a trip somewhere, and it blows his mind. Another sits under a sermon about global lostness that wrecks her. A third student has a mentor who changes his life, and now he wants to be that for someone else. The spark is real, and it is good, but that does not automatically lead to obedience. Left to itself, passion makes a weak foundation.
 
-Think of passion like gasoline. Gasoline is good and essential, and your car does not run without it. Even so, gasoline is not the engine. Good gasoline in a bad engine will not get you very far.
+Think of passion like gasoline. Gasoline is good and essential, and your car does not run without it. Even so, gasoline is not the engine. Good gasoline in a bad engine will not get you very far. Furthermore, if our preparation [looks more like snack food than a diet of wholesome and shaping counsel](), then we have little to refill that tank.
 
 In Luke 6, Jesus's question points to that tension and reveals the difference between some thin, stated allegiance and a thick, genuine commitment to Jesus. Jesus addresses a person's character, the substance of their heart. The illustrations about the trees and the builders showcase people whose actions reveal what is in their hearts. Jesus is not merely asking about what you do; he's asking who you are.
 
